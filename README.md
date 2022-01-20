@@ -1,7 +1,6 @@
 Jeonhui Lee
 ============
 [Portfolio](https://Jeonhui.github.io/portfolio)
-------------
 ***
 
 
