@@ -25,7 +25,7 @@ Jeonhui Lee
 <p align="center">
  Contact
  <br>
- <img src="https://img.shields.io/badge/l06094@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=apprentice)
