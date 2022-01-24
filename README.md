@@ -22,7 +22,6 @@ Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 Contact  
- 
 [링크이름](https://xxx.com/xxx){:target="_blank"}
 
 [go](http://www.google.com){:target="_blank"}
