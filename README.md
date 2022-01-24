@@ -22,7 +22,7 @@ Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 Contact  
-[go](http://www.google.com){:target="_blank" rel="noopener"}
+[go](http://www.google.com){:target="_blank" rel="noopener"}  
 <a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dlwjsgml02@naver.com-0ABF53?style=flat-square&logo=Nintendo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jeon__hui__22-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
