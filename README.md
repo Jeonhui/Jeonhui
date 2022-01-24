@@ -24,7 +24,7 @@ Jeonhui Lee
 Contact   
 <img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dlwjsgml02@naver.com-0ABF53?style=flat-square&logo=Nintendo&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jeon_hui_22-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jeon'_hui'_22-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=apprentice)
 
