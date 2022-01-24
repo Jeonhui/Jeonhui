@@ -22,6 +22,9 @@ Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 Contact  
+ 
+[링크이름](https://xxx.com/xxx){:target="_blank"}
+
 [go](http://www.google.com){:target="_blank"}
 [<img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](https://google.com){:target="_blank"}
 <img src="https://img.shields.io/badge/dlwjsgml02@naver.com-0ABF53?style=flat-square&logo=Nintendo&logoColor=white"/></a>
