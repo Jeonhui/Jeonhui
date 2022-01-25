@@ -27,8 +27,16 @@ Contact
 <img src="https://img.shields.io/badge/jeon__hui__22-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=apprentice)
+
+```html
+<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
 ```
-<style></style>
+
+```css
+.list > li {
+  position: absolute;
+  top: 40px;
+}
 ```
 
 
