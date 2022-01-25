@@ -29,7 +29,7 @@ Contact
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=apprentice)
 
 ```html
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
+[<img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](https://google.com)
 ```
 
 ```css
