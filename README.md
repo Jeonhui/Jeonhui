@@ -1,11 +1,5 @@
 <img src="https://img.shields.io/badge/Jeonhui Lee-Hi-white?style=social">
 
-============
-
-### [Portfolio](https://Jeonhui.github.io/portfolio)
-***
-
-
 
 ### MySkills
 BootStrap & React.js  
