@@ -23,7 +23,7 @@ Languages
 
 algorithms  
 <img src="https://img.shields.io/badge/Baekjoon-Gold4-gold?style=flat-square"> #31A8FF
-<img src="https://img.shields.io/badge/Baekjoon-31A8FF?style=flat-square&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Baekjoon-31A8FF-Gold4?style=flat-square/></a>
 
 Contact  
 [<img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](l06094@gmail.com)
