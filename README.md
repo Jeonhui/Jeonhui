@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Jeonhui Lee-Hi?style=social">
+<img src="https://img.shields.io/badge/Hi-Jeonhui Lee-white?style=social">
 
 ============
 
