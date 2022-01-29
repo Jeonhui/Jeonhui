@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Jeonhui Lee-Hi-white?style=social">
+<img src="https://img.shields.io/badge/Jeonhui Lee-Hi-white?style=social&logoWidth=100">
 
 
 ### MySkills
