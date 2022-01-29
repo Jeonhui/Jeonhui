@@ -24,7 +24,7 @@ Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 algorithms  
-<img src="https://img.shields.io/badge/Baekjoon-Gold4-gold?style=flat-square&Color=31A8FF"/></a>
+<img src="https://img.shields.io/badge/Baekjoon-Gold4-gold?style=flat-square&logoColor=31A8FF"/></a>
 
 Contact  
 [<img src="https://img.shields.io/badge/l06094@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](l06094@gmail.com)
