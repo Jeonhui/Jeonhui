@@ -1,5 +1,7 @@
-<img src="https://img.shields.io/badge/Baekjoon-Gold4-gold?style=social">
+<img src="https://img.shields.io/badge/Jeonhui Lee-Hi?style=social">
+
 ============
+
 ### [Portfolio](https://Jeonhui.github.io/portfolio)
 ***
 
