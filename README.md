@@ -25,6 +25,8 @@ Contact
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=apprentice)
 
+<img src="https://img.shields.io/badge/style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 
 
