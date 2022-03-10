@@ -1,0 +1,50 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+#Workflow의 이름
+name: Python package
+
+# Event 작성 부분(Trigger)
+# [push(Branch or Tag), pull_request, schedule]
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+
+jobs:
+  #build라는 job생성 (하위 3개의 step)
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      #조기 오류 처리
+      fail-fast: false
+      
+      # 파이썬 버전 선택
+      matrix:
+        python-version: ["3.8", "3.9", "3.10"]
+
+    steps:
+    # uses 어떤 액션을 사용할지 지정 (이미 만들어진 액션 사용할 때 지정)
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Run Python
+      run: |
+          python3 hello.py
+   
+#pip 설치
+#     - name: Install dependencies
+#       run: |
+#         python -m pip install --upgrade pip
+#         python -m pip install flake8 pytest
+#         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        
+        
+# test 부분
+#     - name: Test with pytest
+#       run: |
+#         pytest
