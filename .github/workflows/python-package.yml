@@ -7,10 +7,8 @@ name: Python package
 # Event 작성 부분(Trigger)
 # [push(Branch or Tag), pull_request, schedule]
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  schedule:
+      - cron: '0 0 * * *'
 
 
 jobs:
@@ -37,11 +35,11 @@ jobs:
           python3 hello.py
    
 #pip 설치
-#     - name: Install dependencies
-#       run: |
-#         python -m pip install --upgrade pip
-#         python -m pip install flake8 pytest
-#         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         
         
 # test 부분
