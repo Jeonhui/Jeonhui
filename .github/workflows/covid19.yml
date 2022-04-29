@@ -2,15 +2,13 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
 #Workflow의 이름
-name: Python package
+name: covid19
 
 # Event 작성 부분(Trigger)
 # [push(Branch or Tag), pull_request, schedule]
 on:
-  push:
-    branches: [ main ]
   schedule:
-    - cron: '0 50 * *'
+    - cron: '0 5 * * 1-5'
 
 
 jobs:
