@@ -10,13 +10,13 @@ on:
   push:
     branches: [ master ]
   schedule:
-      - cron: '0 0 * * *'
+      - cron: '0 10 * * *'
 
 
 jobs:
   #build라는 job생성 (하위 3개의 step)
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     strategy:
       #조기 오류 처리
       fail-fast: false
