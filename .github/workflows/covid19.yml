@@ -9,8 +9,8 @@ name: covid19
 on:
   schedule:
     - cron: '0 5 * * 1-5'
-  push:
-    branches: [ main ]
+  #push:
+    #branches: [ main ]
 
 
 jobs:
