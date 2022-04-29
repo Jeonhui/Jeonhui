@@ -13,9 +13,10 @@ def covid19InfoDays():
     content = info.text + "\n"
     return content
 
+
 if __name__ == "__main__":
     access_token = os.environ['MY_GITHUB_TOKEN']
-    repository_name = "github-action-with-python"
+    repository_name = "Jeonhui"
     now = time.localtime()
     content = "%04d/%02d/%02d %02d:%02d:%02d" % (
         now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec) + '\n' + covid19InfoDays()
