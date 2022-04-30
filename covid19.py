@@ -1,7 +1,7 @@
 import os
 import requests
 from bs4 import BeautifulSoup as Soup
-from datetime import datetime, timedelta
+from datetime import date, timedelta
 from github import Github
 
 
