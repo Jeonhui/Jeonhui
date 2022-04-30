@@ -21,8 +21,8 @@ if __name__ == "__main__":
     repository_name = "Jeonhui"
     # repository name
     
-    today = str(date.today() - timedelta(days=1)) # 현재 날짜의 하루 전
-    title = "[ %s년 %s월 %s일" %(date[:4], date[5:7], date[8:]) + ' 코로나 확진자 수 ]' # issue title
+    yesterday = str(date.today() - timedelta(days=1)) # 현재 날짜의 하루 전
+    title = "[ %s년 %s월 %s일" %(yesterday[:4], yesterday[5:7], yesterday[8:]) + ' 코로나 확진자 수 ]' # issue title
     body = covid19InfoDays() # body 크롤링 데이터
     
     Github(access_token).get_user().get_repo(repository_name).create_issue(title=title, body=body)
