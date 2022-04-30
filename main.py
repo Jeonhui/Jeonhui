@@ -13,6 +13,7 @@ def IOSDeveloperNewsScraping():
         # 게시물을 가져옴
     except:
         return "Soup Error: can't load article"
+        # 게시물 가져오기 실패
     content = "### " + href.text + "  \n"
     content += "###### " + soup.find('p', {'class': 'article-date'}).text + "  \n"
     origin_contents = soup.find('span', {'class': 'article-text'}).findChildren()
@@ -27,6 +28,7 @@ def IOSDeveloperNewsScraping():
                 content += (("* " if mode == -1 else str(mode)) + con.text + '  \n')
             elif str(con)[:3] != '<a ':
                 content += (con.text + '  \n')
+    # markdown 형식에 맞추어 포맷팅
     return content
 
 
