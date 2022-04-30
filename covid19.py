@@ -18,6 +18,7 @@ if __name__ == "__main__":
     access_token = os.environ['MY_GITHUB_TOKEN']
     repository_name = "Jeonhui"
     now = time.localtime()
-    content = "%04d/%02d/%02d %02d:%02d:%02d" % (
-        now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec) + '\n' + covid19InfoDays()
-    Github(access_token).get_user().get_repo(repository_name).create_issue(title='covid19', body=content)
+    body = covid19InfoDays()
+    title = "%04d년 %02d월 %02d일" % (
+        now.tm_year, now.tm_mon, now.tm_mday + 1) + ' 코로나 확진자 수'
+    Github(access_token).get_user().get_repo(repository_name).create_issue(title=title, body=body)
