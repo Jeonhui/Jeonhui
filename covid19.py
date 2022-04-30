@@ -1,8 +1,9 @@
+import os
 import requests
 from bs4 import BeautifulSoup as Soup
-import time
+from datetime import datetime, timedelta
 from github import Github
-import os
+
 
 
 def covid19InfoDays():
@@ -16,9 +17,13 @@ def covid19InfoDays():
 
 if __name__ == "__main__":
     access_token = os.environ['MY_GITHUB_TOKEN']
+    # token
     repository_name = "Jeonhui"
-    now = time.localtime()
-    body = covid19InfoDays()
-    title = "%04d년 %02d월 %02d일" % (
-        now.tm_year, now.tm_mon, now.tm_mday + 1) + ' 코로나 확진자 수'
+    # repository name
+    
+    today = str(date.today() - timedelta(days=1)) # 현재 날짜의 하루 전
+    title = "[ %s년 %s월 %s일" %(date[:4], date[5:7], date[8:]) + ' 코로나 확진자 수 ]' # issue title
+    body = covid19InfoDays() # body 크롤링 데이터
+    
     Github(access_token).get_user().get_repo(repository_name).create_issue(title=title, body=body)
+    # issue 생성
