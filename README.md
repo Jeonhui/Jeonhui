@@ -28,9 +28,26 @@ Contact
 
 ---
 # IOS developer News
-### 5월 20일까지 중소 규모 개발자 지원 요청서를 제출하세요  
-###### 2022년 04월 25일  
-작년에 저희는 미국의 중소 규모 개발자를 지원하기 위한 1억 달러의 기금에 대해 발표했습니다. 자격 요건이 충족되는 개발자는 2022년 5월 20일까지 독립 관리자에게 지불을 받기 위한 요청서를 제출해 주십시오. 다음의 자격 요건을 갖춘 미국에 기반을 둔 개발자는 누구나 기금을 이용할 수 있습니다.  
-* 2015년 6월 4일부터 2021년 4월 26일 사이에 App Store를 통해 유료 앱 또는 앱 내 구입을 판매한 경우.  
-* 또한 2015년부터 2021년 사이 개발자 계정이 있었던 각 연도에 미국 내의 판매 수단을 통해 100만 달러 이하의 수익금을 번 경우.  
-https://smallappdeveloperassistance.com/(영문)에서 더 알아보기  
+### Clarifying criteria & new timing extension for App Store Improvements process  
+###### April 29, 2022  
+User trust in quality apps is the basis for all we have done in building and running the App Store.  
+Back in 2016, to ensure a great user experience and at the suggestion of developers, we launched the App Store Improvements process to remove apps that no longer function as intended, don’t follow current review guidelines or are outdated. This helps us ensure apps work for the vast majority of users and support our latest innovations in security and privacy. Over the course of the past six years, we have removed almost 2.8 million apps as part of this process.  
+Users and developers alike have benefitted from this effort, including:  
+* 
+Discoverability. Users are able to find great apps that fit their needs more easily when outdated apps are no longer on the App Store. This in turn helps developers’ apps become more easily discoverable on the store.
+  
+Discoverability. Users are able to find great apps that fit their needs more easily when outdated apps are no longer on the App Store. This in turn helps developers’ apps become more easily discoverable on the store.  
+Discoverability.  
+* 
+Security and privacy.  Apple hardware and software are constantly evolving, and we frequently provide developers with new tools to enhance performance, security and privacy. When developers update their apps to incorporate such technologies, they’re doing their part to help safeguard user safety and security.
+  
+Security and privacy.  Apple hardware and software are constantly evolving, and we frequently provide developers with new tools to enhance performance, security and privacy. When developers update their apps to incorporate such technologies, they’re doing their part to help safeguard user safety and security.  
+Security and privacy.   
+* 
+User experience. Keeping apps up to date to conform with modern screen sizes, SDKs, APIs, and all of the other features offered on iOS, iPadOS, and macOS ensures users can have a great experience with any app they get from the App Store.
+  
+User experience. Keeping apps up to date to conform with modern screen sizes, SDKs, APIs, and all of the other features offered on iOS, iPadOS, and macOS ensures users can have a great experience with any app they get from the App Store.  
+User experience.  
+As part of the App Store Improvements process, developers of apps that have not been updated within the last three years and fail to meet a minimal download threshold — meaning the app has not been downloaded at all or extremely few times during a rolling 12 month period — receive an email notifying them that their app has been identified for possible removal from the App Store.  
+Apple always wants to help developers get and keep quality software on the App Store. That’s why developers can appeal app removals. And developers, including those who recently received a notice, will now be given more time to update their apps if needed — up to 90 days. Apps that are removed will continue to function as normal for users who have already downloaded the app on their device.  
+To learn more, visit the revised App Store Improvements Support Page.  
