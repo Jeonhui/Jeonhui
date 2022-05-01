@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as Soup
 
 
 def IOSDeveloperNewsScraping():
-    soup = Soup(requests.get('https://developer.apple.com/kr/news').text, 'html.parser')
+    soup = Soup(requests.get('https://developer.apple.com/news').text, 'html.parser')
     # 해당 주소의 html 파일을 text로 불러옴
     href = soup.find('a', {'class': 'article-title'})
     # 최상위 게시물 주소 가져오기
