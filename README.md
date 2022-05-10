@@ -28,26 +28,11 @@ Contact
 
 ---
 # IOS developer News
-### Clarifying criteria & new timing extension for App Store Improvements process  
-###### April 29, 2022  
-User trust in quality apps is the basis for all we have done in building and running the App Store.  
-Back in 2016, to ensure a great user experience and at the suggestion of developers, we launched the App Store Improvements process to remove apps that no longer function as intended, don’t follow current review guidelines or are outdated. This helps us ensure apps work for the vast majority of users and support our latest innovations in security and privacy. Over the course of the past six years, we have removed almost 2.8 million apps as part of this process.  
-Users and developers alike have benefitted from this effort, including:  
-* 
-Discoverability. Users are able to find great apps that fit their needs more easily when outdated apps are no longer on the App Store. This in turn helps developers’ apps become more easily discoverable on the store.
+### WWDC22 special event submissions open  
+###### May 9, 2022  
   
-Discoverability. Users are able to find great apps that fit their needs more easily when outdated apps are no longer on the App Store. This in turn helps developers’ apps become more easily discoverable on the store.  
-Discoverability.  
-* 
-Security and privacy.  Apple hardware and software are constantly evolving, and we frequently provide developers with new tools to enhance performance, security and privacy. When developers update their apps to incorporate such technologies, they’re doing their part to help safeguard user safety and security.
   
-Security and privacy.  Apple hardware and software are constantly evolving, and we frequently provide developers with new tools to enhance performance, security and privacy. When developers update their apps to incorporate such technologies, they’re doing their part to help safeguard user safety and security.  
-Security and privacy.   
-* 
-User experience. Keeping apps up to date to conform with modern screen sizes, SDKs, APIs, and all of the other features offered on iOS, iPadOS, and macOS ensures users can have a great experience with any app they get from the App Store.
-  
-User experience. Keeping apps up to date to conform with modern screen sizes, SDKs, APIs, and all of the other features offered on iOS, iPadOS, and macOS ensures users can have a great experience with any app they get from the App Store.  
-User experience.  
-As part of the App Store Improvements process, developers of apps that have not been updated within the last three years and fail to meet a minimal download threshold — meaning the app has not been downloaded at all or extremely few times during a rolling 12 month period — receive an email notifying them that their app has been identified for possible removal from the App Store.  
-Apple always wants to help developers get and keep quality software on the App Store. That’s why developers can appeal app removals. And developers, including those who recently received a notice, will now be given more time to update their apps if needed — up to 90 days. Apps that are removed will continue to function as normal for users who have already downloaded the app on their device.  
-To learn more, visit the revised App Store Improvements Support Page.  
+We’re hosting a special all-day experience at Apple Park on June 6 to kick off WWDC22, and we can’t wait to connect in person. Members of the Apple Developer Program and Apple Developer Enterprise Program, and 2022 Swift Student Challenge applicants can submit their request to be included in the random selection process starting today until May 11 at 9 a.m. PT.  
+This celebration marks the start of an inspiring week of sessions, labs, and lounges — all online and with more activities than ever.  
+Learn more  
+Learn more  
