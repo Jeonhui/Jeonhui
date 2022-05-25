@@ -27,10 +27,14 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### Update to subscription notifications  
-###### May 16, 2022  
-Auto-renewable subscriptions are a great way to let people access content, services, or premium features in your app. And Apple continues to set the bar in making it easy and transparent for subscribers to view, cancel, or manage their subscriptions. Our comprehensive approach includes providing email, push notifications, and in-app messaging to let subscribers know about upcoming changes and how to manage their subscriptions, or cancel if they prefer.  
-Currently, when an auto-renewable subscription price is increased, subscribers must opt in before the price increase is applied. The subscription doesn’t renew at the next billing period for subscribers who didn't opt in to the new price. This has led to some services being unintentionally interrupted for users and they must take steps to resubscribe within the app, from Settings on iPhone and iPad, or in the App Store on Mac.  
-With this update, under certain specific conditions and with advance user notice, developers may also offer an auto-renewable subscription price increase, without the user needing to take action and without interrupting the service. The specific conditions for this feature are that the price increase doesn’t occur more than once per year, doesn’t exceed US$5 and 50% of the subscription price, or US$50 and 50% for an annual subscription price, and is permissible by local law. In these situations, Apple always notifies users of an increase in advance, including via email, push notification, and a message within the app. Apple will also notify users of how to view, manage, and cancel subscriptions if preferred.  
-For all subscription price increases that are above the thresholds, exceed the annual limit, or occur within territories where the law requires it, subscribers must opt in before the price increase is applied. The subscription won’t renew at the next billing period for subscribers who didn’t opt in to the new price. They can always resubscribe within the app, from Settings on iPhone and iPad, or in the App Store on Mac.  
-For details, view App Store Connect Help.  
+### Account deletion requirement starts June 30  
+###### May 24, 2022  
+As a reminder, apps that support account creation must let users initiate deletion of their account within the app starting June 30, 2022, as described in App Store Review Guideline 5.1.1(v). This deadline was extended to provide additional time for implementation of this requirement.  
+Please keep these requirements in mind when updating your app:  
+* The account deletion option should be easy to find in your app.  
+* If your app offers Sign in with Apple, you’ll need to use the Sign in with Apple REST API to revoke user tokens when deleting an account.  
+* It’s insufficient to only provide the ability to temporarily disable or deactivate an account. People should be able to delete the account along with their personal data.  
+* Apps in highly-regulated industries may provide additional customer service flows to confirm and facilitate the account deletion process.  
+* Follow applicable legal requirements for storing and retaining user account information, and for handling account deletion. This includes complying with local laws in different countries or regions. As always, check with your legal counsel.  
+Learn about offering account deletion  
+account deletion  
