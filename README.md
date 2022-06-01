@@ -27,14 +27,12 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### Account deletion requirement starts June 30  
-###### May 24, 2022  
-As a reminder, apps that support account creation must let users initiate deletion of their account within the app starting June 30, 2022, as described in App Store Review Guideline 5.1.1(v). This deadline was extended to provide additional time for implementation of this requirement.  
-Please keep these requirements in mind when updating your app:  
-* The account deletion option should be easy to find in your app.  
-* If your app offers Sign in with Apple, you’ll need to use the Sign in with Apple REST API to revoke user tokens when deleting an account.  
-* It’s insufficient to only provide the ability to temporarily disable or deactivate an account. People should be able to delete the account along with their personal data.  
-* Apps in highly-regulated industries may provide additional customer service flows to confirm and facilitate the account deletion process.  
-* Follow applicable legal requirements for storing and retaining user account information, and for handling account deletion. This includes complying with local laws in different countries or regions. As always, check with your legal counsel.  
-Learn about offering account deletion  
-account deletion  
+### Code one, code all  
+###### May 31, 2022  
+  
+  
+WWDC22 is almost here. We’ll be kicking off with the Apple Keynote on June 6 at 10:00 a.m. PT. Watch online at apple.com or in the Apple Developer app. You can even use SharePlay to watch with friends.  
+Digital Lounges are now open for registration for eligible developers. Designed to connect you with the developer community and Apple experts, they’ll feature text-based Q&As, session watch parties with the presenters, community icebreakers, and more.  
+In addition, a variety of developer organizations will host events throughout the week of WWDC. Find even more opportunities for learning, networking, and fun.  
+Visit the updated WWDC22 site  
+WWDC22 site  
