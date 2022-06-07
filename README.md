@@ -27,12 +27,10 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### Code one, code all  
-###### May 31, 2022  
+### Apple Design Award winners announced  
+###### June 6, 2022  
   
   
-WWDC22 is almost here. We’ll be kicking off with the Apple Keynote on June 6 at 10:00 a.m. PT. Watch online at apple.com or in the Apple Developer app. You can even use SharePlay to watch with friends.  
-Digital Lounges are now open for registration for eligible developers. Designed to connect you with the developer community and Apple experts, they’ll feature text-based Q&As, session watch parties with the presenters, community icebreakers, and more.  
-In addition, a variety of developer organizations will host events throughout the week of WWDC. Find even more opportunities for learning, networking, and fun.  
-Visit the updated WWDC22 site  
-WWDC22 site  
+The Apple Design Awards celebrate apps and games that excel in the categories of Inclusivity, Delight and Fun, Interaction, Social Impact, Visuals and Graphics, and Innovation. Learn about the winning apps and the talented developers behind them.  
+Discover the winners  
+the winners  
