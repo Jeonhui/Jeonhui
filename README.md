@@ -27,10 +27,8 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### Apple Design Award winners announced  
-###### June 6, 2022  
-  
-  
-The Apple Design Awards celebrate apps and games that excel in the categories of Inclusivity, Delight and Fun, Interaction, Social Impact, Visuals and Graphics, and Innovation. Learn about the winning apps and the talented developers behind them.  
-Discover the winners  
-the winners  
+### Introducing WeatherKit  
+###### June 7, 2022  
+Bring valuable weather information to your apps and services through a wide range of data that can help people stay up to date, safe, and prepared. It’s easy to use WeatherKit in your apps with a platform-specific Swift API, and on any other platform with a REST API.  
+Learn about WeatherKit  
+about WeatherKit  
