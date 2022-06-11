@@ -27,24 +27,15 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### Sign up now for WWDC22 labs and lounges  
-###### June 8, 2022  
+### WWDC22 resources and survey  
+###### June 10, 2022  
   
   
-Register for labs and Digital Lounges to connect with Apple engineers, designers, and experts online all week long.  
-Digital Lounges  
-A wide variety of exciting activities are happening daily on Slack.  
-* Ask questions at engineering and design Q&As.  
-* Join or follow real-time text-based conversations while watching a session video together, and stay for a short Q&A at Meet the Presenter activities.  
-* Get to know other developers and teams from Apple in a casual setting during icebreakers.  
-* Experiment with the latest frameworks, try out design concepts, participate in challenges, and share your creations in study halls.  
-* Test your trivia expertise against the best in the business on June 9.  
-Labs  
-Receive one-on-one guidance about development basics, complex concepts, and everything in between. Learn how to implement new Apple technologies, explore UI design principles, improve your App Store product page, and much more.  
-Lounges and labs are open to all members of the Apple Developer Program and Apple Developer Enterprise Program, as well as 2022 Swift Student Challenge winners.  
-Register for labs  
-for labs  
-Register for lounges  
-for lounges  
-Learn about WWDC22  
-about WWDC22  
+Thank you to everyone who joined us for an amazing week. We hope you found value, connection, and fun. You can continue to:  
+* Watch sessions at any time.  
+* Read about newly announced technologies.  
+* Get sample code from sessions.  
+* Post on the Apple Developer Forums.  
+We’d love to know what you thought of this year’s conference. If you’d like to tell us about your experience, please complete the WWDC22 survey.  
+Take the survey  
+the survey  
