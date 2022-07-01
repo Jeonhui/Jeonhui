@@ -27,15 +27,8 @@ Contact
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
 # IOS developer News
-### WWDC22 resources and survey  
-###### June 10, 2022  
-  
-  
-Thank you to everyone who joined us for an amazing week. We hope you found value, connection, and fun. You can continue to:  
-* Watch sessions at any time.  
-* Read about newly announced technologies.  
-* Get sample code from sessions.  
-* Post on the Apple Developer Forums.  
-We’d love to know what you thought of this year’s conference. If you’d like to tell us about your experience, please complete the WWDC22 survey.  
-Take the survey  
-the survey  
+### Get ready for RoomPlan  
+###### June 30, 2022  
+Now your apps can create 3D floor plans — including key characteristics, such as dimensions and types of furniture. Powered by ARKit, this new Swift API utilizes the camera and LiDAR Scanner on iPhone and iPad to bring surroundings into your apps.  
+Learn about RoomPlan  
+about RoomPlan  
