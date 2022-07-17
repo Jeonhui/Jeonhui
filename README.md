@@ -23,9 +23,12 @@ Contact
 <img src="https://img.shields.io/badge/jeon__hui__22-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia) 
+
 ![Jeonhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonhui&show_icons=true&theme=algolia)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=algolia)  
  -->
+ 
+
 # IOS developer News
 ### Get ready for RoomPlan  
 ###### June 30, 2022  
