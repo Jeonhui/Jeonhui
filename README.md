@@ -30,8 +30,8 @@ Contact
  
 
 # IOS developer News
-### Get ready for RoomPlan  
-###### June 30, 2022  
-Now your apps can create 3D floor plans — including key characteristics, such as dimensions and types of furniture. Powered by ARKit, this new Swift API utilizes the camera and LiDAR Scanner on iPhone and iPad to bring surroundings into your apps.  
-Learn about RoomPlan  
-about RoomPlan  
+### Upcoming transition from the XML feed to the App Store Connect API  
+###### July 19, 2022  
+The App Store Connect REST API lets you customize and automate tasks across developer tools, giving you greater flexibility and efficiency in your workflows. Starting in November 2022, you’ll need to use this API instead of the XML feed to automate management of in-app purchases, subscriptions, metadata, and app pricing. The XML feed will continue to support existing Game Center management functionality.  
+Learn about the App Store Connect API  
+the App Store Connect API  
