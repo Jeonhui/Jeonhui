@@ -30,8 +30,12 @@ Contact
  
 
 # IOS developer News
-### Upcoming transition from the XML feed to the App Store Connect API  
-###### July 19, 2022  
-The App Store Connect REST API lets you customize and automate tasks across developer tools, giving you greater flexibility and efficiency in your workflows. Starting in November 2022, you’ll need to use this API instead of the XML feed to automate management of in-app purchases, subscriptions, metadata, and app pricing. The XML feed will continue to support existing Game Center management functionality.  
-Learn about the App Store Connect API  
-the App Store Connect API  
+### Meet with App Store experts  
+###### July 26, 2022  
+  
+  
+Get ready to connect with experts online to learn how to make the most of App Store features. Discover how to attract new customers, test marketing strategies, add subscriptions, and so much more. Live presentations with Q&A will be held throughout August in multiple time zones and languages. Register today if you’re a member of the Apple Developer Program.  
+Learn more  
+Learn more  
+View schedule  
+View schedule  
