@@ -30,12 +30,9 @@ Contact
  
 
 # IOS developer News
-### Meet with App Store experts  
-###### July 26, 2022  
-  
-  
-Get ready to connect with experts online to learn how to make the most of App Store features. Discover how to attract new customers, test marketing strategies, add subscriptions, and so much more. Live presentations with Q&A will be held throughout August in multiple time zones and languages. Register today if you’re a member of the Apple Developer Program.  
-Learn more  
-Learn more  
-View schedule  
-View schedule  
+### Live Activities now available in beta  
+###### July 27, 2022  
+Live Activities help people stay on top of what’s happening in your app in real time, right from the Lock Screen. You can now get started with Live Activities and the new ActivityKit framework, which are available in the beta 4 version of iOS 16.  
+Please note that Live Activities and ActivityKit won’t be included in the initial public release of iOS 16. Later this year, they'll be publicly available in an update and you’ll be able to submit your apps with Live Activities to the App Store.  
+Learn more about Live Activities and ActivityKit  
+Live Activities and ActivityKit  
