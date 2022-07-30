@@ -30,9 +30,7 @@ Contact
  
 
 # IOS developer News
-### Live Activities now available in beta  
-###### July 27, 2022  
-Live Activities help people stay on top of what’s happening in your app in real time, right from the Lock Screen. You can now get started with Live Activities and the new ActivityKit framework, which are available in the beta 4 version of iOS 16.  
-Please note that Live Activities and ActivityKit won’t be included in the initial public release of iOS 16. Later this year, they'll be publicly available in an update and you’ll be able to submit your apps with Live Activities to the App Store.  
-Learn more about Live Activities and ActivityKit  
-Live Activities and ActivityKit  
+![이미지](https://developer.apple.com/assets/elements/icons/actikitykit/activitykit-128x128_2x.png)  
+###  이제 베타에서 실시간 현황을 사용할 수 있습니다  
+###### 2022년 07월 27일  
+<span class="article-text"><p>실시간 현황을 사용해서 사람들이 앱에서 일어나는 일을 잠금 화면에서 실시간으로 바로 알 수 있도록 할 수 있습니다. 이제 iOS 16의 베타 4 버전에서 사용할 수 있는 실시간 현황 및 새로운 ActivityKit 프레임워크를 시작할 수 있습니다.</p><p>실시간 현황 및 ActivityKit는 iOS 16 초기 공개 릴리즈에 포함되지 않습니다. 올 하반기 업데이트에서 부터 공개적으로 사용 가능하며 App Store에 실시간 현황이 포함된 앱을 제출할 수 있습니다.</p><p><a href="https://developer.apple.com/documentation/activitykit">실시간 현황 및 ActivityKit에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></span>
