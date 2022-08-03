@@ -18,11 +18,16 @@ def IOSDeveloperNewsScraping():
         # 게시물 가져오기 실패
 
     section = soup.find('section', 'article-content-container')
-    titleImg = '![이미지](https://developer.apple.com'+section.find('img', 'article-image').attrs['src']+')  \n'
-    title = '###  '+section.find('h2','article-title').text + "  \n"
+
+    title = ""
+    temp = section.find('img', 'article-image')
+    if temp is not None:
+        title = '![이미지](https://developer.apple.com'+temp.attrs['src']+')  \n'
+
+    title += '###  '+section.find('h2','article-title').text + "  \n"
     date = "###### " + soup.find('p', 'article-date').text + "  \n"
     text = str(section.find('span', 'article-text'))
-    return titleImg+title + date + text
+    return title + date + text
 
 
 if __name__ == "__main__":
