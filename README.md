@@ -32,7 +32,6 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News
-![이미지](https://developer.apple.com/assets/elements/icons/actikitykit/activitykit-128x128_2x.png)  
-###  이제 베타에서 실시간 현황을 사용할 수 있습니다  
-###### 2022년 07월 27일  
-<span class="article-text"><p>실시간 현황을 사용해서 사람들이 앱에서 일어나는 일을 잠금 화면에서 실시간으로 바로 알 수 있도록 할 수 있습니다. 이제 iOS 16의 베타 4 버전에서 사용할 수 있는 실시간 현황 및 새로운 ActivityKit 프레임워크를 시작할 수 있습니다.</p><p>실시간 현황 및 ActivityKit는 iOS 16 초기 공개 릴리즈에 포함되지 않습니다. 올 하반기 업데이트에서 부터 공개적으로 사용 가능하며 App Store에 실시간 현황이 포함된 앱을 제출할 수 있습니다.</p><p><a href="https://developer.apple.com/documentation/activitykit">실시간 현황 및 ActivityKit에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></span>
+###  여성, 흑인 및 히스패닉/라틴계 창업자 대상 Apple Entrepreneur Camp 참가 신청  
+###### 2022년 08월 01일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/ED9294F6-B739-4265-B6F1-78314C028500/2048.jpeg"/></div><p>Apple Entrepreneur Camp에서는 앱 중심의 조직 중 소수 집단에 속한 창업자와 개발자의 차세대 최첨단 앱 개발을 지원하며, 기술 분야 창업자 양성과 지속성을 장려하는 글로벌 네트워크의 형성을 돕습니다.</p><p>2022년 10월부터 온라인으로 진행되는 여성, 흑인, 히스패닉/라틴계 대상 코호트 3그룹 중 하나에 지금 신청하십시오. 참가자는 Apple 엔지니어 및 리더와 전례 없이 소통하며 코드 수준의 지도와 멘토링을 받고 영감을 얻을 수 있습니다. 신청은 2022년 8월 24일에 마감됩니다.</p><p><a href="https://developer.apple.com/entrepreneur-camp/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></span>
