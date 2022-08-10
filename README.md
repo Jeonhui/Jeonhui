@@ -32,6 +32,7 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News
-###  여성, 흑인 및 히스패닉/라틴계 창업자 대상 Apple Entrepreneur Camp 참가 신청  
-###### 2022년 08월 01일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/ED9294F6-B739-4265-B6F1-78314C028500/2048.jpeg"/></div><p>Apple Entrepreneur Camp에서는 앱 중심의 조직 중 소수 집단에 속한 창업자와 개발자의 차세대 최첨단 앱 개발을 지원하며, 기술 분야 창업자 양성과 지속성을 장려하는 글로벌 네트워크의 형성을 돕습니다.</p><p>2022년 10월부터 온라인으로 진행되는 여성, 흑인, 히스패닉/라틴계 대상 코호트 3그룹 중 하나에 지금 신청하십시오. 참가자는 Apple 엔지니어 및 리더와 전례 없이 소통하며 코드 수준의 지도와 멘토링을 받고 영감을 얻을 수 있습니다. 신청은 2022년 8월 24일에 마감됩니다.</p><p><a href="https://developer.apple.com/entrepreneur-camp/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></span>
+###  App Store 전문가와 만날 수 있는 기회가 아직 있습니다  
+###### 2022년 08월 09일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/274385D5-17DC-4617-BB14-3AEA49DC85E7/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략 테스트, 구독 추가 등을 어떻게 할 수 있는지에 대해 알아보시기 바랍니다. Q&amp;A 세션이 포함된 라이브 프레젠테이션이 8월 내내 다양한 시간대에서 다양한 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></span>
