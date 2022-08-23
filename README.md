@@ -32,7 +32,8 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News -->
-###  App Store 전문가와 만날 수 있는 기회가 아직 있습니다  
-###### 2022년 08월 09일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/274385D5-17DC-4617-BB14-3AEA49DC85E7/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략 테스트, 구독 추가 등을 어떻게 할 수 있는지에 대해 알아보시기 바랍니다. Q&amp;A 세션이 포함된 라이브 프레젠테이션이 8월 내내 다양한 시간대에서 다양한 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
-<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
+###  앱 및 앱 내 구입에 대한 세금 및 가격 변경 예정  
+###### 2022년 08월 19일  
+<span class="article-text"><p>다음주부터 가나와 튀르키예에서 App Store의 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 인상됩니다. 가나에서 가격 인상분은 신규 부가가치세 12.5% 및 추가 부담금 6%를 반영하였습니다.</p><p>수익금은 변동률에 따라 조정되며 세금 제외 가격을 기준으로 계산됩니다. 유료 응용 프로그램 계약 부록 B에 Apple이 가나에서 적용되는 세금을 징수하여 납부한다는 내용이 업데이트되었습니다.</p><p>또한 App Store Connect에서 적절한 <a href="https://help.apple.com/app-store-connect/?lang=ko#/dev2bd41114d">세금 카테고리</a>를 선택한 경우 에스토니아의 전자 출판물 수익이 9%에서 5%로 부가가치세 감소를 반영하도록 조정되었습니다. </p><p>이러한 변경 사항이 적용되면 나의 앱의 ‘가격 및 사용 가능 여부’ 섹션이 업데이트됩니다. App Store Connect에서 언제든지 앱 및 앱 내 구입(자동 갱신 구독 포함)의 가격을 변경할 수 있습니다. 구독을 제공하는 경우 기존 구독자의 가격을 유지하도록 선택할 수 있습니다.</p>
+<p><a href="https://developer.apple.com/support/downloads/price-tier-updates/App-Store-Price-Tier-Updates-August-2022.pdf">업데이트된 가격 티어 <span class="icon icon-after icon-chevronright nowrap">차트 보기(영문)</span></a></p></span>
