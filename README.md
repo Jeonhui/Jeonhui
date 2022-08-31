@@ -32,6 +32,7 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News -->
-###  WWDC22 한국어 비디오 자막 사용 가능  
-###### 2022년 08월 26일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/C2560521-BC24-462E-BDE4-854F3F5F3EB6/2048.jpeg"/></div><p>Keynote, Platforms State of the Union 및 올해 Apple Worldwide Developers Conference의 200여 개 세션을 일본어, 한국어 및 중국어(간체) 자막과 함께 시청할 수 있습니다. 웹 사이트 또는 iPhone, iPad, Mac 및 Apple TV용 Apple Developer 앱에서 사용 가능합니다.</p><p><a href="https://developer.apple.com/videos/wwdc2022/">WWDC22 <span class="icon icon-after icon-chevronright nowrap">비디오 보기</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png)  
+###  이제 Xcode Cloud 구독을 사용 가능할 수 있습니다  
+###### 2022년 08월 30일  
+<span class="article-text"><p>Xcode에 내장된 지속적 통합 및 제공 서비스인 Xcode Cloud는 고품질 앱의 개발 및 제공을 도와줍니다. Xcode에서 작업 흐름를 구성하여 시작하고 2023년 말까지 매월 25시간의 컴퓨팅 시간을 무료로 받으십시오. 이제 계정 소유자는 Apple Developer 앱에서 더 많은 컴퓨팅 시간을 구독할 수 있습니다.</p><p><a href="https://developer.apple.com/xcode-cloud/get-started/">Xcode <span class="icon icon-after icon-chevronright nowrap">Cloud 시작하기(영문)</span></a></p></span>
