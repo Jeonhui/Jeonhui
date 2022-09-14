@@ -32,7 +32,7 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News -->
-![이미지](https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png)  
-###  이제 Xcode Cloud 구독을 사용 가능할 수 있습니다  
-###### 2022년 08월 30일  
-<span class="article-text"><p>Xcode에 내장된 지속적 통합 및 제공 서비스인 Xcode Cloud는 고품질 앱의 개발 및 제공을 도와줍니다. Xcode에서 작업 흐름를 구성하여 시작하고 2023년 말까지 매월 25시간의 컴퓨팅 시간을 무료로 받으십시오. 이제 계정 소유자는 Apple Developer 앱에서 더 많은 컴퓨팅 시간을 구독할 수 있습니다.</p><p><a href="https://developer.apple.com/xcode-cloud/get-started/">Xcode <span class="icon icon-after icon-chevronright nowrap">Cloud 시작하기(영문)</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-128x128_2x.png)  
+###  이제 WeatherKit 구독 사용 가능  
+###### 2022년 09월 12일  
+<span class="article-text"><p>WeatherKit은 사용자가 최신 정보를 확인하고 안전하게 미리 대비하는 데 도움이 되는 여러 가지 유용한 기상 데이터를 앱과 서비스에 제공합니다. WeatherKit은 플랫폼별 Swift API를 사용하여 iOS 16, iPadOS 16, macOS 13, tvOS 16 및 watchOS 9용 앱에서 쉽게 사용할 수 있으며, 기타 다른 플랫폼에서는 REST API를 사용하여 사용할 수 있습니다. Apple Developer Program 멤버십에 매달 최대 50만 API 호출 건수가 제공됩니다. 이제 계정 소유자는 Apple Developer 앱에서 더 많은 호출 건수를 구독할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/weatherkit/get-started/"><span class="icon icon-after icon-chevronright nowrap">WeatherKit 시작하기</span></a></p></span>
