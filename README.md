@@ -32,7 +32,7 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News -->
-![이미지](https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-128x128_2x.png)  
-###  이제 WeatherKit 구독 사용 가능  
-###### 2022년 09월 12일  
-<span class="article-text"><p>WeatherKit은 사용자가 최신 정보를 확인하고 안전하게 미리 대비하는 데 도움이 되는 여러 가지 유용한 기상 데이터를 앱과 서비스에 제공합니다. WeatherKit은 플랫폼별 Swift API를 사용하여 iOS 16, iPadOS 16, macOS 13, tvOS 16 및 watchOS 9용 앱에서 쉽게 사용할 수 있으며, 기타 다른 플랫폼에서는 REST API를 사용하여 사용할 수 있습니다. Apple Developer Program 멤버십에 매달 최대 50만 API 호출 건수가 제공됩니다. 이제 계정 소유자는 Apple Developer 앱에서 더 많은 호출 건수를 구독할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/weatherkit/get-started/"><span class="icon icon-after icon-chevronright nowrap">WeatherKit 시작하기</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/actikitykit/activitykit-128x128_2x.png)  
+###  iOS 16.1 베타 및 Xcode 14.1 베타로 실시간 현황(Live Activities) 개발하기  
+###### 2022년 09월 14일  
+<span class="article-text"><p>이제 iOS 16.1 베타 및 Xcode 14.1 베타에서 새로운 ActivityKit 프레임워크를 사용하여 앱에 실시간 현황(Live Activities)을 빌드하는 방법을 알아보십시오. 실시간 현황(Live Activities)을 사용하면 사용자는 실시간으로 업데이트되는 앱의 콘텐츠를 계속 추적할 수 있습니다. 앱의 실시간 현황(Live Activities)은 잠금 화면 및 Dynamic Island에 표시됩니다. Dynamic Island는 iPhone 14 Pro 및 iPhone 14 Pro Max에서 경험할 수 있는 직관적이고 다채로운 새로운 디자인입니다.</p><p>실시간 현황(Live Activities) 및 ActivityKit은 올해 말부터 사용 가능한 iOS 16.1에 포함됩니다. iOS 16.1 릴리즈 후보의 사용이 가능해 지면 App Store에 실시간 현황(Live Activities)을 사용한 앱을 제출할 수 있게 됩니다.</p><p><a href="https://developer.apple.com/documentation/activitykit">ActivityKit <span class="icon icon-after icon-chevronright nowrap">문서 보기(영문)</span></a></p></span>
