@@ -32,7 +32,7 @@ Contact
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whas02)](https://solved.ac/whas02)  
 
 # IOS developer News -->
-![이미지](https://developer.apple.com/assets/elements/icons/actikitykit/activitykit-128x128_2x.png)  
-###  iOS 16.1 베타 및 Xcode 14.1 베타로 실시간 현황(Live Activities) 개발하기  
-###### 2022년 09월 14일  
-<span class="article-text"><p>이제 iOS 16.1 베타 및 Xcode 14.1 베타에서 새로운 ActivityKit 프레임워크를 사용하여 앱에 실시간 현황(Live Activities)을 빌드하는 방법을 알아보십시오. 실시간 현황(Live Activities)을 사용하면 사용자는 실시간으로 업데이트되는 앱의 콘텐츠를 계속 추적할 수 있습니다. 앱의 실시간 현황(Live Activities)은 잠금 화면 및 Dynamic Island에 표시됩니다. Dynamic Island는 iPhone 14 Pro 및 iPhone 14 Pro Max에서 경험할 수 있는 직관적이고 다채로운 새로운 디자인입니다.</p><p>실시간 현황(Live Activities) 및 ActivityKit은 올해 말부터 사용 가능한 iOS 16.1에 포함됩니다. iOS 16.1 릴리즈 후보의 사용이 가능해 지면 App Store에 실시간 현황(Live Activities)을 사용한 앱을 제출할 수 있게 됩니다.</p><p><a href="https://developer.apple.com/documentation/activitykit">ActivityKit <span class="icon icon-after icon-chevronright nowrap">문서 보기(영문)</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
+###  앱 및 앱 내 구입에 대한 향후 가격 및 세금 변동  
+###### 2022년 09월 19일  
+<span class="article-text"><p>이르면 2022년 10월 5일부터 칠레, 이집트, 일본, 말레이지아, 파키스탄, 폴란드, 대한민국, 스웨덴, 베트남 및 유로화를 사용하는 모든 지역의 App Store에서 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 인상됩니다. 베트남의 인상분에는 Apple에서 관련 세금을 징수하고 감면할 수 있는 새로운 규정이 반영되어, 새로운 부가가치세(VAT) 및 법인세(CIT)가 각각 5%씩 적용됩니다.</p><p>수익금은 변동률에 따라 조정되며 세금 제외 가격을 기준으로 계산됩니다. 유료 응용 프로그램 계약 부록 B의 Apple이 베트남에 적용되는 세금을 징수하여 납부한다는 내용이 업데이트됩니다.</p><p>이러한 변경 사항이 적용되면 나의 앱의 ‘가격 및 사용 가능 여부’ 섹션이 업데이트됩니다. App Store Connect에서 언제든지 앱 및 앱 내 구입(자동 갱신 구독 포함)의 가격을 변경할 수 있습니다. 구독을 제공하는 경우 기존 구독자의 가격을 유지하도록 선택할 수 있습니다.</p><p><a href="https://developer.apple.com/support/downloads/price-tier-updates/App-Store-Price-Tier-Updates-October-2022.pdf">업데이트된 가격 티어 <span class="icon icon-after icon-chevronright nowrap">차트 보기(영문)</span></a></p></span>
