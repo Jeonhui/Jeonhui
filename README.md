@@ -45,7 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
-###  앱 및 앱 내 구입에 대한 향후 가격 및 세금 변동  
-###### 2022년 09월 19일  
-<span class="article-text"><p>이르면 2022년 10월 5일부터 칠레, 이집트, 일본, 말레이지아, 파키스탄, 폴란드, 대한민국, 스웨덴, 베트남 및 유로화를 사용하는 모든 지역의 App Store에서 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 인상됩니다. 베트남의 인상분에는 Apple에서 관련 세금을 징수하고 감면할 수 있는 새로운 규정이 반영되어, 새로운 부가가치세(VAT) 및 법인세(CIT)가 각각 5%씩 적용됩니다.</p><p>수익금은 변동률에 따라 조정되며 세금 제외 가격을 기준으로 계산됩니다. 유료 응용 프로그램 계약 부록 B의 Apple이 베트남에 적용되는 세금을 징수하여 납부한다는 내용이 업데이트됩니다.</p><p>이러한 변경 사항이 적용되면 나의 앱의 ‘가격 및 사용 가능 여부’ 섹션이 업데이트됩니다. App Store Connect에서 언제든지 앱 및 앱 내 구입(자동 갱신 구독 포함)의 가격을 변경할 수 있습니다. 구독을 제공하는 경우 기존 구독자의 가격을 유지하도록 선택할 수 있습니다.</p><p><a href="https://developer.apple.com/support/downloads/price-tier-updates/App-Store-Price-Tier-Updates-October-2022.pdf">업데이트된 가격 티어 <span class="icon icon-after icon-chevronright nowrap">차트 보기(영문)</span></a></p></span>
+###  Ask Apple, 놓치지 마세요  
+###### 2022년 10월 11일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/019C1E1E-C787-48F6-A858-12BFD1B7C326/2048.jpeg"/></div><p>개발자가 Apple 전문가와 직접 소통할 수 있는 새로운 시리즈인 Ask Apple에 참여해 보십시오. 앱에 최신 기술을 통합하는 방법, 직관적인 UI를 디자인하는 방법, 최신 소프트웨어에서의 테스트하는 방법 등에 다양한 주제에 관해 물어보십시오.</p><p>Ask Apple은 10월 17일부터 21일까지 첫 운영되며 온라인 일대일 컨설팅 및 그룹 Q&amp;A도 진행합니다. 다양한 언어 및 시간대에 제공되는 활동에도 참여할 수 있습니다. 현재 Apple Developer Program 또는 Apple Developer Enterprise Program의 멤버는 지금 등록할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/ask-apple/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
