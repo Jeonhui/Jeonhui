@@ -45,8 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
-###  App Store에 iOS 16.1 및 iPadOS 16.1 앱 제출하기  
-###### 2022년 10월 18일  
-<span class="article-text"><p>세계에서 가장 앞선 모바일 운영 체제인 iOS 16.1 및 iPadOS 16.1이 전 세계 고객들에게 곧 제공될 예정입니다. 실시간 현황을 활용하여 사람들이 앱에서 일어나는일을 iPhone의 잠금 화면과 Dynamic Island에서 실시간으로 바로 알 수 있도록 하십시오. 편집기 스타일의 탐색 막대 및 향상된 텍스트 편집 메뉴와 같은 데스크탑 수준의 기능을 iPad 앱에 도입하고 MapKit, Metal, ARKit, Core ML 등의 최신 기술을 최대한 활용하십시오.</p><p>Xcode 14.1 릴리즈 후보로 앱을 빌드한 다음 테스트하고 심사를 위해 제출하십시오. 2023년 4월부터 App Store에 제출하는 모든 iOS 및 iPadOS 앱은 Xcode 14.1 및 iOS 16.1 SDK로 빌드해야 합니다.</p><p><a href="https://developer.apple.com/kr/ios/submit/">iOS 앱 제출하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기</span></a></p>
-<p><a href="https://developer.apple.com/kr/ipados/submit/">iPadOS 앱 제출하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기</span></a></p></span>
+###  App Store 전문가와의 만남  
+###### 2022년 10월 24일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/305BCFA9-FC5B-4BF5-A970-3A60BCEFC1C9/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략테스트, 구독 추가를 어떻게 할 수 있는지 등의 방법을 알아보시기 바랍니다. 이번 11월 및 12월에 라이브 프레젠테이션과 Q&amp;A 세션이 다양한 시간대 및 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p>
+<p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
