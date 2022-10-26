@@ -45,7 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 전문가와의 만남  
-###### 2022년 10월 24일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/305BCFA9-FC5B-4BF5-A970-3A60BCEFC1C9/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략테스트, 구독 추가를 어떻게 할 수 있는지 등의 방법을 알아보시기 바랍니다. 이번 11월 및 12월에 라이브 프레젠테이션과 Q&amp;A 세션이 다양한 시간대 및 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p>
-<p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png)  
+###  최신 베타 릴리즈를 사용하여 준비하기  
+###### 2022년 10월 25일  
+<span class="article-text"><p>iOS 16.2, iPadOS 16.2, macOS 13.1, tvOS 16.2 및 watchOS 9.2의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 14.1 RC 2  버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하십시오. 문제가 발생하거나 피드백이 있으시면 Apple에 문의해 주시기 바랍니다. Apple은 여러분의 피드백을 중요하게 생각합니다. 여러분의 피드백을 통해 문제를 해결하고 기능을 향상하며 문서를 업데이트합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p></span>
