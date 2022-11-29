@@ -45,6 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  Ask Apple의 새로운 한 주가 11월 14일에 시작됩니다  
-###### 2022년 11월 08일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/019C1E1E-C787-48F6-A858-12BFD1B7C326/2048.jpeg"/></div><p>흥미로운 Ask Apple 개발자 시리즈 주간에 또다시 참석하여 Apple 전문가와 직접 소통해 보십시오. 앱에 최신 기술을 통합하는 방법, 직관적인 UI를 디자인하는 방법, 최신 소프트웨어에서 테스트하는 방법 등 다양한 주제에 관해 물어보십시오.</p><p>온라인 일대일 컨설팅 및 그룹 Q&amp;A가 11월 14일부터 18일까지 활동과 함께 진행되며, 다양한 언어로 여러 시간대에 제공됩니다. Apple Developer Program 및 Apple Developer Enterprise Program의 현재 멤버는 지금 등록할 수 있습니다.</p><p>또한 12월에 개최될 예정인 다음 차 Ask Apple 주간에 대한 자세한 소식도 기대하시기 바랍니다.</p><p><a href="https://developer.apple.com/kr/events/ask-apple/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
+###  App Store 전문가와 만날 수 있는 기회가 아직 있습니다  
+###### 2022년 11월 28일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/274385D5-17DC-4617-BB14-3AEA49DC85E7/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략 테스트, 구독 추가 등을 어떻게 할 수 있는지에 대해 알아보시기 바랍니다. Q&amp;A 세션이 포함된 라이브 프레젠테이션이 12월 8일까지 다양한 시간대에 다양한 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></span>
