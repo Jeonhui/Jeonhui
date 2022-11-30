@@ -45,7 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 전문가와 만날 수 있는 기회가 아직 있습니다  
+###  App Store 어워드 수상작 발표  
 ###### 2022년 11월 28일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/274385D5-17DC-4617-BB14-3AEA49DC85E7/2048.jpeg"/></div><p>온라인에서 전문가들과 만나 App Store 기능의 다양한 활용 방법을 배워보십시오. 신규 고객 유치, 마케팅 전략 테스트, 구독 추가 등을 어떻게 할 수 있는지에 대해 알아보시기 바랍니다. Q&amp;A 세션이 포함된 라이브 프레젠테이션이 12월 8일까지 다양한 시간대에 다양한 언어로 개최됩니다. Apple Developer Program의 회원이라면 누구나 참여할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
-<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></span>
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/EF21786B-1543-4CB9-9B70-6C617220EB16/2048.jpeg"/></div><p>매년 App Store 에디터 팀에서는 사람들의 삶을 개선하고 최고의 기술 혁신, 사용자 경험, 디자인, 그리고 긍정적인 영향력을 선보인 뛰어난 앱 및 게임을 선정하여 수상합니다. 전 세계 뛰어난 개발자의 수상을 함께 축하해 주세요.</p><p><a href="https://developer.apple.com/app-store/app-store-awards-2022/">올해 <span class="icon icon-after icon-chevronright nowrap">수상작 보기(영문)</span></a></p></span>
