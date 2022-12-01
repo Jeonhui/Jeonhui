@@ -45,6 +45,8 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 어워드 수상작 발표  
-###### 2022년 11월 28일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/EF21786B-1543-4CB9-9B70-6C617220EB16/2048.jpeg"/></div><p>매년 App Store 에디터 팀에서는 사람들의 삶을 개선하고 최고의 기술 혁신, 사용자 경험, 디자인, 그리고 긍정적인 영향력을 선보인 뛰어난 앱 및 게임을 선정하여 수상합니다. 전 세계 뛰어난 개발자의 수상을 함께 축하해 주세요.</p><p><a href="https://developer.apple.com/app-store/app-store-awards-2022/">올해 <span class="icon icon-after icon-chevronright nowrap">수상작 보기(영문)</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  연휴 기간을 위한 앱 준비  
+###### 2022년 11월 30일  
+<span class="article-text"><p>App Store에서 가장 바쁜 시기가 다가오고 있습니다. 연휴가 시작되기 전에 앱 및 제품 페이지를 최신 상태로 준비하세요. 올해도 연휴 기간 동안 업무를 계속할 수 있게 되어 기쁘게 생각하며, 개발자들의 앱 제출을 기다리겠습니다. 평균적으로 제출 건 중 90%가 24시간 이내에 심사 완료됩니다. 다만 12월 23일부터 27일까지는 심사가 평균보다 다소 오래 걸릴 수 있습니다.</p><p><a href="https://developer.apple.com/kr/app-store/submitting/">앱 <span class="icon icon-after icon-chevronright nowrap">제출 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/videos/play/tech-talks/10885/">심사 문제를 방지하기 위한 <span class="icon icon-after icon-chevronright nowrap">팁 살펴보기(영어)</span></a></p></span>
