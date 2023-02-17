@@ -45,12 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
-###  앱 및 앱 내 구입에 대한 향후 세금 및 가격 변동  
-###### 2023년 01월 27일  
-<span class="article-text"><p>App Store의 상거래 및 결제 시스템은 175개 스토어프론트에서 44개 통화를 사용하여 글로벌 규모로 제품 및 서비스를 편리하게 설정하고 판매할 수 있도록 구축되었습니다. 세금 및 환율 변동에 따라 특정 지역의 App Store에서 가격이 주기적으로 업데이트됩니다. 가격 업데이트는 금융 데이터 제공업체의 공개 환율 정보를 바탕으로 이루어지며, 이는 앱 및 앱 내 구입 가격이 모든 스토어프론트에서 균등하게 유지되도록 하기 위해서입니다.</p><p>2023년 2월 13일 콜롬비아, 이집트, 헝가리, 나이지리아, 노르웨이, 남아프리카, 영국에서 App Store의 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 인상됩니다. 우즈베키스탄의 경우 부가가치세율이 15%에서 12%로 인하되는 것을 반영하여 가격이 인하됩니다. 수익금은 변동률에 따라 조정되며 세금 제외 가격을 기준으로 계산됩니다.</p><p>아일랜드, 룩셈부르크, 싱가포르, 짐바브웨의 App Store 가격은 변경되지 않지만 수익금은 다음과 같이 변경된 세율을 반영하여 조정됩니다.</p><ul>
-<li>아일랜드: 전자 신문 및 정기 간행물에 대한 부가가치세율이 9%에서 0%로 인하 </li>
-<li>룩셈부르크: 부가가치세율이 17%에서 16%로 인하 </li>
-<li>싱가포르: 상품 및 서비스 세율이 7%에서 8%로 인상 </li>
-<li>짐바브웨: 부가가치세율이 14.5%에서 15%로 인상</li>
-</ul><p>또한 1월 말 캄보디아, 키르기스스탄, 인도네시아, 싱가포르, 대한민국, 타지키스탄, 태국, 우즈베키스탄에서 판매하는 현지 개발자의 수익금은 증가합니다.</p><p>Apple에서는 수수료를 계산하기 전에 제공된 조세 항목 정보에 따라 세금을 추정하고 제거합니다. 유료 응용 프로그램 계약의 부록 B에 이러한 변경 사항이 반영되어 업데이트됩니다.</p><p>이러한 변경 사항이 적용되면 나의 앱의 ‘가격 및 사용 가능 여부’ 섹션이 업데이트됩니다. App Store Connect에서 언제든지 앱 및 앱 내 구입(자동 갱신 구독 포함)의 가격을 변경할 수 있습니다. 구독을 제공하는 경우 기존 구독자의 가격을 유지하도록 선택할 수 있습니다.</p><p>또한 <a href="https://developer.apple.com/kr/news/?id=qzex35ch">이전에 발표</a>한 바와 같이 2023년 봄, 한층 업그레이드된 앱 및 앱 내 구입의 가격 책정 방식은 700개의 가격 포인트를 추가로 제공하고 스토어프론트별로 가격을 설정할 수 있어 더 높은 유연성을 제공합니다. 이로써 전 세계적으로 균등화된 가격과는 독립적으로 환율 변동을 관리할 수 있습니다.</p><p><a href="https://developer.apple.com/support/downloads/price-tier-updates/mVuHzUTLW8A3n4bvJzP3/App-Store-Price-Tier-Updates-February-2023.pdf">업데이트된 가격 등급 <span class="icon icon-after icon-chevronright nowrap">차트 보기(영문)</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png)  
+###  최신 베타 릴리즈를 사용하여 준비하기  
+###### 2023년 02월 16일  
+<span class="article-text"><p>iOS 16.4, iPadOS 16.4, macOS 13.3, tvOS 16.4 및 watchOS 9.4의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 14.3 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하십시오. 문제가 발생하거나 피드백이 있으시면 Apple에 문의해 주시기 바랍니다. Apple은 여러분의 피드백을 중요하게 생각합니다. 여러분의 피드백을 통해 문제를 해결하고 기능을 향상하며 문서를 업데이트합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
