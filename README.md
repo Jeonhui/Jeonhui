@@ -45,9 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 02월 16일  
-<span class="article-text"><p>iOS 16.4, iPadOS 16.4, macOS 13.3, tvOS 16.4 및 watchOS 9.4의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 14.3 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하십시오. 문제가 발생하거나 피드백이 있으시면 Apple에 문의해 주시기 바랍니다. Apple은 여러분의 피드백을 중요하게 생각합니다. 여러분의 피드백을 통해 문제를 해결하고 기능을 향상하며 문서를 업데이트합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
+###  App Store 전문가와의 만남  
+###### 2023년 02월 21일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/305BCFA9-FC5B-4BF5-A970-3A60BCEFC1C9/2048.jpeg"/></div><p>2월 28일부터 4월 13일까지 진행되는 온라인 세션에 참여하여 App Store의 최신 기능에 대해 알아보고 다양한 질문에 대한 궁금증도 해결해 보십시오. 앱 분석으로 사용자의 유입 경로를 측정하고 App Store의 기능을 활용하여 구독 비즈니스를 성장시키는 방법 등에 대해 알아봅니다. 최고의 성과를 내는 제품 페이지 버전를 찾는 데 제품 페이지 최적화가 어떻게 도움이 되는지 알아보고, 맞춤형 제품 페이지로 제품 페이지의 추가 버전을 만들어 특정 기능이나 콘텐츠를 돋보이게 하는 방법도 살펴봅니다. Game Center를 통해 발견 가능성과 참여도를 높이는 방법과 앱 내 이벤트를 구성하는 방법도 배워 보십시오. Apple Developer Program 멤버라면 지금 바로 세션에 등록할 수 있습니다.</p><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></span>
