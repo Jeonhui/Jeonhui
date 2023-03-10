@@ -45,9 +45,22 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  앱 분석에서 사용할 수 있는 피어 그룹 벤치마크  
-###### 2023년 03월 01일  
-<span class="article-text"><p>App Store Connect의 앱 분석은 다양한 기능을 갖춘 유용한 도구로, 이를 사용하면 App Store에서의 앱 성능을 파악하고 개선할 수 있습니다. 유입 경로, 사용량 및 수익 창출 전략과 관련된 지표를 제공해 주는 앱 분석을 통해 인지도에서 전환율 및 유지율에 이르기까지 고객 라이프 사이클 각 단계의 결과를 모니터링할 수 있습니다. 오늘부터 피어 그룹 벤치마크를 사용하여 앱의 성능을 App Store에 있는 유사한 앱과 비교해 경쟁사 대비 실적을 확인할 수 있습니다. 이제 성장 기회를 식별하는 데 도움이 되는 정보를 더 많이 수집할 수 있게 되었습니다.</p><p>피어 그룹 벤치마크는 고객 여정 전반에 걸쳐 강력하고 새로운 인사이트를 제공하므로 앱에 효과적인 부분을 더 잘 이해하고 개선 기회를 찾을 수 있습니다. 관련성 있는 비교를 위해 앱은 App Store 카테고리, 비즈니스 모델 및 다운로드 볼륨에 따라 그룹으로 분류되어 비교됩니다. 피어 그룹 벤치마크는 업계 최고 수준의 차등 개인정보 보호 기법을 사용하여 개별 앱의 성능을 비공개로 유지하는 동시에 관련성 있고 활용 가능한 인사이트를 제공합니다.</p><p>새로운 벤치마크 데이터를 살펴보고, 이를 바탕으로 App Store Connect의 다른 도구를 활용하여 전환율, 수익, 비정상 종료율 및 사용자 유지율을 개선해 보십시오. 제품 페이지의 여러 요소를 테스트하여 고객들에게 반응이 더 좋은 요소를 확인하고, 제품 페이지 버전을 추가로 생성하여 특정 기능이나 콘텐츠를 더 돋보이게 만들고, 앱의 베타 버전에 대한 피드백을 받고, 앱 내 이벤트를 제공하여 참여를 유도하는 등 다양한 작업을 수행할 수 있습니다.</p><p><a href="https://developer.apple.com/help/app-store-connect/view-app-analytics/view-peer-group-benchmarks">벤치마크 데이터를 확인하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/app-store/peer-group-benchmarks/">벤치마크에서 얻은 인사이트를 활용하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/events/app-store/">App Store 전문가와 만나 앱 분석에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
+![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
+###  모든 구입 유형에 업그레이드된 App Store의 가격 책정 방식 적용  
+###### 2023년 03월 09일  
+<span class="article-text"><p>Apple은 지난 12월, 추가 가격 포인트와 스토어프론트별로 가격을 관리하는 새로운 도구 등 App Store가 출시된 이래 <a href="https://developer.apple.com/kr/news/?id=qzex35ch">가장 포괄적으로 업그레이된 가격 책정 방식</a>을 발표했습니다. 오늘부터 업그레이드된 기능과 새로운 가격을 유료 앱과 일회성 앱 내 구입을 포함한 모든 앱 및 앱 내 구입 유형에 사용할 수 있습니다.</p><ul>
+<li>
+<p><strong>선택의 폭이 넓어진 가격 포인트.</strong> 이제 900개의 가격 포인트 중에서 선택할 수 있습니다. 이는 이전에 유료 앱 및 일회성 앱 내 구입에 적용할 수 있었던 가격 포인트 수의 거의 10배에 달하는 규모입니다. 또한 이 옵션은 가격 범위 전반에서 점진적으로 증가(예: 20,000원까지는 100원씩, 20,000원에서 100,000원 사이는 500원씩 책정 가능)해 더 높은 유연성을 제공합니다.</p>
+</li>
+<li>
+<p><strong>향상된 글로벌 가격 책정 방식.</strong> 각 국가 또는 지역의 가장 일반적인 가격 책정 규칙을 따르는 균등화된 글로벌 가격을 사용해 고객에게 더 적합한 가격을 제공할 수 있습니다.</p>
+</li>
+<li>
+<p><strong>기본 가격의 글로벌 옵션.</strong> 익숙한 국가 및 지역을 기본 국가 또는 지역으로 지정하여 유료 앱 및 일회성 앱 내 구입을 위해 기타 174 스토어프론트에서 43개의 통화로 균등화된 글로벌 가격을 사용할 수 있습니다. 기본 스토어프론트에 설정한 가격은 세금이나 환율 변동이 생기더라도 Apple에서 조정하지 않으며, 원하는 경우 스토어프론트별로 가격을 설정할 수 있습니다.</p>
+</li>
+<li>
+<p><strong>사용 가능 여부에 대한 지역별 옵션.</strong> 스토어프론트별로 앱 내 구입(구독 포함)의 사용 가능 여부를 정의하여 각 시장에 맞는 콘텐츠와 서비스를 제공할 수 있습니다.</p>
+</li>
+</ul><h3>5월에 적용될 향상된 글로벌 가격 책정 방식을 위한 준비</h3><p>App Store의 가격 균등화 도구는 글로벌 시장의 가격을 간단하고 편리하게 관리할 수 있는 방식을 제공합니다. 2023년 5월 9일, 새롭게 향상된 글로벌 가격 책정 방식을 활용하기 위해 기존 앱 및 일회성 앱 내 구입 가격이 175개의 모든 App Store 스토어프런트에서 업데이트될 예정입니다. 업데이트될 가격은 금융 데이터 제공업체가 공개한 환율 정보를 사용하여 지정된 기본 국가 또는 지역과 동일한 글로벌 가격으로 조정됩니다. 적용되는 가격 포인트는 대상 고객에 맞게 각 국가 또는 지역의 가장 일반적인 규칙을 따릅니다.</p><p>이제 <a href="http://appstoreconnect.apple.com/">App Store Connect</a> 또는 <a href="https://developer.apple.com/kr/app-store-connect/api/">App Store Connect API</a>를 사용하여 향상된 글로벌 가격 책정 방식을 활용하도록 현재 가격을 업데이트할 수 있습니다. 2023년 5월 9일까지 기존 앱 및 일회성 앱 내 구입의 가격을 업데이트하지 않을 경우, Apple은 미국에서 적용되는 현재 가격을 기준으로 가격을 업데이트합니다. 다른 가격을 기본 가격으로 설정하려면 원하는 스토어프론트를 앱 또는 앱 내 구입의 기본 국가 및 지역으로 업데이트하면 됩니다. 자동으로 생성된 가격을 사용하는 대신 특정 스토어프론트의 가격을 수동으로 관리할 수도 있습니다.</p><p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/set-a-price">기본 스토어프론트를 선택하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase">앱 내 구입의 사용 가능 여부를 설정하는 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes">가격 변경 확인 <span class="icon icon-after icon-chevronright nowrap">방법 알아보기</span></a></p></span>
