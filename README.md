@@ -45,9 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 03월 28일  
-<span class="article-text"><p>iOS 16.5, iPadOS 16.5, macOS 13.4, tvOS 16.5 및 watchOS 9.5의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 14.3 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하십시오. 문제가 발생하거나 피드백이 있으시면 Apple에 문의해 주시기 바랍니다. Apple은 여러분의 피드백을 중요하게 생각합니다. 여러분의 피드백을 통해 문제를 해결하고 기능을 향상하며 문서를 업데이트합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
+###  WWDC23이 6월 5일(태평양 연안 표준시) 막을 올립니다  
+###### 2023년 03월 29일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4508744A-29D9-43A0-9B71-E245065F041C/2048.jpeg"/></div><p>기술과 커뮤니티가 꽃피는 개발자들의 향연 Apple 세계개발자회의가 6월 5일부터 9일까지 개최됩니다. Apple 플랫폼, 기술, 도구에 관한 최신 정보를 가장 먼저 만나 보세요. Apple 전문가 및 동료 개발자들과 소통할 수 있는 기회도 놓치지 마세요. 전체 내용은 온라인에서 무료로 제공됩니다.</p><p>아울러 Apple은 6월 5일 하루 동안 Apple Park에서 개발자와 학생을 위한 스페셜 이벤트를 진행합니다. 키노트 및 State of the Union을 함께 시청하고, Apple의 여러 팀을 만나 보고, Apple 디자인 어워드 시상식에서 멋진 앱들을 살펴보고, 다양한 활동을 즐기면서 신나는 하루를 보내 보세요.</p><p>우수한 재능과 창의성을 선보인 학생들은 Swift Student Challenge에서 수상 기회를 얻게 됩니다.</p><p><a href="https://developer.apple.com/kr/wwdc23/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
