@@ -45,6 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  WWDC23이 6월 5일(태평양 연안 표준시) 막을 올립니다  
+###  이제 Swift Student Challenge에 지원할 수 있습니다  
 ###### 2023년 03월 29일  
-<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4508744A-29D9-43A0-9B71-E245065F041C/2048.jpeg"/></div><p>기술과 커뮤니티가 꽃피는 개발자들의 향연 Apple 세계개발자회의가 6월 5일부터 9일까지 개최됩니다. Apple 플랫폼, 기술, 도구에 관한 최신 정보를 가장 먼저 만나 보세요. Apple 전문가 및 동료 개발자들과 소통할 수 있는 기회도 놓치지 마세요. 전체 내용은 온라인에서 무료로 제공됩니다.</p><p>아울러 Apple은 6월 5일 하루 동안 Apple Park에서 개발자와 학생을 위한 스페셜 이벤트를 진행합니다. 키노트 및 State of the Union을 함께 시청하고, Apple의 여러 팀을 만나 보고, Apple 디자인 어워드 시상식에서 멋진 앱들을 살펴보고, 다양한 활동을 즐기면서 신나는 하루를 보내 보세요.</p><p>우수한 재능과 창의성을 선보인 학생들은 Swift Student Challenge에서 수상 기회를 얻게 됩니다.</p><p><a href="https://developer.apple.com/kr/wwdc23/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></span>
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1FFB9751-9FB2-4171-B6E2-14CF821F6887/2048.jpeg"/></div><p>코딩을 사랑하는 전 세계 학생들을 위한 Apple의 지원은 계속됩니다. 원하는 주제를 골라 Swift Playgrounds 또는 Xcode로 제작한 멋진 앱 플레이그라운드를 제출하여 코딩을 향한 열정을 보여주세요. 수상자는 상, 표창 등을 받게 됩니다.</p><p><a href="https://developer.apple.com/kr/wwdc23/swift-student-challenge/">Swift Student Challenge에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
