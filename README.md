@@ -45,9 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 05월 19일  
-<span class="article-text"><p>iOS 16.6, iPadOS 16.6, macOS 13.5, tvOS 16.6 및 watchOS 9.6의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 14.3.1 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하십시오. 문제가 발생하거나 피드백이 있으시면 Apple에 문의해 주시기 바랍니다. Apple은 여러분의 피드백을 중요하게 생각합니다. 여러분의 피드백을 통해 문제를 해결하고 기능을 향상하며 문서를 업데이트합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></span>
+###  Apple 디자인 어워드 수상 후보작 발표  
+###### 2023년 05월 23일  
+<span class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/020C144B-0FE5-49A1-ADB2-7B01072574C7/2048.jpeg"/></div><p>Apple 디자인 어워드는 포용성, 기쁨과 재미, 상호작용, 사회적 영향력, 영상 및 그래픽, 혁신 부문에서 뛰어난 성과를 인정받은 앱과 게임을 선정합니다. 올해 수상 후보작을 알아보고, 2023년 6월 5일 오후 6시 30분(태평양 연안 표준시)에 발표되는 수상작에도 많은 관심 부탁드립니다.</p><p><a href="https://developer.apple.com/kr/design/awards/">수상 <span class="icon icon-after icon-chevronright nowrap">후보작 보기</span></a></p></span>
