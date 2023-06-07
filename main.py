@@ -26,7 +26,7 @@ def IOSDeveloperNewsScraping():
 
     title += '###  '+section.find('h2','article-title').text + "  \n"
     date = "###### " + soup.find('p', 'article-date').text + "  \n"
-    text = str(section.find('span', 'article-text'))
+    text = section.find('span', 'article-text')
     return title + date + text
 
 
