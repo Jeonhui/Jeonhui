@@ -22,11 +22,11 @@ def IOSDeveloperNewsScraping():
     title = ""
     temp = section.find('img', 'article-image')
     if temp is not None:
-        title = '![이미지](https://developer.apple.com'+temp.attrs['src']+')  \n'
+        title = '![이미지](https://developer.apple.com' + temp.attrs['src'] + ')  \n'
 
-    title += '###  '+section.find('h2','article-title').text + "  \n"
+    title += '###  ' + section.find('h2', 'article-title').text + "  \n"
     date = "###### " + soup.find('p', 'article-date').text + "  \n"
-    text = section.find('span', 'article-text')
+    text = str(section.find(class_='article-text'))
     return title + date + text
 
 
