@@ -45,14 +45,12 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  WWDC23 랩 및 활동에 등록하세요  
-###### 2023년 06월 06일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1AC9D4F4-43B5-4913-B149-B0486FFE64FE/2048.jpeg"/></div><p>온라인으로 진행되는 랩 및 활동을 통해 일주일간 Apple 엔지니어, 디자이너 및 전문가들과 교류할 수 있습니다.</p><h3>1:1 랩</h3><p>개발 기본 사항, 복잡한 개념 및 그 밖의 여러 가지 내용에 관해 개별 맞춤화된 지도를 받을 수 있습니다. 새로운 Apple 기술을 구현하고, UI 디자인 원리를 살펴보고, App Store에서 입지를 키우는 방법에 대해 자세히 알아보실 수 있습니다.</p><h3>활동</h3><p>Slack에 흥미로운 활동이 다양하게 준비되어 있습니다.</p><ul>
-<li>Q&amp;A 세션을 통해 엔지니어링 및 디자인 관련 질문을 해보세요.</li>
-<li>세션 비디오를 보면서 실시간 대화에 참여 또는 팔로우하고 발표자와의 Q&amp;A 세션에도 참여해 보세요.</li>
-<li>커뮤니티 아이스브레이커에서 다른 개발자 및 Apple 팀원들과 교류해 보세요.</li>
-<li>최신 프레임워크를 시험해 보고, 디자인 콘셉트도 적용해 보며, 스터디 홀에 창작물을 공유해 보세요.</li>
-<li>6월 6일, 업계 최고의 경연자에 맞서 퀴즈에 도전해 보세요.</li>
-</ul><p>랩 및 활동은 모든 Apple Developer Program 및 Apple Developer Enterprise Program 맴버는 물론 2023년 Swift Student Challenge 지원자들에게도 열려 있습니다.</p><p><a href="https://developer.apple.com/wwdc23/labs-and-activities/dashboard/upcoming"><span class="icon icon-after icon-chevronright nowrap">랩 등록하기</span></a></p>
-<p><a href="https://developer.apple.com/wwdc23/labs-and-activities/dashboard/upcoming/activities"><span class="icon icon-after icon-chevronright nowrap">활동 등록하기</span></a></p>
-<p><a href="https://developer.apple.com/kr/wwdc23/">WWDC23에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
+###  WWDC23 리소스 및 설문조사  
+###### 2023년 06월 09일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/04E0F9DF-A231-4A1B-AEF9-CA97585EAF51/2048.jpeg"/></div><p>WWDC23에 참여해 주신 모든 분들께 진심으로 감사드립니다. 의미있고 재미있는 소통의 컨퍼런스가 되셨길 바랍니다.
+아래 컨퍼런스 리소스를 참고하시기 바랍니다.</p><ul>
+<li><a href="https://developer.apple.com/videos/wwdc2023/">세션 시청하기</a></li>
+<li><a href="https://developer.apple.com/news/?id=cj1fjit2">세션 하이라이트 시청하기</a></li>
+<li><a href="https://developer.apple.com/whats-new/">새로 발표된 주요 기술에 대해 읽어보기(영문)</a></li>
+<li><a href="https://developer.apple.com/sample-code/wwdc/2023/">세션에서 샘플 코드 보기(영문)</a></li>
+</ul><p>올해 컨퍼런스에 대한 여러분의 의견을 수렴하고자 설문조사를 실시합니다. 의견을 공유해 주실 분께서는 WWDC23 설문지를 작성해 주세요.</p><p><a href="https://essentials.applesurveys.com/jfe/form/SV_5ssgxgWFVl2n1Ea"><span class="icon icon-after icon-chevronright nowrap">설문조사 참여하기</span></a></p></div>
