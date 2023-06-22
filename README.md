@@ -45,12 +45,8 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  WWDC23 리소스 및 설문조사  
-###### 2023년 06월 09일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/04E0F9DF-A231-4A1B-AEF9-CA97585EAF51/2048.jpeg"/></div><p>WWDC23에 참여해 주신 모든 분들께 진심으로 감사드립니다. 의미있고 재미있는 소통의 컨퍼런스가 되셨길 바랍니다.
-아래 컨퍼런스 리소스를 참고하시기 바랍니다.</p><ul>
-<li><a href="https://developer.apple.com/videos/wwdc2023/">세션 시청하기</a></li>
-<li><a href="https://developer.apple.com/news/?id=cj1fjit2">세션 하이라이트 시청하기</a></li>
-<li><a href="https://developer.apple.com/whats-new/">새로 발표된 주요 기술에 대해 읽어보기(영문)</a></li>
-<li><a href="https://developer.apple.com/sample-code/wwdc/2023/">세션에서 샘플 코드 보기(영문)</a></li>
-</ul><p>올해 컨퍼런스에 대한 여러분의 의견을 수렴하고자 설문조사를 실시합니다. 의견을 공유해 주실 분께서는 WWDC23 설문지를 작성해 주세요.</p><p><a href="https://essentials.applesurveys.com/jfe/form/SV_5ssgxgWFVl2n1Ea"><span class="icon icon-after icon-chevronright nowrap">설문조사 참여하기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/xcode-beta/xcode-beta-128x128_2x.png)  
+###  이제 visionOS SDK를 사용할 수 있습니다  
+###### 2023년 06월 21일  
+<div class="article-text"><p>Apple Vision Pro에 펼쳐질 무한한 가능성의 공간을 채울 최첨단 공간 컴퓨팅 앱을 만들어 보세요. visionOS용 3D 콘텐츠를 쉽게 미리 보고 준비할 수 있는 새로운 도구 Reality Composer Pro와 visionOS SDK가 포함된 Xcode 15 베타 2를 다운로드해 보세요. visionOS 타겟을 기존 프로젝트에 추가하거나 완전히 새로운 앱을 빌드한 후 Xcode Preview에서 앱을 반복 실행할 수 있습니다. 새로운 visionOS 시뮬레이터에서 앱과 상호작용하고, 다양한 실내 레이아웃과 조명 환경을 적용해 보고, 테스트 및 시각적 효과를 생성해 보세요. 여러분의 개발 과정을 도와드릴 새로운 문서와 샘플 코드도 준비되어 있습니다.</p><p><a href="https://developer.apple.com/download/all/?q=xcode%2015">Xcode 15 <span class="icon icon-after icon-chevronright nowrap">베타 2 다운로드하기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/visionos/">visionOS 개발에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
