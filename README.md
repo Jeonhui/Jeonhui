@@ -45,8 +45,28 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/xcode-beta/xcode-beta-128x128_2x.png)  
-###  이제 visionOS SDK를 사용할 수 있습니다  
-###### 2023년 06월 21일  
-<div class="article-text"><p>Apple Vision Pro에 펼쳐질 무한한 가능성의 공간을 채울 최첨단 공간 컴퓨팅 앱을 만들어 보세요. visionOS용 3D 콘텐츠를 쉽게 미리 보고 준비할 수 있는 새로운 도구 Reality Composer Pro와 visionOS SDK가 포함된 Xcode 15 베타 2를 다운로드해 보세요. visionOS 타겟을 기존 프로젝트에 추가하거나 완전히 새로운 앱을 빌드한 후 Xcode Preview에서 앱을 반복 실행할 수 있습니다. 새로운 visionOS 시뮬레이터에서 앱과 상호작용하고, 다양한 실내 레이아웃과 조명 환경을 적용해 보고, 테스트 및 시각적 효과를 생성해 보세요. 여러분의 개발 과정을 도와드릴 새로운 문서와 샘플 코드도 준비되어 있습니다.</p><p><a href="https://developer.apple.com/download/all/?q=xcode%2015">Xcode 15 <span class="icon icon-after icon-chevronright nowrap">베타 2 다운로드하기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/visionos/">visionOS 개발에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
+###  이제 새로운 디자인 리소스를 사용할 수 있습니다  
+###### 2023년 06월 26일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7DD13ED0-F50B-4568-813A-2C89D0D8DB25/2048.jpeg"/></div><p>Apple 플랫폼용 앱 제작을 위한 새롭고 업데이트된 디자인 리소스로 그 어느 때보다도 쉽게 앱을 빠르고 정확히 디자인할 수 있습니다.</p><ul>
+<li>
+<p><a href="https://developer.apple.com/design/resources/#visionos-apps">Figma 및 Sketch용 visionOS 디자인 라이브러리와 템플릿(영문)</a>.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/design/resources/">Figma 및 Sketch용 iOS 17 및 iPadOS 17 디자인 키트(영문)</a>.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/design/resources/#macos-apps">Figma 및 Sketch용 macOS Sonoma 디자인 키트(영문)</a>.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/design/resources/#watchos-apps">Sketch용 watchOS 10 디자인 키트(영문)</a>.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/sf-symbols/">700개 이상의 새 기호가 추가된 SF Symbols 5 베타(영문)</a>.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/design/human-interface-guidelines">업데이트된 Human Interface Guidelines(영문)</a> - <a href="https://developer.apple.com/cn/design/human-interface-guidelines">중국어</a> 및 <a href="https://developer.apple.com/jp/design/human-interface-guidelines">일본어</a> 지원.</p>
+</li>
+<li>
+<p><a href="https://developer.apple.com/fonts/">SF 스크립트 확장 프로그램(영문)</a>(아르메니아어, 조지아어, 히브리어 지원).</p>
+</li>
+</ul></div>
