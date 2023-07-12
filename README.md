@@ -45,28 +45,18 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  이제 새로운 디자인 리소스를 사용할 수 있습니다  
-###### 2023년 06월 26일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7DD13ED0-F50B-4568-813A-2C89D0D8DB25/2048.jpeg"/></div><p>Apple 플랫폼용 앱 제작을 위한 새롭고 업데이트된 디자인 리소스로 그 어느 때보다도 쉽게 앱을 빠르고 정확히 디자인할 수 있습니다.</p><ul>
-<li>
-<p><a href="https://developer.apple.com/design/resources/#visionos-apps">Figma 및 Sketch용 visionOS 디자인 라이브러리와 템플릿(영문)</a>.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/design/resources/">Figma 및 Sketch용 iOS 17 및 iPadOS 17 디자인 키트(영문)</a>.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/design/resources/#macos-apps">Figma 및 Sketch용 macOS Sonoma 디자인 키트(영문)</a>.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/design/resources/#watchos-apps">Sketch용 watchOS 10 디자인 키트(영문)</a>.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/sf-symbols/">700개 이상의 새 기호가 추가된 SF Symbols 5 베타(영문)</a>.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/design/human-interface-guidelines">업데이트된 Human Interface Guidelines(영문)</a> - <a href="https://developer.apple.com/cn/design/human-interface-guidelines">중국어</a> 및 <a href="https://developer.apple.com/jp/design/human-interface-guidelines">일본어</a> 지원.</p>
-</li>
-<li>
-<p><a href="https://developer.apple.com/fonts/">SF 스크립트 확장 프로그램(영문)</a>(아르메니아어, 조지아어, 히브리어 지원).</p>
-</li>
-</ul></div>
+![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  앱, 앱 내 구입, 구독에 대한 가격 및 세금 변동 사항  
+###### 2023년 07월 10일  
+<div class="article-text"><p>App Store의 상거래 및 결제 시스템은 175개 스토어프론트에서 44개 통화를 사용하여 글로벌 규모로 제품 및 서비스를 편리하게 설정하고 판매할 수 있도록 구축되었습니다. 세금 규정 또는 환율이 변경되면 특정 지역의 App Store에서 가격을 업데이트하거나 수익금을 조정해야 하는 경우가 있습니다. 이러한 가격 업데이트는 금융 데이터 제공업체의 공개 환율 정보를 바탕으로 이루어지며, 이는 앱 및 앱 내 구입 가격이 모든 스토어프론트에서 균등하게 유지되도록 하기 위해서입니다.</p><p>7월 25일부터 이집트, 나이지리아, 탄자니아 및 튀르키예 스토어프론트의 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 업데이트됩니다. 이러한 업데이트에는 다음과 같이 조정된 세율이 반영됩니다.</p><ul>
+<li>이집트: 14%의 VAT(부가가치세) 도입</li>
+<li>탄자니아: 18%의 VAT 및 2%의 디지털 서비스세 도입</li>
+<li>튀르키예: VAT 비율이 18%에서 20%로 인상</li>
+</ul><h3>가격에 미치는 영향</h3><ul>
+<li>이집트, 나이지리아, 탄자니아 또는 튀르키예를 앱 또는 앱 내 구입(가동 갱신 구독 제외)의 기준 스토어프론트로 선택한 경우 해당 스토어의 가격은 변경되지 않습니다. 다른 스토어프론트의 가격은 선택한 기준 가격과의 균등화를 유지하기 위해 업데이트됩니다.</li>
+<li>앱 또는 앱 내 구입(가동 갱신 구독 제외)의 기준 스토어프론트가 이집트, 나이지리아, 탄자니아 또는 튀르키예가 아닌 경우 이집트, 나이지리아, 탄자니아 및 튀르키예 스토어프론트의 가격이 인상됩니다.</li>
+<li>앱 내 구입이 자동 갱신 구독이거나 자동 균등화된 가격을 사용하는 대신 스토어프론트에서 수동으로 가격을 관리하는 경우 가격은 변경되지 않습니다.</li>
+</ul><p><a href="https://appstoreconnect.apple.com/">App Store Connect</a>의 나의 앱에서 가격 및 사용 가능 여부 섹션이 업데이트되어 이러한 변경 예정 사항이 표시됩니다. 언제나 그랬듯이 앱, 앱 내 구입 및 자동 갱신 구독 가격은 언제든지 변경할 수 있습니다.</p><h3>수익금 및 과세에 미치는 영향</h3><p>앱 및 앱 내 구입(자동 갱신 구독 포함)의 판매 수익금은 새로운 세율 및 업데이트된 가격을 반영하도록 변경됩니다. 유료 응용 프로그램 계약의 부록 B에 Apple에서 이집트 및 탄자니아에 적용하는 세금을 징수하여 납부한다는 내용이 업데이트되었습니다.</p><h3>가격 관리에 대해 자세히 알아보기</h3><p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/schedule-price-changes/">새로운 <span class="icon icon-after icon-chevronright nowrap">가격 보기</span></a></p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/set-a-price/">기준 국가 또는 <span class="icon icon-after icon-chevronright nowrap">지역 선택하기</span></a></p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-region">지역별 가격 및 사용 가능 여부 <span class="icon icon-after icon-chevronright nowrap">시작 시간</span></a></p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase">앱 내 구입 <span class="icon icon-after icon-chevronright nowrap">가격 설정하기</span></a></p></div>
