@@ -45,18 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  앱, 앱 내 구입, 구독에 대한 가격 및 세금 변동 사항  
-###### 2023년 07월 10일  
-<div class="article-text"><p>App Store의 상거래 및 결제 시스템은 175개 스토어프론트에서 44개 통화를 사용하여 글로벌 규모로 제품 및 서비스를 편리하게 설정하고 판매할 수 있도록 구축되었습니다. 세금 규정 또는 환율이 변경되면 특정 지역의 App Store에서 가격을 업데이트하거나 수익금을 조정해야 하는 경우가 있습니다. 이러한 가격 업데이트는 금융 데이터 제공업체의 공개 환율 정보를 바탕으로 이루어지며, 이는 앱 및 앱 내 구입 가격이 모든 스토어프론트에서 균등하게 유지되도록 하기 위해서입니다.</p><p>7월 25일부터 이집트, 나이지리아, 탄자니아 및 튀르키예 스토어프론트의 앱 및 앱 내 구입(자동 갱신 구독 제외) 가격이 업데이트됩니다. 이러한 업데이트에는 다음과 같이 조정된 세율이 반영됩니다.</p><ul>
-<li>이집트: 14%의 VAT(부가가치세) 도입</li>
-<li>탄자니아: 18%의 VAT 및 2%의 디지털 서비스세 도입</li>
-<li>튀르키예: VAT 비율이 18%에서 20%로 인상</li>
-</ul><h3>가격에 미치는 영향</h3><ul>
-<li>이집트, 나이지리아, 탄자니아 또는 튀르키예를 앱 또는 앱 내 구입(가동 갱신 구독 제외)의 기준 스토어프론트로 선택한 경우 해당 스토어의 가격은 변경되지 않습니다. 다른 스토어프론트의 가격은 선택한 기준 가격과의 균등화를 유지하기 위해 업데이트됩니다.</li>
-<li>앱 또는 앱 내 구입(가동 갱신 구독 제외)의 기준 스토어프론트가 이집트, 나이지리아, 탄자니아 또는 튀르키예가 아닌 경우 이집트, 나이지리아, 탄자니아 및 튀르키예 스토어프론트의 가격이 인상됩니다.</li>
-<li>앱 내 구입이 자동 갱신 구독이거나 자동 균등화된 가격을 사용하는 대신 스토어프론트에서 수동으로 가격을 관리하는 경우 가격은 변경되지 않습니다.</li>
-</ul><p><a href="https://appstoreconnect.apple.com/">App Store Connect</a>의 나의 앱에서 가격 및 사용 가능 여부 섹션이 업데이트되어 이러한 변경 예정 사항이 표시됩니다. 언제나 그랬듯이 앱, 앱 내 구입 및 자동 갱신 구독 가격은 언제든지 변경할 수 있습니다.</p><h3>수익금 및 과세에 미치는 영향</h3><p>앱 및 앱 내 구입(자동 갱신 구독 포함)의 판매 수익금은 새로운 세율 및 업데이트된 가격을 반영하도록 변경됩니다. 유료 응용 프로그램 계약의 부록 B에 Apple에서 이집트 및 탄자니아에 적용하는 세금을 징수하여 납부한다는 내용이 업데이트되었습니다.</p><h3>가격 관리에 대해 자세히 알아보기</h3><p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/schedule-price-changes/">새로운 <span class="icon icon-after icon-chevronright nowrap">가격 보기</span></a></p>
-<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-pricing/set-a-price/">기준 국가 또는 <span class="icon icon-after icon-chevronright nowrap">지역 선택하기</span></a></p>
-<p><a href="https://developer.apple.com/kr/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-region">지역별 가격 및 사용 가능 여부 <span class="icon icon-after icon-chevronright nowrap">시작 시간</span></a></p>
-<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase">앱 내 구입 <span class="icon icon-after icon-chevronright nowrap">가격 설정하기</span></a></p></div>
+###  visionOS 시뮬레이터를 넘어 앱 및 게임을 경험하세요  
+###### 2023년 07월 24일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4CC97B65-CD76-433A-8139-18D6DD7BB227/2048.jpeg"/></div><h3>Apple Vision Pro 호환성 평가</h3><p>Apple의 지원을 받아 visionOS, iPadOS 및 iOS 앱이 Vision Pro에서 예상대로 실행되는지 확인할 수 있습니다. 새로 게시된 호환성 체크리스트에 맞게 앱을 조정한 다음 Vision Pro 호환성 평가를 요청하세요.</p><p><a href="https://developer.apple.com/visionos/compatibility-evaluations/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p><h3>Apple Vision Pro 개발자 랩</h3><p>Vision Pro에서 실행되는 visionOS, iPadOS 및 iOS 앱을 경험해 보세요. 무한한 가능성의 공간을 채울 앱을 테스트하고 최적화할 수 있게 도와드립니다. 랩은 쿠퍼티노, 런던, 뮌헨, 상하이, 싱가포르 및 도쿄에서 진행됩니다.</p><p><a href="https://developer.apple.com/visionos/labs/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p><h3>Apple Vision Pro 개발자 키트</h3><p>Vision Pro에서 빌드하고 테스트해야 하는 visionOS용 앱에 관한 멋진 아이디어가 있으신가요? Vision Pro 개발자 키트를 신청해 보세요. 지속적으로 Vision Pro에 직접적인 접근 권한이 제공되므로 앱을 빠르게 빌드, 테스트 및 개선할 수 있어 visionOS에서 놀라운 공간 경험을 제공할 수 있습니다.</p><p><a href="https://developer.apple.com/visionos/developer-kit/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
