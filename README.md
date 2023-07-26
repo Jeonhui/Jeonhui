@@ -45,6 +45,13 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  visionOS 시뮬레이터를 넘어 앱 및 게임을 경험하세요  
-###### 2023년 07월 24일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4CC97B65-CD76-433A-8139-18D6DD7BB227/2048.jpeg"/></div><h3>Apple Vision Pro 호환성 평가</h3><p>Apple의 지원을 받아 visionOS, iPadOS 및 iOS 앱이 Vision Pro에서 예상대로 실행되는지 확인할 수 있습니다. 새로 게시된 호환성 체크리스트에 맞게 앱을 조정한 다음 Vision Pro 호환성 평가를 요청하세요.</p><p><a href="https://developer.apple.com/visionos/compatibility-evaluations/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p><h3>Apple Vision Pro 개발자 랩</h3><p>Vision Pro에서 실행되는 visionOS, iPadOS 및 iOS 앱을 경험해 보세요. 무한한 가능성의 공간을 채울 앱을 테스트하고 최적화할 수 있게 도와드립니다. 랩은 쿠퍼티노, 런던, 뮌헨, 상하이, 싱가포르 및 도쿄에서 진행됩니다.</p><p><a href="https://developer.apple.com/visionos/labs/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p><h3>Apple Vision Pro 개발자 키트</h3><p>Vision Pro에서 빌드하고 테스트해야 하는 visionOS용 앱에 관한 멋진 아이디어가 있으신가요? Vision Pro 개발자 키트를 신청해 보세요. 지속적으로 Vision Pro에 직접적인 접근 권한이 제공되므로 앱을 빠르게 빌드, 테스트 및 개선할 수 있어 visionOS에서 놀라운 공간 경험을 제공할 수 있습니다.</p><p><a href="https://developer.apple.com/visionos/developer-kit/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
+###  App Store 전문가와 만나보세요  
+###### 2023년 07월 25일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7ED4820B-E3B1-4F08-A0FE-1708671981CC/2048.jpeg"/></div><p>8월 1일~24일까지 진행되는 온라인 세션에 참여하여 App Store의 최신 기능에 대해 알아보고 다양한 질문에 대한 궁금증도 해결해 보세요. 라이브 프레젠테이션과 Q&amp;A 세션이 다양한 시간대 및 언어로 개최됩니다.</p><ul>
+<li>향상된 글로벌 가격 책정 방식, 스토어프론트별 가격 관리 도구, 추가 가격 포인트 등 App Store 가격 업그레이드 내용을 살펴보세요.</li>
+<li>앱 분석으로 사용자의 유입 경로를 측정하고 App Store의 기능을 활용하여 구독 비즈니스를 성장시키는 방법에 대해 알아봅니다.</li>
+<li>제품 페이지 최적화를 통해 제품 페이지의 다양한 요소를 테스트하여 사람들의 공감을 가장 잘 끌어내는 요소가 무엇인지 알아봅니다.</li>
+<li>맞춤형 제품 페이지로 제품 페이지의 추가 버전을 생성하여 특정 기능이나 콘텐츠를 강조하는 방법을 알아봅니다.</li>
+<li>Game Center를 통해 노출도 및 참여도를 높이는 방법과 앱 내 이벤트를 구성하는 방법을 알아봅니다.</li>
+</ul><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
+<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
