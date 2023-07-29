@@ -45,13 +45,8 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 전문가와 만나보세요  
-###### 2023년 07월 25일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7ED4820B-E3B1-4F08-A0FE-1708671981CC/2048.jpeg"/></div><p>8월 1일~24일까지 진행되는 온라인 세션에 참여하여 App Store의 최신 기능에 대해 알아보고 다양한 질문에 대한 궁금증도 해결해 보세요. 라이브 프레젠테이션과 Q&amp;A 세션이 다양한 시간대 및 언어로 개최됩니다.</p><ul>
-<li>향상된 글로벌 가격 책정 방식, 스토어프론트별 가격 관리 도구, 추가 가격 포인트 등 App Store 가격 업그레이드 내용을 살펴보세요.</li>
-<li>앱 분석으로 사용자의 유입 경로를 측정하고 App Store의 기능을 활용하여 구독 비즈니스를 성장시키는 방법에 대해 알아봅니다.</li>
-<li>제품 페이지 최적화를 통해 제품 페이지의 다양한 요소를 테스트하여 사람들의 공감을 가장 잘 끌어내는 요소가 무엇인지 알아봅니다.</li>
-<li>맞춤형 제품 페이지로 제품 페이지의 추가 버전을 생성하여 특정 기능이나 콘텐츠를 강조하는 방법을 알아봅니다.</li>
-<li>Game Center를 통해 노출도 및 참여도를 높이는 방법과 앱 내 이벤트를 구성하는 방법을 알아봅니다.</li>
-</ul><p><a href="https://developer.apple.com/kr/events/app-store/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p>
-<p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  이제 허용된 사유를 명시해야 하는 API 목록을 사용할 수 있습니다  
+###### 2023년 07월 27일  
+<div class="article-text"><p>Apple은 Apple 플랫폼에서 사용자의 개인 정보를 보호하기 위해 최선을 다하고 있습니다. Apple은 지문 채취를 통해 사용자의 기기에 대한 데이터를 수집하는 데 오용될 수 있는 일부 API 세트가 있음을 인지하고 있으며, 이는 Apple Developer Program 사용권 계약에서 금지하고 있습니다. Apple은 이러한 API의 오용을 방지하기 위해 <a href="https://developer.apple.com/videos/play/wwdc2023/10060/?time=457">WWDC23(영문)</a>에서 앱의 개인정보 보호 목록에 이러한 API를 사용하는 이유를 개발자가 명시해야 한다고 발표하였습니다. 본 조치를 통해 해당 API가 앱에서 의도한 목적으로만 사용되도록 합니다. 이러한 절차의 일환으로 개발자는 앱에서 API를 사용하는 방식을 정확하게 반영하는 승인된 사유를 하나 이상 선택해야 하며, 앱에서 개발자가 선택한 이유에 한해서만 API를 사용할 수 있습니다.</p><p>2023년 가을부터 사유를 명시해야 하는 API(타사 SDK 포함)를 사용하는 새로운 앱 또는 앱 업데이트를 App Store Connect에 업로드하는 경우, 앱의 개인정보 보호 목록에 승인된 사유를 제공하지 않으면 알림을 받게 됩니다. 또한 2024년 봄부터 App Store Connect에 새로운 앱 또는 앱 업데이트를 업로드하려면 앱의 개인정보 보호 목록에 앱이 API를 사용하는 방식을 정확하게 반영하는 승인된 사유를 포함하고 있어야 합니다.</p><p>허용된 사유에서 아직 다루고 있지 않은 필수 사유가 필요한 API의 사용 사례가 있고 해당 사용 사례가 앱을 사용하는 사람들에게 직접적으로 도움이 되는 경우 Apple에 알려 주시기 바랍니다.</p><p><a href="https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api">API 목록 및 허용된 <span class="icon icon-after icon-chevronright nowrap">사유 보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/contact/request/privacy-manifest-reason/">새로운 허용 사유 <span class="icon icon-after icon-chevronright nowrap">요청 제출하기(영문)</span></a></p></div>
