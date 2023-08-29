@@ -45,8 +45,16 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/storekit/storekit-128x128_2x.png)  
-###  사용자가 앱을 종료할 필요 없이 청구 문제를 해결할 수 있도록 지원하기  
-###### 2023년 08월 09일  
-<div class="article-text"><p><a href="https://developer.apple.com/kr/news/?id=mfx8xxtc">4월에 발표</a>된 바와 같이, 이제 곧 앱을 종료하지 않고도 결제 문제를 해결할 수 있게 되므로 앱 사용자가 콘텐츠, 서비스, 프리미엄 기능의 구독을 손쉽게 유지할 수 있습니다.</p><p>2023년 8월 14일부터 청구 문제로 인해 자동 갱신 구독이 적용되지 않을 경우 고객에게 Apple ID 결제 수단을 업데이트하도록 안내하는 메시지와 함께 시스템에서 제공하는 시트가 앱 내에 표시됩니다. 샌드박스에서 시트를 테스트해볼 수도 있고, StoreKit의 <a href="https://developer.apple.com/documentation/storekit/message/3954510-messages">messages(영문)</a> 및 <a href="https://developer.apple.com/documentation/storekit/message/3963915-display">display(영문)</a>를 사용하여 시트를 숨기거나 표시가 지연되도록 할 수 있습니다. 이 기능은 iOS 16.4 및 iPadOS 16.4 이후 버전에서 사용할 수 있으며, 이 기능을 도입하기 위한 조치는 필요하지 않습니다.</p><p><a href="https://developer.apple.com/documentation/storekit/message/reason/4123328-billingissue">시스템에서 제공하는 시트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/storekit/in-app_purchase/testing_in-app_purchases_with_sandbox/testing_failing_subscription_renewals_and_in-app_purchases">샌드박스에서 청구 문제 <span class="icon icon-after icon-chevronright nowrap">테스트해 보기(영문)</span></a></p></div>
+###  Apple Developer Program 사용권 계약서가 업데이트되었습니다  
+###### 2023년 08월 28일  
+<div class="article-text"><p>업데이트된 정책과 앞으로 출시될 기능을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
+<li>
+<p>섹션 3.3.39, 정의: Journaling Suggestions API 사용을 위한 요건을 명시했습니다.</p>
+</li>
+<li>
+<p>부칙 1 섹션 6.3, 부칙 2 및 3 섹션 7.3: 콘텐츠 조정 과정은 인적·체계적 검토를 거치며, 불법적이고 해로운 콘텐츠에 대한 조치라는 점을 명시하는 표현을 추가했습니다.</p>
+</li>
+<li>
+<p>부칙 1 별첨 D 섹션 3, 부칙 2 및 3 별첨 E 섹션 3: 유럽 연합(EU) 소속 지역 내 거주 개발자들이 이용할 수 있는 디지털서비스법(DSA) 배상 옵션에 관한 내용을 추가했습니다.</p>
+</li>
+</ul><p><a href="https://developer.apple.com/kr/support/terms/">전체 이용 <span class="icon icon-after icon-chevronright nowrap">약관 보기</span></a></p></div>
