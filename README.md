@@ -47,14 +47,14 @@ Contact
 -->                                                                    
 ###  Apple Developer Program 사용권 계약서가 업데이트되었습니다  
 ###### 2023년 08월 28일  
-<div class="article-text"><p>업데이트된 정책과 앞으로 출시될 기능을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
+<div class="article-text"><p>앞으로 출시될 기능과 업데이트된 정책을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
 <li>
 <p>섹션 3.3.39, 정의: Journaling Suggestions API 사용을 위한 요건을 명시했습니다.</p>
 </li>
 <li>
-<p>부칙 1 섹션 6.3, 부칙 2 및 3 섹션 7.3: 콘텐츠 조정 과정은 인적·체계적 검토를 거치며, 불법적이고 해로운 콘텐츠에 대한 조치라는 점을 명시하는 표현을 추가했습니다.</p>
+<p>부칙 1 별첨 D 섹션 3, 부칙 2 및 3 별첨 E 섹션 3: 유럽 연합(EU) 소속 지역 내 거주 개발자들이 이용할 수 있는 디지털서비스법(DSA) 배상 옵션에 관한 내용을 추가했습니다.</p>
 </li>
 <li>
-<p>부칙 1 별첨 D 섹션 3, 부칙 2 및 3 별첨 E 섹션 3: 유럽 연합(EU) 소속 지역 내 거주 개발자들이 이용할 수 있는 디지털서비스법(DSA) 배상 옵션에 관한 내용을 추가했습니다.</p>
+<p>부칙 1 섹션 6.3, 부칙 2 및 3 섹션 7.3: 콘텐츠 조정 과정은 인적·체계적 검토를 거치며, 불법적이고 해로운 콘텐츠에 대한 조치라는 점을 명시하는 표현을 추가했습니다.</p>
 </li>
 </ul><p><a href="https://developer.apple.com/kr/support/terms/">전체 이용 <span class="icon icon-after icon-chevronright nowrap">약관 보기</span></a></p></div>
