@@ -45,16 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  Apple Developer Program 사용권 계약서가 업데이트되었습니다  
-###### 2023년 08월 28일  
-<div class="article-text"><p>앞으로 출시될 기능과 업데이트된 정책을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
-<li>
-<p>섹션 3.3.39, 정의: Journaling Suggestions API 사용을 위한 요건을 명시했습니다.</p>
-</li>
-<li>
-<p>부칙 1 별첨 D 섹션 3, 부칙 2 및 3 별첨 E 섹션 3: 유럽 연합(EU) 소속 지역 내 거주 개발자들이 이용할 수 있는 디지털서비스법(DSA) 배상 옵션에 관한 내용을 추가했습니다.</p>
-</li>
-<li>
-<p>부칙 1 섹션 6.3, 부칙 2 및 3 섹션 7.3: 콘텐츠 조정 과정은 인적·체계적 검토를 거치며, 불법적이고 해로운 콘텐츠에 대한 조치라는 점을 명시하는 표현을 추가했습니다.</p>
-</li>
-</ul><p><a href="https://developer.apple.com/kr/support/terms/">전체 이용 <span class="icon icon-after icon-chevronright nowrap">약관 보기</span></a></p></div>
+###  Apple Entrepreneur Camp 신청을 접수합니다  
+###### 2023년 09월 07일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E52AF812-C53B-4CE7-BE31-722D62435E9A/2048.jpeg"/></div><p>Apple Entrepreneur Camp는 소수 집단에 속한 창업자와 개발자를 지원하고 기술 분야의 창업자 파이프라인과 지속성을 장려합니다. 여성*, 흑인, 히스패닉/라틴계 캠프 이수자들의 성공에 힘입어 올가을부터는 대상을 확대하여 기존 앱 기반 비즈니스를 개선하고 발전시키려는 원주민 출신 전문가들의 참여를 기다립니다. 참가자는 일대일로 코드 수준의 지도를 받고, 인사이트와 영감을 얻고, 전례 없는 수준의 Apple 엔지니어 및 전문가의 조언을 구할 수 있으며, Apple Entrepreneur Camp 이수자들로 이루어진 확장된 글로벌 네트워크의 일원이 됩니다.</p><p>기존 앱이 App Store에 있거나 TestFlight에서 작동하는 베타 빌드 또는 이에 상응하는 앱을 보유한 창업자 및 개발자 여러분의 참여를 기다리고 있습니다. 캠프는 2023년 10월부터 온라인으로 진행됩니다. 앱 기반 조직을 운영하는 자격 대상인 기업가의 신청을 환영합니다. 해당 프로그램에 관심을 가지실 다른 분들께도 정보를 공유해 주세요.</p><p>신청 접수는 2023년 9월 24일에 마감됩니다.</p><p><a href="https://developer.apple.com/entrepreneur-camp/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p><p class="sosumi margin-top-small">* Apple은 젠더 표현을 기본적인 권리로 존중합니다. 모든 여성의 프로그램 참여를 환영합니다.</p></div>
