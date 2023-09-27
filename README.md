@@ -45,8 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
-###  이제 지역별 사전 주문을 설정할 수 있습니다  
-###### 2023년 09월 13일  
-<div class="article-text"><p>앱 및 게임 사전 주문을 제공하는 것은 App Stroe에 곧 출시될 앱에 대한 인지도와 기대감을 높일 수 있는 좋은 방법입니다. 이제 지역마다 다양하게 사전 주문을 제공해 보세요. 사용자에게 앱 다운로드를 바로 제공하는 지역과 앱 사전 주문을 제공하는 지역을 동시에 구분하여 설정할 수 있습니다. 이렇게 앱의 사용 가능 여부를 유연하게 관리하는 새로운 방법을 통해 사전 주문을 제공하고 지역마다 출시일을 다르게 설정하여 앱을 새로운 지역으로 확장할 수 있습니다.</p><p><a href="https://developer.apple.com/app-store/pre-orders/">사전 주문에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-your-apps-availability/publish-for-pre-order/">앱의 사용 가능 여부를 관리하는 방법에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
+###  Apple 전문가와의 만남  
+###### 2023년 09월 26일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/053312EB-FF8B-40A6-A4D9-DCFE9BC7A628/2048.jpeg"/></div><p>개발자들을 대상으로 전 세계에서 열리는 다양한 세션, 컨설팅, 랩 등에 참여해 보세요.</p><p>개발자라면 누구나 Apple Developer 활동에 참여할 수 있습니다. 다양한 활동이 1년 내내 전 세계에서 대면 또는 온라인으로 열립니다. 기존 앱 또는 게임을 강화하고자 하거나, 디자인을 다듬고자 하거나, 신규 프로젝트를 출시하고자 하는 모든 개발자와 디자이너를 대상으로 합니다.</p><p><a href="https://developer.apple.com/kr/events/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></div>
