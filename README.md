@@ -45,9 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 09월 27일  
-<div class="article-text"><p>iOS 17.1, iPadOS 17.1, macOS 14.1, tvOS 17.1 및 watchOS 10.1의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하세요. 문제가 발생하거나 피드백이 있으시면 Apple에 알려 주시기 바랍니다. Apple에서는 여러분의 피드백을 소중하게 생각하며, 이를 통해 문제를 해결하고, 기능을 향상하며, 문서 업데이트에 도움을 받고 있습니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/apple-vision-pro-labs/apple-vision-pro-labs-256x256_2x.png)  
+###  Apple Vision Pro 개발자 랩, 뉴욕시와 시드니로 확대  
+###### 2023년 10월 17일  
+<div class="article-text"><p>Apple은 전 세계 개발자들이 Apple Vision Pro 랩에 보내 주신 성원에 힘입어 랩의 개최 장소를 뉴욕시와 시드니로 확대할 예정입니다. 개발자 랩에 참여하여 visionOS, iPadOS, iOS 앱을 Apple Vision Pro에서 바로 테스트해 보고, Apple 전문가의 도움을 받아 새로운 플랫폼으로 앱을 확장해 보세요. 랩은 쿠퍼티노, 런던, 뮌헨, 상하이, 싱가포르, 도쿄에서도 열립니다.</p><p><a href="https://developer.apple.com/kr/visionos/labs/">랩 참여 <span class="icon icon-after icon-chevronright nowrap">신청서 제출하기</span></a></p><p><a href="https://developer.apple.com/kr/visionos/work-with-apple/">Apple과 협력</a>해 visionOS를 대상으로 출시를 준비하는 다양한 방법에 대해 알아보세요.</p></div>
