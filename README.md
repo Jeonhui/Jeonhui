@@ -45,7 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/apple-vision-pro-labs/apple-vision-pro-labs-256x256_2x.png)  
-###  Apple Vision Pro 개발자 랩, 뉴욕시와 시드니로 확대  
-###### 2023년 10월 17일  
-<div class="article-text"><p>Apple은 전 세계 개발자들이 Apple Vision Pro 개발자 랩에 보내 주신 성원에 힘입어 랩의 개최 장소를 뉴욕시와 시드니로 확대할 예정입니다. 개발자 랩에 참여하여 visionOS, iPadOS, iOS 앱을 Apple Vision Pro에서 바로 테스트해 보고, Apple 전문가의 도움을 받아 새로운 플랫폼으로 앱을 확장해 보세요. 랩은 쿠퍼티노, 런던, 뮌헨, 상하이, 싱가포르, 도쿄에서도 열립니다.</p><p><a href="https://developer.apple.com/kr/visionos/labs/">랩 참여 <span class="icon icon-after icon-chevronright nowrap">신청서 제출하기</span></a></p><p><a href="https://developer.apple.com/kr/visionos/work-with-apple/">Apple과 협력</a>해 visionOS를 대상으로 출시를 준비하는 다양한 방법에 대해 알아보세요.</p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/notifications/notifications-128x128_2x.png)  
+###  이제 푸시 알림 콘솔에서 알림 전송에 관한 새로운 지표를 확인할 수 있습니다  
+###### 2023년 10월 19일  
+<div class="article-text"><p>이제 푸시 알림 콘솔에서 APNs(Apple Push Notification Service)를 통해 프로덕션에서 전송된 알림과 관련된 지표를 확인할 수 있습니다. 콘솔의 직관적인 인터페이스로 알림의 전송 상태와 다양한 통계 자료에 관한 인사이트를 종합적으로 파악할 수 있으며, 이를 푸시 알림의 유형과 중요도에 따라 세분화하여 볼 수도 있습니다.</p><p><a href="https://developer.apple.com/videos/play/wwdc2023/10025/">WWDC23(한국어 자막)</a>에서 새롭게 소개된 푸시 알림 콘솔은 APNs를 통해 Apple 기기에 테스트 알림을 쉽게 보내게 해 주는 콘솔입니다.</p><p><a href="https://developer.apple.com/notifications/push-notifications-console/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
