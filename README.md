@@ -45,7 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/notifications/notifications-128x128_2x.png)  
-###  이제 푸시 알림 콘솔에서 알림 전송에 관한 새로운 지표를 확인할 수 있습니다  
-###### 2023년 10월 19일  
-<div class="article-text"><p>이제 푸시 알림 콘솔에서 APNs(Apple Push Notification Service)를 통해 프로덕션에서 전송된 알림과 관련된 지표를 확인할 수 있습니다. 콘솔의 직관적인 인터페이스로 알림의 전송 상태와 다양한 통계 자료에 관한 인사이트를 종합적으로 파악할 수 있으며, 이를 푸시 알림의 유형과 중요도에 따라 세분화하여 볼 수도 있습니다.</p><p><a href="https://developer.apple.com/videos/play/wwdc2023/10025/">WWDC23(한국어 자막)</a>에서 새롭게 소개된 푸시 알림 콘솔은 APNs를 통해 Apple 기기에 테스트 알림을 쉽게 보내게 해 주는 콘솔입니다.</p><p><a href="https://developer.apple.com/notifications/push-notifications-console/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/testflight/testflight-128x128_2x.png)  
+###  TestFlight로 더욱 간편해진 테스터 관리  
+###### 2023년 10월 24일  
+<div class="article-text"><p>TestFlight로 앱의 베타 버전에 대한 피드백을 간편하게 수집하고 App Store에 게시할 최종 버전의 완성도를 더욱 높여 보세요. 이제 App Store Connect에서 더욱 향상된 제어 기능으로 테스터 참여도를 면밀히 평가하고 참여 현황을 관리하여 베타 테스트의 효과를 극대화할 수 있습니다. 상태 및 참여 지표(세션, 충돌, 피드백 등)별로 테스터를 분류하고, 참여도가 저조한 테스터를 목록에서 제거할 수 있습니다. 기기 및 OS별로 필터링하거나 관련 테스터를 새 그룹에 추가할 수도 있습니다.</p><p><a href="https://developer.apple.com/kr/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information">테스터 관리에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p><p><a href="https://developer.apple.com/kr/testflight/">TestFlight에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
