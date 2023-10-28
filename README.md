@@ -48,6 +48,6 @@ Contact
 ![이미지](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
 ###  최신 베타 릴리즈를 사용하여 준비하기  
 ###### 2023년 10월 26일  
-<div class="article-text"><p>iOS 17.2, iPadOS 17.2, macOS 14.2, tvOS 17.2 및 watchOS 10.2의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15.1 베타 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하세요. 문제가 발생하거나 피드백이 있으시면 Apple에 알려 주시기 바랍니다. Apple에서는 여러분의 피드백을 소중하게 생각하며, 이를 통해 문제를 해결하고, 기능을 향상하며, 문서 업데이트에 도움을 받고 있습니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
+<div class="article-text"><p>iOS 17.2, iPadOS 17.2, macOS 14.2, tvOS 17.2 및 watchOS 10.2의 베타 버전을 이제 사용할 수 있습니다. 이러한 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하십시오. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15.1 베타 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하세요. 문제가 발생하거나 다른 의견이 있으시면 Apple에 알려 주시기 바랍니다. 여러분의 피드백은 문제를 해결하고 기능을 향상하며 문서를 업데이트하는 데 소중한 역할을 합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
 <p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
 <p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
