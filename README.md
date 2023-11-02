@@ -45,9 +45,18 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 10월 26일  
-<div class="article-text"><p>iOS 17.2, iPadOS 17.2, macOS 14.2, tvOS 17.2 및 watchOS 10.2의 베타 버전을 이제 사용할 수 있습니다. 앱이 최신 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하세요. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15.1 베타 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p>이전 베타 버전의 알려진 문제가 해결되었는지 확인하거나 임시 해결 방법이 있는지 확인하려면 최신 릴리즈 노트를 확인하세요. 문제가 발생하거나 다른 의견이 있으시면 Apple에 알려 주시기 바랍니다. 여러분의 피드백은 문제를 해결하고 기능을 향상하며 문서를 업데이트하는 데 소중한 역할을 합니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  앱, 앱 내 구입, 구독에 관한 세금 변동 사항  
+###### 2023년 10월 31일  
+<div class="article-text"><p>App Store의 상거래 및 결제 시스템은 175개 스토어프론트에서 44개 통화를 사용하여 글로벌 규모로 제품 및 서비스를 편리하게 설정하고 판매할 수 있도록 구축되었습니다. Apple은 70개가 넘는 국가 및 지역에 있는 개발자를 대신하여 세금을 관리하며 앱 및 앱 내 구입에 세금 카테고리를 할당할 수 있는 기능을 제공합니다.</p><p>Apple은 지역별 새 규정과 세율 조정을 적용하기 위해 주기적으로 세율, 카테고리, 계약서를 업데이트합니다. 오늘부터 App Store Connect에는 다음과 같은 변경 사항이 적용됩니다.</p><h3>세율</h3><p>적격 앱 및 앱 내 구입(자동 갱신 구독 포함)을 통한 판매 수익이 다음과 같이 인하된 부가가치세(VAT)율을 반영하여 증가합니다. App Store상 가격은 동일합니다.</p><ul>
+<li>오스트리아: 비디오 세금 카테고리 내 특정 앱의 VAT 세율이 인하되었습니다.</li>
+<li>키프로스: 도서, 뉴스 발행, 오디오북, 잡지 및 기타 정기간행물 카테고리 내 특정 앱의 VAT 세율이 3% 인하되었습니다.</li>
+<li>베트남: 도서, 뉴스 발행, 잡지 및 기타 정기간행물 카테고리 내 특정 앱의 VAT가 면제되었습니다.</li>
+</ul><h3>세금 카테고리</h3><ul>
+<li>새로운 ‘부스터’ 카테고리: 앱에서 경험하거나 소비할 수 있는 특정 콘텐츠의 인기나 유명세를 높이기 위해 잠재 고객을 대상으로 한 노출, 가시성 제고, 참여 유도 등에 사용되는 리소스를 제공하는 앱 및/또는 앱 내 구입(예: 비디오, SNS 앱 내 ‘부스터’ 판매, 리스트 및/또는 기타 사용자 생성 콘텐츠)</li>
+<li>새로운 도서용 속성: 5~18세의 교육 및 학습에 사용되는 교과서 또는 기타 교육용 출판물</li>
+<li>새로운 비디오용 속성: 라이브 TV 방송 및/또는 선형 프로그램 송출 전용. 공영 TV 방송(쇼핑 또는 정보 광고 채널 제외).</li>
+</ul><p>이러한 카테고리나 속성이 앱 또는 앱 내 구입과 관련이 있는 경우 ‘나의 앱’ 페이지의 ‘가격 및 사용 가능 여부’ 섹션에서 선택 내용을 검토하고 업데이트하실 수 있습니다.</p>
+<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-information/set-a-tax-category/">세금 카테고리 설정에 대해 <span class="icon icon-after icon-chevronright nowrap">자세히 알아보기</span></a></p><h3>유료 애플리케이션 계약</h3><ul>
+<li>부록 C 섹션 1.2.2: 오스트레일리아 스토어프론트의 개발자를 대상으로 상품용역세(GST) 요건을 더 명확히 하기 위해 표현을 업데이트했습니다.</li>
+</ul></div>
