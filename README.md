@@ -45,18 +45,11 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  앱, 앱 내 구입, 구독에 관한 세금 변동 사항  
-###### 2023년 10월 31일  
-<div class="article-text"><p>App Store의 상거래 및 결제 시스템은 175개 스토어프론트에서 44개 통화를 사용하여 글로벌 규모로 제품 및 서비스를 편리하게 설정하고 판매할 수 있도록 구축되었습니다. Apple은 70개가 넘는 국가 및 지역에 있는 개발자를 대신하여 세금을 관리하며 앱 및 앱 내 구입에 세금 카테고리를 할당할 수 있는 기능을 제공합니다.</p><p>Apple은 지역별 새 규정과 세율 조정을 적용하기 위해 주기적으로 세율, 카테고리, 계약서를 업데이트합니다. 오늘부터 App Store Connect에는 다음과 같은 변경 사항이 적용됩니다.</p><h3>세율</h3><p>적격 앱 및 앱 내 구입(자동 갱신 구독 포함)을 통한 판매 수익이 다음과 같이 인하된 부가가치세(VAT)율을 반영하여 증가합니다. App Store상 가격은 동일합니다.</p><ul>
-<li>오스트리아: 비디오 세금 카테고리 내 특정 앱의 VAT 세율이 인하되었습니다.</li>
-<li>키프로스: 도서, 뉴스 발행, 오디오북, 잡지 및 기타 정기간행물 카테고리 내 특정 앱의 VAT 세율이 3% 인하되었습니다.</li>
-<li>베트남: 도서, 뉴스 발행, 잡지 및 기타 정기간행물 카테고리 내 특정 앱의 VAT가 면제되었습니다.</li>
-</ul><h3>세금 카테고리</h3><ul>
-<li>새로운 ‘부스터’ 카테고리: 앱에서 경험하거나 소비할 수 있는 특정 콘텐츠의 인기나 유명세를 높이기 위해 잠재 고객을 대상으로 한 노출, 가시성 제고, 참여 유도 등에 사용되는 리소스를 제공하는 앱 및/또는 앱 내 구입(예: 비디오, SNS 앱 내 ‘부스터’ 판매, 리스트 및/또는 기타 사용자 생성 콘텐츠)</li>
-<li>새로운 도서용 속성: 5~18세의 교육 및 학습에 사용되는 교과서 또는 기타 교육용 출판물</li>
-<li>새로운 비디오용 속성: 라이브 TV 방송 및/또는 선형 프로그램 송출 전용. 공영 TV 방송(쇼핑 또는 정보 광고 채널 제외).</li>
-</ul><p>이러한 카테고리나 속성이 앱 또는 앱 내 구입과 관련이 있는 경우 ‘나의 앱’ 페이지의 ‘가격 및 사용 가능 여부’ 섹션에서 선택 내용을 검토하고 업데이트하실 수 있습니다.</p>
-<p><a href="https://developer.apple.com/kr/help/app-store-connect/manage-app-information/set-a-tax-category/">세금 카테고리 설정에 대해 <span class="icon icon-after icon-chevronright nowrap">자세히 알아보기</span></a></p><h3>유료 애플리케이션 계약</h3><ul>
-<li>부록 C 섹션 1.2.2: 오스트레일리아 스토어프론트의 개발자를 대상으로 상품용역세(GST) 요건을 더 명확히 하기 위해 표현을 업데이트했습니다.</li>
-</ul></div>
+###  30개 이상의 새로운 개발자 활동에 지금 신청하실 수 있습니다  
+###### 2023년 11월 07일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E37E35FD-D28B-4204-8107-425410EF41F5/2048.jpeg"/></div><p>앱, 게임을 한 단계 더 높은 수준으로 끌어올릴 준비가 되셨나요? 11~12월 세계 각지에서 대면 또는 온라인으로 진행되는 새로운 개발자 랩, 컨설팅, 세션 및 워크숍에 참여해 보세요.</p><p>활동 내용</p><ul>
+<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=App%20Store&amp;shouldHideClosedEvents=true">App Store 활동</a>: 앱 및 게임의 노출, 참여, 앱 내 이벤트, 맞춤형 제품 페이지, 구독 모범 사례 등에 대해 자세히 알아보세요.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=Apple%20Vision%20Pro%20developer%20labs&amp;shouldHideClosedEvents=true">Apple Vision Pro 개발자 랩</a>: 쿠퍼티노, 런던, 뮌헨, 뉴욕시, 상하이, 싱가포르, 시드니, 도쿄에서 열리는 개발자 랩에 참여해 보세요.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=Apple%20Vision%20Pro&amp;shouldHideClosedEvents=true">Apple Vision Pro 활동</a>: visionOS용 앱 및 게임을 위한 새로운 세계를 구축하고 디자인하는 데 필요한 것들을 준비해 보세요.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=consultation&amp;shouldHideClosedEvents=true">디자인 및 기술 컨설팅</a>: 앱 디자인, 기술 구현 등에 관한 1:1 컨설팅을 신청해 보세요.</li>
+</ul><p>활동은 다양한 시간대와 언어로 제공됩니다.</p><p><a href="https://developer.apple.com/events/view/upcoming-events/?shouldHideClosedEvents=true">전체 <span class="icon icon-after icon-chevronright nowrap">일정 확인하기</span></a></p></div>
