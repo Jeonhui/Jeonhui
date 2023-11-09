@@ -45,11 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  30개 이상의 새로운 개발자 활동에 지금 신청하실 수 있습니다  
-###### 2023년 11월 07일  
-<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E37E35FD-D28B-4204-8107-425410EF41F5/2048.jpeg"/></div><p>앱, 게임을 한 단계 더 높은 수준으로 끌어올릴 준비가 되셨나요? 11~12월 세계 각지에서 대면 또는 온라인으로 진행되는 새로운 개발자 랩, 컨설팅, 세션 및 워크숍에 참여해 보세요.</p><p>활동 내용</p><ul>
-<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=App%20Store&amp;shouldHideClosedEvents=true">App Store 활동</a>: 앱 및 게임의 노출, 참여, 앱 내 이벤트, 맞춤형 제품 페이지, 구독 모범 사례 등에 대해 자세히 알아보세요.</li>
-<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=Apple%20Vision%20Pro%20developer%20labs&amp;shouldHideClosedEvents=true">Apple Vision Pro 개발자 랩</a>: 쿠퍼티노, 런던, 뮌헨, 뉴욕시, 상하이, 싱가포르, 시드니, 도쿄에서 열리는 개발자 랩에 참여해 보세요.</li>
-<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=Apple%20Vision%20Pro&amp;shouldHideClosedEvents=true">Apple Vision Pro 활동</a>: visionOS용 앱 및 게임을 위한 새로운 세계를 구축하고 디자인하는 데 필요한 것들을 준비해 보세요.</li>
-<li><a href="https://developer.apple.com/events/view/upcoming-events/?q=consultation&amp;shouldHideClosedEvents=true">디자인 및 기술 컨설팅</a>: 앱 디자인, 기술 구현 등에 관한 1:1 컨설팅을 신청해 보세요.</li>
-</ul><p>활동은 다양한 시간대와 언어로 제공됩니다.</p><p><a href="https://developer.apple.com/events/view/upcoming-events/?shouldHideClosedEvents=true">전체 <span class="icon icon-after icon-chevronright nowrap">일정 확인하기</span></a></p></div>
+###  2024년 Swift Student Challenge 공지  
+###### 2023년 11월 08일  
+<div class="article-text"><div class="inline-article-image"><img alt="" data-hires="false" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/5D41BDFB-09E7-4A11-8376-C037FBF3DCF3/2048.jpeg"/></div><p>Apple은 차세대 학생 개발자, 크리에이터, 기업인들을 지원하고 장려하고 있다는 사실에 자긍심을 느낍니다. Swift Student Challenge는 그동안 수많은 학생들이 앱 플레이그라운드를 통해 창의력과 코딩 능력을 발휘하고, 유용한 코딩 스킬을 쌓아 향후 커리어는 물론 그 이상을 도모할 기회를 제공해 왔습니다. Swift Student Challenge 참가자들은 각자의 창의력을 발휘하여 개발한 앱으로 정신 건강 증진과 캠퍼스의 환경 보호 활동을 지원하는 등 당면한 여러 문제를 해결하기 위해 노력합니다.</p><p>Apple은 신규 코딩 리소스를 출시하고 커뮤니티 파트너와 면밀히 협력하고 있습니다. 또한 학생들이 Swift 및 개발 프로세스를 심도 있게 파악하고 교사 역시 학생들을 미리 지원할 수 있도록 예년보다 일찍 Swift Student Challenge를 발표합니다.</p><p>신청서 제출은 2024년 2월에 3주간 진행됩니다.</p><p>특히 2024년 Swift Student Challenge에서는 350명의 전체 수상자 중 뛰어난 작품을 제출한 50명의 <a href="https://developer.apple.com/kr/swift-student-challenge/distinguished-winners/">우수 수상자</a>를 새롭게 선정하여 내년 여름 쿠퍼티노에 위치한 Apple에서 열릴 3일간의 놀라운 경험에 초대할 예정입니다.</p><p><a href="https://developer.apple.com/kr/swift-student-challenge/"><span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></div>
