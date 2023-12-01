@@ -45,6 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 어워드 최종 후보작 발표  
-###### 2023년 11월 14일  
-<div class="article-text"><div class="inline-article-image"><img alt="2023년 App Store 어워드 최종 후보작" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/BE6CE6CB-BE2B-4867-9453-8A05F95E9929/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/BE6CE6CB-BE2B-4867-9453-8A05F95E9929/2048.jpeg"/></div><p>App Store는 매년 탁월한 수준의 기술 혁신, 사용자 경험, 디자인, 긍정적인 문화적 영향을 보여 주며 사용자의 삶의 질 향상에 기여한 우수한 앱들을 선정합니다. 올해 Apple은 약 40개의 우수한 최종 후보작을 선정했습니다. 수상작은 몇 주 이내에 발표될 예정입니다.</p><p><a href="http://developer.apple.com/app-store/app-store-awards-2023/">최종 후보작에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기(영문)</span></a></p></div>
+###  App Store 어워드 수상작 발표  
+###### 2023년 11월 29일  
+<div class="article-text"><div class="inline-article-image"><img alt="App Store 어워드 아이콘" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3AB36E43-9934-4A0D-99EC-113C5EE107A9/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3AB36E43-9934-4A0D-99EC-113C5EE107A9/2048.jpeg"/></div><p>전 세계 뛰어난 개발자의 수상을 함께 축하해 주세요!</p><p><a href="http://developer.apple.com/app-store/app-store-awards-2023/"><span class="icon icon-after icon-chevronright nowrap">수상작 만나보기(영문)</span></a></p></div>
