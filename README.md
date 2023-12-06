@@ -45,6 +45,8 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  App Store 어워드 수상작 발표  
-###### 2023년 11월 29일  
-<div class="article-text"><div class="inline-article-image"><img alt="App Store 어워드 아이콘" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3AB36E43-9934-4A0D-99EC-113C5EE107A9/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3AB36E43-9934-4A0D-99EC-113C5EE107A9/2048.jpeg"/></div><p>전 세계 뛰어난 개발자의 수상을 함께 축하해 주세요!</p><p><a href="http://developer.apple.com/app-store/app-store-awards-2023/"><span class="icon icon-after icon-chevronright nowrap">수상작 만나보기(영문)</span></a></p></div>
+###  새로운 디자인 및 기술 컨설팅 일정 추가  
+###### 2023년 12월 05일  
+<div class="article-text"><div class="inline-article-image"><img alt="A developer wearing a denim jacket sits in front of an open laptop at a table in a room with white walls. They smile at the person next to them, who is off camera. Other developers sit in the background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/11B79680-81C3-4BFE-B897-9EF81F273D99/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/11B79680-81C3-4BFE-B897-9EF81F273D99/2048.jpeg"/></div><p>앱 디자인이나 기술 구현에 관한 질문이 있으신가요? Apple의 도움을 받아 그 답을 찾아보세요. 개발 여정의 어느 단계에 있든 유용한 조언을 받으실 수 있습니다. 올해 12월 Apple 전문가가 제공하는 1:1 컨설팅과 내년 1월에 추가된 일정을 확인하실 수 있습니다.</p>
+<p>2024년에는 더 많은 Apple 컨설팅과 기타 활동이 온·오프라인으로 여러 언어를 통해 제공됩니다.</p>
+<p><a href="https://developer.apple.com/events/view/upcoming-events/?shouldHideClosedEvents=true"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
