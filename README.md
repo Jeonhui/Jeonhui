@@ -45,8 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  새로운 디자인 및 기술 컨설팅 일정 추가  
-###### 2023년 12월 05일  
-<div class="article-text"><div class="inline-article-image"><img alt="A developer wearing a denim jacket sits in front of an open laptop at a table in a room with white walls. They smile at the person next to them, who is off camera. Other developers sit in the background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/11B79680-81C3-4BFE-B897-9EF81F273D99/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/11B79680-81C3-4BFE-B897-9EF81F273D99/2048.jpeg"/></div><p>앱 디자인이나 기술 구현에 관한 질문이 있으신가요? Apple의 도움을 받아 그 답을 찾아보세요. 개발 여정의 어느 단계에 있든 유용한 조언을 받으실 수 있습니다. 올해 12월 Apple 전문가가 제공하는 1:1 컨설팅과 내년 1월에 추가된 일정을 확인하실 수 있습니다.</p>
-<p>2024년에는 더 많은 Apple 컨설팅과 기타 활동이 온·오프라인으로 여러 언어를 통해 제공됩니다.</p>
-<p><a href="https://developer.apple.com/events/view/upcoming-events/?shouldHideClosedEvents=true"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png)  
+###  이제 Apple Developer Program에 Xcode Cloud 컴퓨팅 25시간이 포함됩니다  
+###### 2023년 12월 07일  
+<div class="article-text"><p>Xcode Cloud는 Xcode에 내장된 지속적인 통합 및 딜리버리 서비스로, 고품질 앱의 개발과 제공을 가속합니다. Xcode Cloud는 앱을 빌드하고, 자동화된 테스트를 병렬 실행하고, 테스터에게 앱을 제공하고, 사용자 피드백을 검토 및 관리하는 데 필요한 클라우드 기반 도구를 함께 제공합니다.</p><p>2024년 1월부터 모든 Apple Developer Program 멤버십에는 월 25시간의 Xcode Cloud 컴퓨팅 시간이 추가 비용 없이 기본으로 포함됩니다. 이미 Xcode Cloud를 무료로 구독하고 계시다면 추가 조치가 필요하지 않습니다. 아직 Xcode Cloud를 사용해 보신 적이 없다면 바로 지금이 단 몇 분 만에 무료로 앱 구축을 시작할 수 있는 좋은 기회입니다. </p><p><a href="https://developer.apple.com/kr/xcode-cloud/">Xcode Cloud에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></div>
