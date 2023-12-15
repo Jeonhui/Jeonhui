@@ -45,7 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png)  
-###  이제 Apple Developer Program에 Xcode Cloud 컴퓨팅 25시간이 포함됩니다  
-###### 2023년 12월 07일  
-<div class="article-text"><p>Xcode Cloud는 Xcode에 내장된 지속적인 통합 및 딜리버리 서비스로, 고품질 앱의 개발과 제공을 가속합니다. Xcode Cloud는 앱을 빌드하고, 자동화된 테스트를 병렬 실행하고, 테스터에게 앱을 제공하고, 사용자 피드백을 검토 및 관리하는 데 필요한 클라우드 기반 도구를 함께 제공합니다.</p><p>2024년 1월부터 모든 Apple Developer Program 멤버십에는 월 25시간의 Xcode Cloud 컴퓨팅 시간이 추가 비용 없이 기본으로 포함됩니다. 이미 Xcode Cloud를 무료로 구독하고 계시다면 추가 조치가 필요하지 않습니다. 아직 Xcode Cloud를 사용해 보신 적이 없다면 바로 지금이 단 몇 분 만에 무료로 앱 구축을 시작할 수 있는 좋은 기회입니다. </p><p><a href="https://developer.apple.com/kr/xcode-cloud/">Xcode Cloud에 대해 <span class="icon icon-after icon-chevronright nowrap">더 알아보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
+###  최신 베타 릴리즈를 사용하여 준비하기  
+###### 2023년 12월 14일  
+<div class="article-text"><p>iOS 17.3, iPadOS 17.3, macOS 14.3, tvOS 17.3 및 watchOS 10.3의 베타 버전을 이제 사용할 수 있습니다. 앱이 최신 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하세요. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15.2 베타 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
+<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
