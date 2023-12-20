@@ -45,9 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
-###  최신 베타 릴리즈를 사용하여 준비하기  
-###### 2023년 12월 14일  
-<div class="article-text"><p>iOS 17.3, iPadOS 17.3, macOS 14.3, tvOS 17.3 및 watchOS 10.3의 베타 버전을 이제 사용할 수 있습니다. 앱이 최신 릴리즈에서 정상적으로 작동하는지 확인하여 앱을 준비하세요. 최신 SDK의 향상된 기능을 활용하려면 Xcode 15.2 베타 버전을 사용하여 빌드하고 테스트하시기 바랍니다.</p><p><a href="https://developer.apple.com/kr/news/releases/">다운로드 및 릴리즈 <span class="icon icon-after icon-chevronright nowrap">노트 보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">베타 OS 테스트에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기(영문)</span></a></p>
-<p><a href="https://developer.apple.com/kr/bug-reporting/">피드백 보내기에 <span class="icon icon-after icon-chevronright nowrap">대해 알아보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
+###  구독에 조건부 가격 책정 기능 도입  
+###### 2023년 12월 15일  
+<div class="article-text"><p>조건부 가격 책정 기능은 고객의 구독을 유도하고 유지하는 데 유용한 새로운 기능입니다. App Store를 통해 구독에 조건부 가격 책정을 사용하면 활성화된 구독 항목이 있는 고객에게 다른 구독 항목을 할인된 가격으로 제공할 수 있습니다. 단일 개발자 또는 서로 다른 두 개발자의 구독 항목에 조건부 가격 책정을 사용할 수 있습니다. 이 기능은 현재 시범 운영되고 있으며, 향후 몇 개월 내 더 많은 개발자를 대상으로 제공될 예정입니다. 앱에 조건부 가격 책정 기능을 구현하는 데 관심이 있으신 경우 내년 1월에 제공될 세부 사항 알림을 신청하고 계획을 시작하시기 바랍니다. </p><p><a href="https://developer.apple.com/contact/request/contingent-pricing/">조건부 가격 책정에 대해 알아보고 <span class="icon icon-after icon-chevronright nowrap">알림 신청하기(영문)</span></a></p></div>
