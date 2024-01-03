@@ -45,7 +45,15 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png)  
-###  구독에 조건부 가격 책정 기능 도입  
-###### 2023년 12월 15일  
-<div class="article-text"><p>조건부 가격 책정 기능은 고객의 구독을 유도하고 유지하는 데 유용한 새로운 기능입니다. App Store를 통해 구독에 조건부 가격 책정을 사용하면 활성화된 구독 항목이 있는 고객에게 다른 구독 항목을 할인된 가격으로 제공할 수 있습니다. 단일 개발자 또는 서로 다른 두 개발자의 구독 항목에 조건부 가격 책정을 사용할 수 있습니다. 이 기능은 현재 시범 운영되고 있으며, 향후 몇 개월 내 더 많은 개발자를 대상으로 제공될 예정입니다. 앱에 조건부 가격 책정 기능을 구현하는 데 관심이 있으신 경우 내년 1월에 제공될 세부 사항 알림을 신청하고 계획을 시작하시기 바랍니다. </p><p><a href="https://developer.apple.com/contact/request/contingent-pricing/">조건부 가격 책정에 대해 알아보고 <span class="icon icon-after icon-chevronright nowrap">알림 신청하기(영문)</span></a></p></div>
+###  Apple Developer Program 사용권 계약서가 업데이트되었습니다  
+###### 2023년 12월 22일  
+<div class="article-text"><p>업데이트된 정책을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
+<li>섹션 3.3.3(N)의 정의: ‘Tap to Present ID’가 ‘ID Verifier(ID 검증자)’로 업데이트됨 </li>
+<li>섹션 14.10의 정의: 준거법 및 관할 법원과 관련된 약관이 업데이트됨 </li>
+<li>섹션 3.3: 명확한 의미 전달을 위해 권한을 다시 정리하고 분류함 </li>
+<li>섹션 3.3.3(B): 개인정보 보호 및 타사 SDK에 관한 표현을 명확히 함</li>
+<li>섹션 6.7: 분석과 관련된 약관이 업데이트됨 </li>
+<li>섹션 12: 보증 면책 조항과 관련된 표현을 명확히 함 </li>
+<li>첨부 1: APNs(Apple Push Notification Service) 및 Local Notifications 사용에 관한 약관이 업데이트됨 </li>
+<li>첨부 9: Apple Developer Program 멤버십에 포함된 Xcode Cloud 컴퓨팅 시간에 관한 약관이 업데이트됨</li>
+</ul><p><a href="https://developer.apple.com/kr/support/terms/apple-developer-program-license-agreement/">전체 이용 <span class="icon icon-after icon-chevronright nowrap">약관 보기(영문)</span></a></p></div>
