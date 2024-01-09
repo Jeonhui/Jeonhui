@@ -45,15 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  Apple Developer Program 사용권 계약서가 업데이트되었습니다  
-###### 2023년 12월 22일  
-<div class="article-text"><p>업데이트된 정책을 지원하고 명확한 정보를 제공하기 위해 Apple Developer Program 사용권 계약서가 수정되었습니다. 수정된 내용은 다음과 같습니다.</p><ul>
-<li>섹션 3.3.3(N)의 정의: ‘Tap to Present ID’가 ‘ID Verifier(ID 검증자)’로 업데이트됨 </li>
-<li>섹션 14.10의 정의: 준거법 및 관할 법원과 관련된 약관이 업데이트됨 </li>
-<li>섹션 3.3: 명확한 의미 전달을 위해 권한을 다시 정리하고 분류함 </li>
-<li>섹션 3.3.3(B): 개인정보 보호 및 타사 SDK에 관한 표현을 명확히 함</li>
-<li>섹션 6.7: 분석과 관련된 약관이 업데이트됨 </li>
-<li>섹션 12: 보증 면책 조항과 관련된 표현을 명확히 함 </li>
-<li>첨부 1: APNs(Apple Push Notification Service) 및 Local Notifications 사용에 관한 약관이 업데이트됨 </li>
-<li>첨부 9: Apple Developer Program 멤버십에 포함된 Xcode Cloud 컴퓨팅 시간에 관한 약관이 업데이트됨</li>
-</ul><p><a href="https://developer.apple.com/kr/support/terms/apple-developer-program-license-agreement/">전체 이용 <span class="icon icon-after icon-chevronright nowrap">약관 보기(영문)</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/app-store-vision/app-store-vision-128x128_2x.png)  
+###  Apple Vision Pro용 App Store에 앱 제출하기  
+###### 2024년 01월 08일  
+<div class="article-text"><p>Apple Vision Pro에서 제공하는 새로운 App Store에서는 visionOS용 앱을 검색하고 다운로드할 수 있습니다. 새로운 visionOS 앱을 만드셨거나 기존 iPad 또는 iPhone 앱을 Apple Vision Pro 사용자에게 제공하고자 하신다면, 앱을 준비하고 App Store에 제출하는 데 필요한 자세한 정보를 확인해 보세요. </p><p><a href="https://developer.apple.com/visionos/submit/"><span class="icon icon-after icon-chevronright nowrap">자세히 알아보기(영문)</span></a></p></div>
