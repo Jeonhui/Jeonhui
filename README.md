@@ -45,7 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/app-store-vision/app-store-vision-128x128_2x.png)  
-###  Apple Vision Pro용 App Store에 앱 제출하기  
-###### 2024년 01월 08일  
-<div class="article-text"><p>Apple Vision Pro에서 제공하는 새로운 App Store에서는 visionOS용 앱을 검색하고 다운로드할 수 있습니다. 새로운 visionOS 앱을 만드셨거나 기존 iPad 또는 iPhone 앱을 Apple Vision Pro 사용자에게 제공하고자 하신다면, 앱을 준비하고 App Store에 제출하는 데 필요한 자세한 정보를 확인해 보세요. </p><p><a href="https://developer.apple.com/visionos/submit/"><span class="icon icon-after icon-chevronright nowrap">자세히 알아보기(영문)</span></a></p></div>
+###  StoreKit 및 심사 지침 업데이트  
+###### 2024년 01월 16일  
+<div class="article-text"><p>미국 법원의 최근 판결에 따라 오늘부로 App Store 심사 지침의 3.1.1 항목에 StoreKit Purchase Link Entitlement(구입 링크 권한, US)를 안내하는 내용이 추가되었습니다. 이 권한은 미국 스토어프론트의 iOS 또는 iPadOS App Store에서 앱 내 구입 항목을 제공하는 앱들이 사용자가 디지털 상품 또는 서비스 구입에 사용할 수 있는 다른 결제 방법에 대한 정보를 제공하기 위해 개발자의 웹 사이트로 연결되는 링크를 포함하도록 허용하는 권한입니다.</p><p>Apple의 앱 내 구입 시스템은 사용자가 디지털 상품 및 서비스를 편리하게 구입할 수 있는 안전하고 확실한 방법입니다. 앱 내 구입은 앱에서 디지털 상품 및 서비스 판매 시 꼭 제공해야 하는 기능입니다. 앱 내 구입과 함께 StoreKit Purchase Link Entitlement(구입 링크 권한, US)를 사용할 경우, 개발자 웹 사이트에서 항목을 구입하는 고객은 ‘구입 요청’ 또는 ‘가족 공유’ 등 일부 App Store 기능을 사용할 수 없음을 숙지하셔야 합니다. 아울러 Apple은 환불, 구입 내역, 구독 관리 그리고 디지털 상품 및 서비스 구입 시 발생하는 기타 문제와 관련하여 고객을 지원할 수 없습니다. 따라서 이러한 문제와 관련하여 고객을 지원할 책임은 개발자에게 있습니다.</p><p>StoreKit Purchase Link Entitlement(구입 링크 권한, US)를 통해 이루어지는 디지털 거래에는 수수료가 적용됩니다. 수수료, 해당 권한 요청, 사용 지침, 구현 세부 정보에 관한 자세한 내용은 <a href="https://developer.apple.com/support/storekit-external-entitlement-us">Apple 지원 페이지(영문)</a>에서 확인하시기 바랍니다.</p></div>
