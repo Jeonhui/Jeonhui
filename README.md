@@ -45,7 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  4월 29일부터 적용되는 App Store Connect 업로드 관련 요구 사항  
-###### 2024년 02월 06일  
-<div class="article-text"><p>2024년 4월 29일부터 App Store Connect에 업로드하는 앱은 <a href="https://apps.apple.com/kr/app/xcode/id497799835?mt=12">Xcode 15</a>를 사용하여 <a href="https://developer.apple.com/kr/ios/">iOS 17</a>, <a href="https://developer.apple.com/kr/ipados/">iPadOS 17</a>, <a href="https://developer.apple.com/kr/tvos/">tvOS 17</a>, <a href="https://developer.apple.com/kr/watchos/">watchOS 10</a>을 대상으로 빌드해야 합니다. </p><p><a href="https://developer.apple.com/kr/app-store/submitting/">앱 제출에 대해 <span class="icon icon-after icon-chevronright nowrap">자세히 알아보기</span></a></p></div>
+###  유럽 연합 내 앱 배포와 관련된 변경 사항을 지원하기 위한 업데이트  
+###### 2024년 02월 08일  
+<div class="article-text"><p>Apple은 최근 디지털시장법(DMA)을 준수하기 위해 iOS, Safari, App Store와 관련하여 유럽 연합(EU) 내 개발자들의 앱에 영향을 주는 <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">변경 사항(영문)</a>을 발표했습니다. 이와 함께 600개 이상의 새로운 API, 광범위한 개발자 도구 및 관련 문서도 제공되었습니다. 이러한 변경 사항을 이해하고 활용하는 데 도움이 되도록 개발자들이 새롭게 이용할 수 있는 리소스를 다음과 같이 준비했습니다.</p><ul>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%9C%A0%EB%9F%BD">온라인 컨설팅</a>에서 iOS상의 대체 앱 배포, App Store상의 대체 결제 방식, 개발자의 웹 페이지로 연결되는 외부 링크 제공, 새로운 비즈니스 약관 등에 대해 안내를 받을 수 있습니다. </li>
+<li><a href="https://developer.apple.com/events/view/YPSJWYLD6P/dashboard">랩(영문)</a>에서 iOS 대체 앱 마켓플레이스를 개발하는 데 도움이 되는 정보를 확인할 수 있습니다.</li>
+</ul><p>새로운 비즈니스 약관에 동의한 개발자들은 <a href="https://developer.apple.com/kr/news/releases/?id=02082024e">App Store Connect(영문)</a> 및 <a href="https://developer.apple.com/documentation/appstoreconnectapi/app_store_connect_api_release_notes/app_store_connect_api_3_3_release_notes">App Store Connect API (영문)</a>의 새 기능을 사용하여 마켓플레이스 배포와 마켓플레이스 앱을 설정하고 TestFlight로 이러한 기능을 베타 테스트할 수 있습니다. TestFlight는 대체 브라우저 엔진을 사용하는 앱과 결제 서비스 제공업체 및 웹 페이지로 연결되는 외부 링크를 통한 대체 결제 방식도 지원합니다.</p><p>아울러 곧 App Store 및 iOS를 위한 <a href="https://developer.apple.com/kr/support/dma-and-apps-in-the-eu#app-analytics">앱 분석 보고서(영문)</a>가 더욱 상세해집니다. </p></div>
