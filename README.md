@@ -45,9 +45,11 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  유럽 연합 내 앱 배포와 관련된 변경 사항을 지원하기 위한 업데이트  
-###### 2024년 02월 08일  
-<div class="article-text"><p>Apple은 최근 디지털시장법(DMA)을 준수하기 위해 iOS, Safari, App Store와 관련하여 유럽 연합(EU) 내 개발자들의 앱에 영향을 주는 <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">변경 사항(영문)</a>을 발표했습니다. 이와 함께 600개 이상의 새로운 API, 광범위한 개발자 도구 및 관련 문서도 제공되었습니다. 이러한 변경 사항을 이해하고 활용하는 데 도움이 되도록 개발자들이 새롭게 이용할 수 있는 리소스를 다음과 같이 준비했습니다.</p><ul>
-<li><a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%9C%A0%EB%9F%BD">온라인 컨설팅</a>에서 iOS상의 대체 앱 배포, App Store상의 대체 결제 방식, 개발자의 웹 페이지로 연결되는 외부 링크 제공, 새로운 비즈니스 약관 등에 대해 안내를 받을 수 있습니다. </li>
-<li><a href="https://developer.apple.com/events/view/YPSJWYLD6P/dashboard">랩(영문)</a>에서 iOS 대체 앱 마켓플레이스를 개발하는 데 도움이 되는 정보를 확인할 수 있습니다.</li>
-</ul><p>새로운 비즈니스 약관에 동의한 개발자들은 <a href="https://developer.apple.com/kr/news/releases/?id=02082024e">App Store Connect(영문)</a> 및 <a href="https://developer.apple.com/documentation/appstoreconnectapi/app_store_connect_api_release_notes/app_store_connect_api_3_3_release_notes">App Store Connect API (영문)</a>의 새 기능을 사용하여 마켓플레이스 배포와 마켓플레이스 앱을 설정하고 TestFlight로 이러한 기능을 베타 테스트할 수 있습니다. TestFlight는 대체 브라우저 엔진을 사용하는 앱과 결제 서비스 제공업체 및 웹 페이지로 연결되는 외부 링크를 통한 대체 결제 방식도 지원합니다.</p><p>아울러 곧 App Store 및 iOS를 위한 <a href="https://developer.apple.com/kr/support/dma-and-apps-in-the-eu#app-analytics">앱 분석 보고서(영문)</a>가 더욱 상세해집니다. </p></div>
+###  추천 개발자 활동  
+###### 2024년 02월 14일  
+<div class="article-text"><div class="inline-article-image"><img alt="밝은 방 안에서 파란색 데님 셔츠를 입은 개발자가 테이블 위에 랩탑을 열어 놓고 앉아 미소를 짓고 있습니다." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/02C54728-A44D-49AF-923D-EC54D9EBF3DC/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/02C54728-A44D-49AF-923D-EC54D9EBF3DC/2048.jpeg"/></div><p>Apple Developer 활동이 한창 진행 중입니다. 활동 내용을 살펴보세요.</p><ul>
+<li>App Store 전문가들이 진행하는 온라인 세션에서 <a href="https://developer.apple.com/events/view/upcoming-events?q=app%20store">구독 해지율을 최소화하고 구독자를 되찾는 방법</a>을 살펴볼 수 있습니다.</li>
+<li>세계 여성의 날을 기념하기 위한 <a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%97%AC%EC%84%B1">스페셜 오프라인 활동</a>이 벵갈루루, 쿠퍼티노, 상하이, 싱가포르, 시드니, 도쿄에서 진행됩니다.</li>
+<li>쿠퍼티노, 런던, 뮌헨, 싱가포르, 시드니 또는 도쿄의 Apple Vision Pro 개발자 랩에 참여하여 무한한 가능성의 공간을 위해 <a href="https://developer.apple.com/events/view/upcoming-events?q=apple%20vision%20pro%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%9E%A9">앱을 테스트 및 향상</a>할 수 있습니다.</li>
+<li>Apple 직원과의 컨설팅에서 디지털시장법(DMA)을 준수하기 위하여 적용된, 유럽 연합(EU) 내 앱에 영향을 주는 <a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%9C%A0%EB%9F%BD%20%EC%97%B0%ED%95%A9">iOS, Safari, App Store 변경 사항</a>과 관련한 조언을 받을 수 있습니다. </li>
+</ul><p>올해 더 많은 활동이 온·오프라인으로 여러 언어를 통해 제공됩니다. </p><p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
