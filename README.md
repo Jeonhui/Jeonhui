@@ -45,11 +45,10 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  추천 개발자 활동  
-###### 2024년 02월 14일  
-<div class="article-text"><div class="inline-article-image"><img alt="밝은 방 안에서 파란색 데님 셔츠를 입은 개발자가 테이블 위에 랩탑을 열어 놓고 앉아 미소를 짓고 있습니다." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/02C54728-A44D-49AF-923D-EC54D9EBF3DC/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/02C54728-A44D-49AF-923D-EC54D9EBF3DC/2048.jpeg"/></div><p>Apple Developer 활동이 한창 진행 중입니다. 활동 내용을 살펴보세요.</p><ul>
-<li>App Store 전문가들이 진행하는 온라인 세션에서 <a href="https://developer.apple.com/events/view/upcoming-events?q=app%20store">구독 해지율을 최소화하고 구독자를 되찾는 방법</a>을 살펴볼 수 있습니다.</li>
-<li>세계 여성의 날을 기념하기 위한 <a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%97%AC%EC%84%B1">스페셜 오프라인 활동</a>이 벵갈루루, 쿠퍼티노, 상하이, 싱가포르, 시드니, 도쿄에서 진행됩니다.</li>
-<li>쿠퍼티노, 런던, 뮌헨, 싱가포르, 시드니 또는 도쿄의 Apple Vision Pro 개발자 랩에 참여하여 무한한 가능성의 공간을 위해 <a href="https://developer.apple.com/events/view/upcoming-events?q=apple%20vision%20pro%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%9E%A9">앱을 테스트 및 향상</a>할 수 있습니다.</li>
-<li>Apple 직원과의 컨설팅에서 디지털시장법(DMA)을 준수하기 위하여 적용된, 유럽 연합(EU) 내 앱에 영향을 주는 <a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%9C%A0%EB%9F%BD%20%EC%97%B0%ED%95%A9">iOS, Safari, App Store 변경 사항</a>과 관련한 조언을 받을 수 있습니다. </li>
-</ul><p>올해 더 많은 활동이 온·오프라인으로 여러 언어를 통해 제공됩니다. </p><p><a href="https://developer.apple.com/events/view/upcoming-events"><span class="icon icon-after icon-chevronright nowrap">일정 보기</span></a></p></div>
+![이미지](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  이제 최신 OS 릴리즈를 위한 앱을 제출할 수 있습니다  
+###### 2024년 02월 28일  
+<div class="article-text"><h3>App Store Connect에 제출하기</h3><p>iOS 17.4, iPadOS 17.4, macOS 14.4, tvOS 17.4, visionOS 1.1, watchOS 10.4가 곧 전 세계 사용자에게 제공됩니다. Xcode 15.3 릴리즈 후보와 최신 SDK를 사용하여 앱과 게임을 빌드하고, 이를 TestFlight에서 테스트하세요. iPhone 및 iPad 앱을 오늘 바로 제출하실 수 있습니다.</p><h3>유럽 연합 내 앱</h3><p>유럽 연합(EU) 내 앱을 위한 대체 약관 부록에 동의한 개발자는 EU 내 배포를 위한 마켓플레이스를 설정할 수 있습니다. 자격을 갖춘 개발자는 마켓플레이스 앱을 제출하거나 대체 브라우저 엔진으로 앱을 제공할 수도 있습니다.</p><p>이러한 플랫폼 버전이 공개되면 다음과 같은 사항이 가능해집니다.</p><ul>
+<li><a href="https://developer.apple.com/kr/support/core-technology-fee/">Core Technology Fee(핵심 기술 비용)(영문)</a>의 연간 첫 설치 누계가 시작되며, 해당 개발자는 새로운 수수료율의 적용을 받게 됩니다.</li>
+<li>App Store Connect에서 <a href="https://developer.apple.com/kr/support/apps-using-alternative-payment-providers-in-the-eu/">대체 결제 옵션(영문)</a>을 제공하는 앱이 승인됩니다. 그때까지는 샌드박스 환경에서 테스트할 수 있습니다.</li>
+</ul><p>디지털시장법(DMA)을 준수하기 위하여 iOS, Safari, App Store에 적용된 변경 사항은 EU 내 앱에 영향을 줍니다. 이러한 변경 사항과 관련하여 Apple 직원에게 <a href="https://developer.apple.com/events/view/upcoming-events?q=%EC%9C%A0%EB%9F%BD%20%EC%97%B0%ED%95%A9%20%EB%82%B4%20%EB%B0%B0%ED%8F%AC%EB%90%98%EB%8A%94%20%EC%95%B1%EC%97%90%20%EC%A0%81%EC%9A%A9%EB%90%98%EB%8A%94%20%EB%B3%80%EA%B2%BD%20%EC%82%AC%ED%95%AD%EA%B3%BC%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EC%BB%A8%EC%84%A4%ED%8C%85">30분 분량의 온라인 컨설팅</a>을 요청할 수 있습니다. EU에서 iOS 대체 앱 마켓플레이스를 운영하는 데 관심이 있으신 경우 <a href="https://developer.apple.com/events/view/upcoming-events?q=Alternative%20app%20marketplace%20labs%20-%20Cork">아일랜드 코크에서 진행되는 오프라인 랩에 참여 신청(영문)</a>을 보내실 수 있습니다.</p><p><a href="https://appstoreconnect.apple.com/"><span class="icon icon-after icon-chevronright nowrap">App Store Connect에 로그인하기</span></a> </p></div>
