@@ -45,4 +45,16 @@ Contact
                                                           
                                                                     
 -->                                                                    
-Soup Error: can't load article
+![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  New App Store, iOS, and CloudKit data analytics now available  
+###### March 5, 2024  
+<div class="article-text"><p>We’re expanding the analytics available for your apps to help you get even more insight into your business and apps’ performance.</p><p>Over 50 new reports are now available through the App Store Connect API to help you analyze your apps’ <a href="https://developer.apple.com/documentation/appstoreconnectapi/analytics">App Store and iOS performance</a>. These reports include hundreds of new metrics that can enable you to evaluate your performance and find opportunities for improvement. Reports are organized into the following categories:</p><ul>
+<li>App Store Engagement — the number of users on the App Store interacting with a developer’s app or sharing it with others</li>
+<li>App Store Commerce — downloads, sales, pre-orders, and transactions made with the secure App Store In-App Purchase system</li>
+<li>App Usage — active devices, installs, app deletions, and more</li>
+<li>Frameworks Usage — an app’s interaction with OS capabilities, such as PhotoPicker and Widgets</li>
+<li>Performance — how your apps perform and how users interact with specific features</li>
+</ul><p>Additionally, new reports are also available through the CloudKit console with data about <a href="https://developer.apple.com/documentation/pushkit/exporting-delivery-metrics-logs">Apple Push Notifications</a> and <a href="https://developer.apple.com/documentation/fileprovider/exporting_file_provider_metrics_data">File Provider</a>.</p><ul>
+<li>Apple Push Notifications — notification states as they pass through the Apple Push Notification service (APNs)</li>
+<li>File Provider — usage, consistency, and error data</li>
+</ul></div>
