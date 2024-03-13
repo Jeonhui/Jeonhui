@@ -45,16 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  New App Store, iOS, and CloudKit data analytics now available  
-###### March 5, 2024  
-<div class="article-text"><p>We’re expanding the analytics available for your apps to help you get even more insight into your business and apps’ performance.</p><p>Over 50 new reports are now available through the App Store Connect API to help you analyze your apps’ <a href="https://developer.apple.com/documentation/appstoreconnectapi/analytics">App Store and iOS performance</a>. These reports include hundreds of new metrics that can enable you to evaluate your performance and find opportunities for improvement. Reports are organized into the following categories:</p><ul>
-<li>App Store Engagement — the number of users on the App Store interacting with a developer’s app or sharing it with others</li>
-<li>App Store Commerce — downloads, sales, pre-orders, and transactions made with the secure App Store In-App Purchase system</li>
-<li>App Usage — active devices, installs, app deletions, and more</li>
-<li>Frameworks Usage — an app’s interaction with OS capabilities, such as PhotoPicker and Widgets</li>
-<li>Performance — how your apps perform and how users interact with specific features</li>
-</ul><p>Additionally, new reports are also available through the CloudKit console with data about <a href="https://developer.apple.com/documentation/pushkit/exporting-delivery-metrics-logs">Apple Push Notifications</a> and <a href="https://developer.apple.com/documentation/fileprovider/exporting_file_provider_metrics_data">File Provider</a>.</p><ul>
-<li>Apple Push Notifications — notification states as they pass through the Apple Push Notification service (APNs)</li>
-<li>File Provider — usage, consistency, and error data</li>
-</ul></div>
+###  More options for apps distributed in the European Union  
+###### March 12, 2024  
+<div class="article-text"><p>We’re providing more flexibility for developers who distribute apps in the European Union (EU), including introducing a new way to distribute apps directly from a developer’s website.</p><h3>More flexibility</h3><p>Developers who’ve agreed to the Alternative Terms Addendum for Apps in the EU have new options for their apps in the EU:</p><ul>
+<li>Alternative app marketplaces. Marketplaces can choose to offer a catalog of apps solely from the developer of the marketplace.</li>
+<li>Linking out to purchase. When directing users to complete a transaction for digital goods or services on an external webpage, developers can choose how to design promotions, discounts, and other deals. The Apple-provided design templates, which are optimized for key purchase and promotional use cases, are now optional. </li>
+</ul><h3>Distributing directly from your website</h3><p>Web Distribution, available with a software update later this spring, will let authorized developers distribute their iOS apps to EU users directly from a website owned by the developer. Apple will provide authorized developers access to APIs that facilitate the distribution of their apps from the web, integrate with system functionality, back up and restore users’ apps, and more. For details, visit <a href="https://developer.apple.com/support/web-distribution-eu/">Getting ready for Web Distribution in the EU</a>. </p></div>
