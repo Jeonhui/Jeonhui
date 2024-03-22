@@ -45,9 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-###  More options for apps distributed in the European Union  
-###### March 12, 2024  
-<div class="article-text"><p>We’re providing more flexibility for developers who distribute apps in the European Union (EU), including introducing a new way to distribute apps directly from a developer’s website.</p><h3>More flexibility</h3><p>Developers who’ve agreed to the Alternative Terms Addendum for Apps in the EU have new options for their apps in the EU:</p><ul>
-<li>Alternative app marketplaces. Marketplaces can choose to offer a catalog of apps solely from the developer of the marketplace.</li>
-<li>Linking out to purchase. When directing users to complete a transaction for digital goods or services on an external webpage, developers can choose how to design promotions, discounts, and other deals. The Apple-provided design templates, which are optimized for key purchase and promotional use cases, are now optional. </li>
-</ul><h3>Distributing directly from your website</h3><p>Web Distribution, available with a software update later this spring, will let authorized developers distribute their iOS apps to EU users directly from a website owned by the developer. Apple will provide authorized developers access to APIs that facilitate the distribution of their apps from the web, integrate with system functionality, back up and restore users’ apps, and more. For details, visit <a href="https://developer.apple.com/support/web-distribution-eu/">Getting ready for Web Distribution in the EU</a>. </p></div>
+![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  Provide your trader status in App Store Connect  
+###### March 21, 2024  
+<div class="article-text"><p>To align with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a> (DSA) in the European Union (EU), Account Holders and Admins in the Apple Developer Program can now enter their trader status in <a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/">App Store Connect</a>.</p><h3>Submission requirements</h3><p>You’ll need to let us know whether or not you’re a trader to submit new apps to the App Store. If you’re a trader, you may be asked for documentation that verifies your trader contact information. </p></div>
