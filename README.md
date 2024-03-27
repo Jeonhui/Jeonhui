@@ -45,7 +45,6 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  Provide your trader status in App Store Connect  
-###### March 21, 2024  
-<div class="article-text"><p>To align with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a> (DSA) in the European Union (EU), Account Holders and Admins in the Apple Developer Program can now enter their trader status in <a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/">App Store Connect</a>.</p><h3>Submission requirements</h3><p>You’ll need to let us know whether or not you’re a trader to submit new apps to the App Store. If you’re a trader, you may be asked for documentation that verifies your trader contact information. </p></div>
+###  WWDC24: June 10-14  
+###### March 26, 2024  
+<div class="article-text"><div class="inline-article-image"><img alt="The phrase “WWDC24” is shown in a glowing gradient of red, purple, and blue on a black background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/7DBC4C30-A7D2-4458-8662-CF17FDB886D5/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7DBC4C30-A7D2-4458-8662-CF17FDB886D5/2048.jpeg"/></div><p>Join the worldwide developer community online for a week of technology and creativity.</p><p>Be there for the unveiling of the latest Apple platforms, technologies, and tools. Learn how to create and elevate your apps and games. Engage with Apple designers and engineers and connect with the worldwide developer community. All online and at no cost.</p><p><a href="https://developer.apple.com/wwdc24/"><span class="icon icon-after icon-chevronright nowrap">Learn more</span></a></p></div>
