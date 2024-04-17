@@ -45,9 +45,7 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![news_image](https://developer.apple.com/assets/elements/icons/sdk-17/sdk-17-128x128_2x.png)  
-###  Get ready with the latest beta releases  
-###### April 5, 2024  
-<div class="article-text"><p>The beta versions of iOS 17.5, iPadOS 17.5, macOS 14.5, tvOS 17.5, visionOS 1.2, and watchOS 10.5 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 15.3.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and <span class="icon icon-after icon-chevronright nowrap">release notes</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a <span class="icon icon-after icon-chevronright nowrap">beta OS</span></a></p>
-<p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sending feedback</span></a></p></div>
+![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
+###  Web Distribution now available in iOS 17.5 beta 2 and App Store Connect  
+###### April 16, 2024  
+<div class="article-text"><p>Web Distribution lets authorized developers distribute their iOS apps to users in the European Union (EU) directly from a website owned by the developer. Apple will provide developers access to APIs that facilitate the distribution of their apps from the web, integrate with system functionality, and back up and restore users’ apps, once they meet certain requirements designed to help protect users and platform integrity. For details, visit <a href="https://developer.apple.com/support/web-distribution-eu/">Getting started with Web Distribution in the EU</a>.</p></div>
