@@ -45,7 +45,11 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  Web Distribution now available in iOS 17.5 beta 2 and App Store Connect  
-###### April 16, 2024  
-<div class="article-text"><p>Web Distribution lets authorized developers distribute their iOS apps to users in the European Union (EU) directly from a website owned by the developer. Apple will provide developers access to APIs that facilitate the distribution of their apps from the web, integrate with system functionality, and back up and restore users’ apps, once they meet certain requirements designed to help protect users and platform integrity. For details, visit <a href="https://developer.apple.com/support/web-distribution-eu/">Getting started with Web Distribution in the EU</a>.</p></div>
+###  Check out our newest developer activities  
+###### April 19, 2024  
+<div class="article-text"><div class="inline-article-image"><img alt="A woman in a green sweater sits at a table with two people, one of whom is working on an open laptop." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/0117AA71-1508-421A-8C05-9F67DB6FBD89/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/0117AA71-1508-421A-8C05-9F67DB6FBD89/2048.jpeg"/></div><p>Join us around the world to learn about growing your business, elevating your app design, and preparing for the App Review process. Here’s a sample of our new activities — and you can always <a href="https://developer.apple.com/events/view/upcoming-events">browse the full schedule</a> to find more.</p><ul>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?q=expand%20your%20app">Expand your app to new markets</a>: Learn how to bring your apps and games to Southeast Asia, Hong Kong, and Taiwan in new online sessions with App Store experts.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?q=app%20review%20consultation">Request a one-on-one App Review consultation</a>: Meet online to discuss the App Review Guidelines and explore best practices for a smooth review process.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?q=apple%20vision%20pro%20developer%20labs">Visit the Apple Vision Pro developer labs</a>: Test, refine, and optimize your apps and games for the infinite canvas — with in-person help from Apple.</li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?q=design%20and%20technology%20consultation">Request a design or technology consultation</a>: In this 30-minute online consultation, you’ll get expert advice tailored to your app or game.</li>
+</ul><p><a href="https://developer.apple.com/events/view/upcoming-events">Browse the <span class="icon icon-after icon-chevronright nowrap">full schedule</span></a> </p></div>
