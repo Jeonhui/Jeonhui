@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup as Soup
 import re
 
+
 class MarkdownConverter:
     @staticmethod
     def image(name: str, src: str):
@@ -33,12 +34,11 @@ class Scrapper:
     soup = None
     select = None
 
-    def __init__(self, domain: (str | None) = None, parser: str = 'html.parser'):
+    def __init__(self, domain=None, parser: str = 'html.parser'):
         if domain is not None:
             self.set_soup(domain, parser)
 
     def set_soup(self, domain: str, parser: str = 'html.parser'):
-        print(domain)
         self.soup = Soup(requests.get(domain).text, parser)
 
     def select_tag(self, tag: (str | None), attrs=None):
@@ -100,7 +100,7 @@ class iOSDevNewsScrapper:
             image_src, title, date, content = self.scrap()
         except Exception as e:
             return str(e)
-        return  re.sub(" ", "", self.convert(image_src, title, date, content))
+        return re.sub(" ", "", self.convert(image_src, title, date, content))
 
 
 if __name__ == "__main__":
