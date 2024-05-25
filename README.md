@@ -45,15 +45,9 @@ Contact
                                                           
                                                                     
 -->                                                                    
-![news_image](https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png)  
-###  Reminder: Privacy requirement for app submissions starts May 1  
-###### April 26, 2024  
-<div class="article-text"><p>The App Store was created to be a safe place for users to discover and get millions of apps all around the world. Over the years, we‘ve built many critical privacy and security features that help protect users and give them transparency and control — from Privacy Nutrition Labels to app tracking transparency, and so many more.</p><p>An essential requirement of maintaining user trust is that developers are responsible for all of the code in their apps, including code frameworks and libraries from other sources. That‘s why we’ve created privacy manifests and signature requirements for the most popular third-party SDKs, as well as required reasons for covered APIs.</p><p>Starting <strong>May 1, 2024</strong>, new or updated apps that have a newly added third-party SDK that‘s on the list of <a href="https://developer.apple.com/support/third-party-SDK-requirements/">commonly used third-party SDKs</a> will need all of the following to be submitted in App Store Connect:</p><ol>
-<li>Required reasons for each <a href="https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api">listed API</a></li>
-<li><a href="https://developer.apple.com/support/third-party-SDK-requirements/">Privacy manifests</a></li>
-<li>Valid signatures when the SDK is added as a binary dependency</li>
-</ol><p>Apps won’t be accepted if they fail to meet the manifest and signature requirements. Apps also won’t be accepted if all of the following apply:</p><ol>
-<li>They’re missing a reason for a listed API</li>
-<li>The code is part of a dynamic framework embedded via the Embed Frameworks build phase</li>
-<li>The framework is a newly added third-party SDK that’s on the list of commonly used third-party SDKs</li>
-</ol><p>In the future, these required reason requirements will expand to include the entire app binary. If you’re not using an API for an approved reason, please find an alternative. These changes are designed to help you better understand how third-party SDKs use data, secure software dependencies, and provide additional privacy protection for users.</p><p>This is a step forward for all apps and we encourage all SDKs to adopt this functionality to better support the apps that depend on them.</p></div>
+<img src="/assets/elements/icons/forums/forums-256x256_2x.png" alt="news_image" width="100"/>  
+## Check out the new Apple Developer Forums  
+###### May 23, 2024  
+<div class="article-text"><p>The Apple Developer Forums have been redesigned for WWDC24 to help developers connect with Apple experts, engineers, and each other to find answers and get advice.</p>
+<p>Apple Developer Relations and Apple engineering are joining forces to field your questions and work to solve your technical issues. You’ll have access to an expanded knowledge base and enjoy quick response times — so you can get back to creating and enhancing your app or game. Plus, Apple Developer Program members now have priority access to expert advice on the forums.</p>
+<p><a href="https://developer.apple.com/forums/">Check out the <span class="icon icon-after icon-chevronright nowrap">new forums</span></a> </p></div>  
