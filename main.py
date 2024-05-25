@@ -12,17 +12,17 @@ class MarkdownConverter:
     @staticmethod
     def image_tag(src: str, alt: str, width: int):
         if src is None: return ""
-        return MarkdownConverter.br(f"<img src=\"{src}\" alt=\"{alt}\" width=\"{width}\"/>")
+        return "\n" + MarkdownConverter.br(f"<img src=\"{src}\" alt=\"{alt}\" width=\"{width}\"/>")
 
     @staticmethod
     def h2(text: str):
         if text is None: return ""
-        return MarkdownConverter.br(f"## {text}")
+        return "\n" +MarkdownConverter.br(f"## {text}")
 
     @staticmethod
     def p(text: str):
         if text is None: return ""
-        return MarkdownConverter.br(f"###### {text}")
+        return "\n" +MarkdownConverter.br(f"###### {text}")
 
     @staticmethod
     def br(text: str):
