@@ -41,7 +41,7 @@ class Scrapper:
     def set_soup(self, domain: str, parser: str = 'html.parser'):
         self.soup = Soup(requests.get(domain).text, parser)
 
-    def select_tag(self, tag: (str | None), attrs=None):
+    def select_tag(self, tag: str, attrs=None):
         self.select = self.soup.find(tag, attrs)
 
     def _get_select(self):
@@ -82,7 +82,7 @@ class iOSDevNewsScrapper:
 
         self.scrapper.select_tag('section', 'article-content-container')
 
-        image_src = self.scrapper.get_image_src('article-image')
+        image_src = 'https://developer.apple.com' + self.scrapper.get_image_src('article-image')
         title = self.scrapper.get_tag_text('h2', 'article-title')
         date = self.scrapper.get_tag_text('p', 'article-date')
         content = self.scrapper.get_str('div', 'article-text')
