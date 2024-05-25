@@ -48,7 +48,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: './README.md'
-          message: 'update IOS News'
+          message: 'update iOS Developer News'
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
