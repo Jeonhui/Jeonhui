@@ -45,8 +45,11 @@ Contact
                                                           
                                                                     
 -->                                                                    
+
 <img src="https://developer.apple.com/assets/elements/icons/forums/forums-256x256_2x.png" alt="news_image" width="100"/>  
+
 ## Check out the new AppleDeveloperForums  
+
 ###### May 23, 2024  
 <div class="article-text"><p>The AppleDeveloperForums have been redesigned for WWDC24 to help developers connect with Apple experts, engineers, and each other to find answers and get advice.</p>
 <p>Apple Developer Relations and Apple engineering are joining forces to field your questions and work to solve your technical issues. You’ll have access to an expanded knowledge base and enjoy quick response times — so you can get back to creating and enhancing your app or game. Plus, AppleDeveloperProgram members now have priority access to expert advice on the forums.</p>
