@@ -17,12 +17,12 @@ class MarkdownConverter:
     @staticmethod
     def h2(text: str):
         if text is None: return ""
-        return "\n" +MarkdownConverter.br(f"## {text}")
+        return "\n" + MarkdownConverter.br(f"## {text}")
 
     @staticmethod
     def p(text: str):
         if text is None: return ""
-        return "\n" +MarkdownConverter.br(f"###### {text}")
+        return "\n" + MarkdownConverter.br(f"###### {text}")
 
     @staticmethod
     def br(text: str):
@@ -56,16 +56,23 @@ class Scrapper:
         return self._get_select().find(tag, attrs).attrs[attr]
 
     def get_tag_text(self, tag: str, attrs):
-        return self._get_select().find(tag, attrs).text
+        return Scrapper.exception_handler(self._get_select().find(tag, attrs).text, f"get_tag_text({tag}, {attrs}")
 
     def get_image_src(self, attrs=None):
-        return self._get_attr('img', attrs, 'src')
+        return Scrapper.exception_handler(self._get_attr('img', attrs, 'src'), f"get_image_src({attrs})")
 
     def get_a_href(self, attrs=None):
-        return self._get_attr('a', attrs, 'href')
+        return Scrapper.exception_handler(self._get_attr('a', attrs, 'href'), f"get_a_href({attrs})")
 
     def get_str(self, tag: str, attrs):
-        return str(self._get_select().find(tag, attrs))
+        return Scrapper.exception_handler(str(self._get_select().find(tag, attrs)), f"get_str({tag}, {attrs})")
+
+    @staticmethod
+    def exception_handler(f, message):
+        try:
+            return f
+        except Exception as e:
+            raise Exception(f'{message} - {e}')
 
 
 class iOSDevNewsScrapper:
@@ -77,7 +84,6 @@ class iOSDevNewsScrapper:
     def scrap(self):
         self.scrapper.set_soup(self.domain + '/news/')
         href = self.scrapper.get_a_href({'class': 'article-title'})
-        print(href)
         self.scrapper.set_soup(self.domain + href)
 
         self.scrapper.select_tag('section', 'article-content-container')
