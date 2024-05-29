@@ -85,7 +85,8 @@ class iOSDevNewsScrapper:
 
         self.scrapper.select_tag('section', 'article-content-container')
 
-        image_src = 'https://developer.apple.com' + self.scrapper.get_image_src('article-image')
+        image_src = self.scrapper.get_image_src('article-image')
+        image_src = ('https://developer.apple.com' +  image_src) if image_src is not None else None
         title = self.scrapper.get_tag_text('h2', 'article-title')
         date = self.scrapper.get_tag_text('p', 'article-date')
         content = self.scrapper.get_str('div', 'article-text')
