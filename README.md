@@ -46,8 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Introducing the 2024 Apple Design Award finalists  
+## Action packed.  
 
-###### May 28, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="A collage of app icons from the 40 Apple Design Award finalists, set against a black background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/A16B8AC4-B65A-47BF-8D8E-A3C415027460/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/A16B8AC4-B65A-47BF-8D8E-A3C415027460/2048.jpeg"/></div><p>Every year, the AppleDesignAwards recognize innovation, ingenuity, and technical achievement in app and game design. </p>
-<p>But they’ve also become something more: A moment to step back and celebrate the Apple developer community in all its many forms. </p><p><a href="https://developer.apple.com/design/awards/">Meet this <span class="icon icon-after icon-chevronright nowrap">year’s finalists</span></a></p></div>  
+###### June 3, 2024  
+<div class="article-text"><div class="inline-article-image"><img alt="The phrase “WWDC24” is shown in a glowing gradient of red, purple, and blue on a black background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/4E5C0028-D1D4-4586-A736-23182F2E62C7/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4E5C0028-D1D4-4586-A736-23182F2E62C7/2048.jpeg"/></div><p>One week to go. Don’t miss the exciting reveal of the latest Apple software and technologies.</p><p>Keynote kicks off at 10a.m.PT on June10.</p><p><a href="https://developer.apple.com/wwdc24/WWDC2024_KEYNOTE.ics">Add <span class="icon icon-after icon-chevronright nowrap">to calendar</span></a></p><p>Join us for the Platforms State of the Union at 1 p.m. PT on June 10.</p><p><a href="https://developer.apple.com/wwdc24/WWDC2024_SOTU.ics">Add <span class="icon icon-after icon-chevronright nowrap">to calendar</span></a></p><p><a href="https://developer.apple.com/wwdc24/"><span class="icon icon-after icon-chevronright nowrap">Learn more</span></a></p></div>  
