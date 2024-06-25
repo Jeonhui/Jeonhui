@@ -46,13 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/app-store-vision/app-store-vision-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/sdk-18/sdk-18-256x256_2x.png" alt="news_image" width="100"/>  
 
-## The App Store on Apple Vision Pro expands to new markets  
+## Find out what’s new and download beta releases  
 
-###### June 18, 2024  
-<div class="article-text"><p>Apple Vision Pro will launch in China mainland, Hong Kong, Japan, and Singapore on <strong>June28</strong> and in Australia, Canada, France, Germany, and the United Kingdom on <strong>July12</strong>. Your apps and games will be automatically available on the AppStore in regions you’ve selected in AppStoreConnect.</p><p>If you’d like, you can:</p><ul>
-<li>Manage the availability of your <a href="https://developer.apple.com/help/app-store-connect/manage-your-apps-availability/manage-availability-for-your-app-on-the-app-store">visionOS apps</a> and <a href="https://developer.apple.com/help/app-store-connect/manage-your-apps-availability/manage-availability-of-iphone-and-ipad-apps-on-apple-vision-pro">compatible iPhone or iPad apps</a> at any time.</li>
-<li>Request to have your app <a href="https://developer.apple.com/visionos/compatibility-evaluations/">evaluated directly on AppleVisionPro</a>.</li>
-<li><a href="https://developer.apple.com/localization/">Localize your product page metadata</a> for local audiences.</li>
-</ul><p>You can also learn how to <a href="https://developer.apple.com/visionos/pathway/">build native apps</a> to fully take advantage of exciting visionOS features. </p></div>  
+###### June 10, 2024  
+<div class="article-text"><p><a href="https://developer.apple.com/whats-new/">Discover the latest advancements</a> across Apple platforms, including the all-new Apple Intelligence, that can help you create even more powerful, intuitive, and unique experiences.</p><p>To start exploring and building with the latest features, <a href="https://developer.apple.com/news/releases/">download beta versions</a> of Xcode16, iOS18, iPadOS18, macOS15, tvOS18, visionOS2, and watchOS11.</p><p><a href="https://developer.apple.com/support/install-beta/">Learn about installing <span class="icon icon-after icon-chevronright nowrap">beta software</span></a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sharing feedback</span></a> </p></div>  
