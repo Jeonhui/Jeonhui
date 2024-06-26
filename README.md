@@ -46,9 +46,13 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/sdk-18/sdk-18-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/ipados-18-num/ipados-18-num-256x256_2x.png" alt="news_image" width="100"/>  
 
-## Find out what’s new and download beta releases  
+## Changes for apps in the EU now available in iPadOS18 beta2  
 
-###### June 10, 2024  
-<div class="article-text"><p><a href="https://developer.apple.com/whats-new/">Discover the latest advancements</a> across Apple platforms, including the all-new Apple Intelligence, that can help you create even more powerful, intuitive, and unique experiences.</p><p>To start exploring and building with the latest features, <a href="https://developer.apple.com/news/releases/">download beta versions</a> of Xcode16, iOS18, iPadOS18, macOS15, tvOS18, visionOS2, and watchOS11.</p><p><a href="https://developer.apple.com/support/install-beta/">Learn about installing <span class="icon icon-after icon-chevronright nowrap">beta software</span></a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sharing feedback</span></a> </p></div>  
+###### June 24, 2024  
+<div class="article-text"><p>The <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">changes for apps in the European Union (EU)</a>, currently available to iOS users in the 27 EU member countries, can now be tested in iPadOS18 beta2 with Xcode16 beta2.</p><p>Also, the Web Browser Engine Entitlement Addendum for Apps in the EU and Embedded Browser Engine Entitlement Addendum for Apps in the EU now include iPadOS. If you’ve already entered into either of these addendums, be sure to sign the updated terms.</p><p>Learn more about the recent changes:</p><ul>
+<li><a href="https://developer.apple.com/support/web-distribution-eu/">Web Distribution</a></li>
+<li><a href="https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/">Alternative marketplaces</a></li>
+<li><a href="https://developer.apple.com/support/alternative-browser-engines/">Alternative browser engines</a></li>
+</ul></div>  
