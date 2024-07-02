@@ -46,13 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/ipados-18-num/ipados-18-num-256x256_2x.png" alt="news_image" width="100"/>  
+## Alternative payment options in the EU in visionOS 1.2  
 
-## Changes for apps in the EU now available in iPadOS18 beta2  
-
-###### June 24, 2024  
-<div class="article-text"><p>The <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">changes for apps in the European Union (EU)</a>, currently available to iOS users in the 27 EU member countries, can now be tested in iPadOS18 beta2 with Xcode16 beta2.</p><p>Also, the Web Browser Engine Entitlement Addendum for Apps in the EU and Embedded Browser Engine Entitlement Addendum for Apps in the EU now include iPadOS. If you’ve already entered into either of these addendums, be sure to sign the updated terms.</p><p>Learn more about the recent changes:</p><ul>
-<li><a href="https://developer.apple.com/support/web-distribution-eu/">Web Distribution</a></li>
-<li><a href="https://developer.apple.com/support/alternative-app-marketplace-in-the-eu/">Alternative marketplaces</a></li>
-<li><a href="https://developer.apple.com/support/alternative-browser-engines/">Alternative browser engines</a></li>
-</ul></div>  
+###### July 1, 2024  
+<div class="article-text"><p>Alternative payment options are now supported starting in visionOS1.2 for apps distributed on the AppStore in theEU.</p><p><a href="https://developer.apple.com/support/apps-using-alternative-payment-providers-in-the-eu/">Learn about alternative payments in <span class="icon icon-after icon-chevronright nowrap">the EU</span></a></p></div>  
