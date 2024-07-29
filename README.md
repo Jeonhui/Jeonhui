@@ -46,13 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/app-store-vision/app-store-vision-256x256_2x.png" alt="news_image" width="100"/>  
+## Alternative payment options in the EU in visionOS 1.2  
 
-## The App Store on Apple Vision Pro expands to new markets  
-
-###### June 18, 2024  
-<div class="article-text"><p>Apple Vision Pro will launch in China mainland, Hong Kong, Japan, and Singapore on <strong>June28</strong> and in Australia, Canada, France, Germany, and the United Kingdom on <strong>July12</strong>. Your apps and games will be automatically available on the AppStore in regions you’ve selected in AppStoreConnect.</p><p>If you’d like, you can:</p><ul>
-<li>Manage the availability of your <a href="https://developer.apple.com/help/app-store-connect/manage-your-apps-availability/manage-availability-for-your-app-on-the-app-store">visionOS apps</a> and <a href="https://developer.apple.com/help/app-store-connect/manage-your-apps-availability/manage-availability-of-iphone-and-ipad-apps-on-apple-vision-pro">compatible iPhone or iPad apps</a> at any time.</li>
-<li>Request to have your app <a href="https://developer.apple.com/visionos/compatibility-evaluations/">evaluated directly on AppleVisionPro</a>.</li>
-<li><a href="https://developer.apple.com/localization/">Localize your product page metadata</a> for local audiences.</li>
-</ul><p>You can also learn how to <a href="https://developer.apple.com/visionos/pathway/">build native apps</a> to fully take advantage of exciting visionOS features. </p></div>  
+###### July 1, 2024  
+<div class="article-text"><p>Alternative payment options are now supported starting in visionOS1.2 for apps distributed on the AppStore in theEU.</p><p><a href="https://developer.apple.com/support/apps-using-alternative-payment-providers-in-the-eu/">Learn about alternative payments in <span class="icon icon-after icon-chevronright nowrap">the EU</span></a></p></div>  
