@@ -46,7 +46,10 @@ Contact
                                                                     
 -->                                                                    
 
-## Alternative payment options in the EU in visionOS 1.2  
+## Updated guidelines now available  
 
-###### July 1, 2024  
-<div class="article-text"><p>Alternative payment options are now supported starting in visionOS1.2 for apps distributed on the AppStore in theEU.</p><p><a href="https://developer.apple.com/support/apps-using-alternative-payment-providers-in-the-eu/">Learn about alternative payments in <span class="icon icon-after icon-chevronright nowrap">the EU</span></a></p></div>  
+###### August 1, 2024  
+<div class="article-text"><p>The App Review Guidelines have been revised to support updated policies and upcoming features, and to provide clarification.</p><ul>
+<li>Updated 4.7 to clarify that PC emulator apps can offer to download games.</li>
+<li>Added 4.7, 4.7.2, and 4.7.3 to Notarization.</li>
+</ul><p><a href="https://developer.apple.com/app-store/review/guidelines/">View the App <span class="icon icon-after icon-chevronright nowrap">Review Guidelines</span></a></p><p><a href="https://developer.apple.com/distribute/app-review/">Get resources and support to prepare <span class="icon icon-after icon-chevronright nowrap">for AppReview</span></a> </p><p class="sosumi margin-top-small">Translations of the guidelines will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
