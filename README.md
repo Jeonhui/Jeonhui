@@ -46,9 +46,10 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/gatekeeper/gatekeeper-256x256_2x.png" alt="news_image" width="100"/>  
+## Updated guidelines now available  
 
-## Updates to runtime protection in macOSSequoia  
-
-###### August 6, 2024  
-<div class="article-text"><p>In macOS Sequoia, users will no longer be able to Control-click to override <a href="https://developer.apple.com/developer-id/">Gatekeeper</a> when opening software that isn’t signed correctly or notarized. They’ll need to visit SystemSettings&gt; Privacy &amp; Security to review security information for software before allowing it to run.</p><p>If you distribute software outside of the MacAppStore, we recommend that you submit your software to be notarized. The Apple notary service automatically scans your Developer ID-signed software and performs security checks. When your software is ready for distribution, it’s assigned a ticket to let Gatekeeper know it’s been notarized so customers can run it with confidence.</p><p><a href="https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution">Learn how to notarize your <span class="icon icon-after icon-chevronright nowrap">macOS software</span></a></p></div>  
+###### August 1, 2024  
+<div class="article-text"><p>The App Review Guidelines have been revised to support updated policies and upcoming features, and to provide clarification.</p><ul>
+<li>Updated 4.7 to clarify that PC emulator apps can offer to download games.</li>
+<li>Added 4.7, 4.7.2, and 4.7.3 to Notarization.</li>
+</ul><p><a href="https://developer.apple.com/app-store/review/guidelines/">View the App <span class="icon icon-after icon-chevronright nowrap">Review Guidelines</span></a></p><p><a href="https://developer.apple.com/distribute/app-review/">Get resources and support to prepare <span class="icon icon-after icon-chevronright nowrap">for AppReview</span></a> </p><p class="sosumi margin-top-small">Translations of the guidelines will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
