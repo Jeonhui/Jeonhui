@@ -46,10 +46,14 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated guidelines now available  
+## Updates to the StoreKit External Purchase Link Entitlement  
 
-###### August 1, 2024  
-<div class="article-text"><p>The App Review Guidelines have been revised to support updated policies and upcoming features, and to provide clarification.</p><ul>
-<li>Updated 4.7 to clarify that PC emulator apps can offer to download games.</li>
-<li>Added 4.7, 4.7.2, and 4.7.3 to Notarization.</li>
-</ul><p><a href="https://developer.apple.com/app-store/review/guidelines/">View the App <span class="icon icon-after icon-chevronright nowrap">Review Guidelines</span></a></p><p><a href="https://developer.apple.com/distribute/app-review/">Get resources and support to prepare <span class="icon icon-after icon-chevronright nowrap">for AppReview</span></a> </p><p class="sosumi margin-top-small">Translations of the guidelines will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
+###### August 8, 2024  
+<div class="article-text"><p>In response to the announcement by the European Commission in June, we’re making the following changes to Apple’s Digital Markets Act compliance plan.  We’re introducing updated terms that will apply this fall for developers with apps in the European Union storefronts of the AppStore that use the StoreKit External Purchase Link Entitlement. Key changes include:</p><ul>
+<li>Developers can communicate and promote offers for purchases available at a destination of their choice.  The destination can be an alternative app marketplace, another app, or a website, and it can be accessed outside the app or via a web view that appears in theapp.</li>
+<li>Developers may design and execute within their apps the communication and promotion of offers. This includes providing information about prices of subscriptions or any other offer available both within or outside the app, and providing explanations or instructions about how to subscribe to offers outside the application. These communications must provide accurate information regarding the digital goods or services available for purchase.</li>
+<li>Developers may choose to use an actionable link that can be tapped, clicked, or scanned, to take users to their destination.</li>
+<li>Developers can use any number of URLs, without declaring them in the app’s Info.plist.</li>
+<li>Links with parameters, redirects, and intermediate links to landing pages are permitted.</li>
+<li>Updated business terms for apps with the External Purchase Link Entitlement are being introduced to align with the changes to these capabilities.</li>
+</ul><p>Learn more by visiting <a href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/">Using alternative payment options on the AppStore in the EuropeanUnion</a> or <a href="https://developer.apple.com/events/view/upcoming-events?search=apps%20distributed%20in%20the%20European%20Union">request a 30-minute online consultation</a> to ask questions and provide feedback about these changes.</p></div>  
