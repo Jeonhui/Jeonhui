@@ -46,7 +46,12 @@ Contact
                                                                     
 -->                                                                    
 
-## Apple Entrepreneur Camp applications are now open  
+<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png" alt="news_image" width="100"/>  
 
-###### August 13, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="People sitting in a group outside laughing." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/99A1800C-E399-41AB-9A95-F58AEA6B28F9/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/99A1800C-E399-41AB-9A95-F58AEA6B28F9/2048.jpeg"/></div><p>Apple Entrepreneur Camp supports underrepresented founders and developers, and encourages the pipeline and longevity of these entrepreneurs in technology. Attendees benefit from one-on-one code-level guidance, receive unprecedented access to Apple engineers and experts, and become part of the extended global network of Apple Entrepreneur Camp alumni.</p><p>Applications are now open for female,* Black, Hispanic/Latinx, and Indigenous founders and developers. And this year we’re thrilled to bring back our in-person programming at Apple in Cupertino. For those who can’t attend in person, we’re still offering our full program online. We welcome established entrepreneurs with app-driven businesses to learn more about eligibility requirements and apply today.</p><p>Apply by September3, 2024.</p><p><a href="https://developer.apple.com/entrepreneur-camp/"><span class="icon icon-after icon-chevronright nowrap">Learn more</span></a> </p><p class="sosumi margin-top-small">* Apple believes that gender expression is a fundamental right. We welcome all women to apply to this program.</p></div>  
+## Upcoming requirements for app distribution in the EuropeanUnion  
+
+###### August 15, 2024  
+<div class="article-text"><p>As a reminder, Account Holders or Admins in the AppleDeveloperProgram need to enter trader status in <a href="https://appstoreconnect.apple.com/">AppStoreConnect </a> for apps on the AppStore in the European Union (EU) in order to comply with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a>.</p><p>Please note these new dates and requirements:</p><ul>
+<li><strong>October 16, 2024</strong>: Trader status will be required to submit app updates. If you’re a trader, you’ll need to provide your trader information before you can submit your app for review.</li>
+<li><strong>February 17, 2025</strong>: Apps without trader status will be removed from the AppStore in the EU until trader status is provided and verified.</li>
+</ul><p><a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/">Learn what a trader is and how to enter <span class="icon icon-after icon-chevronright nowrap">your status</span></a></p></div>  
