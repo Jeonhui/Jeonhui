@@ -46,12 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png" alt="news_image" width="100"/>  
+## Upcoming changes to the browser choice screen, default apps, and app deletion for EU users  
 
-## Upcoming requirements for app distribution in the EuropeanUnion  
-
-###### August 15, 2024  
-<div class="article-text"><p>As a reminder, Account Holders or Admins in the AppleDeveloperProgram need to enter trader status in <a href="https://appstoreconnect.apple.com/">AppStoreConnect </a> for apps on the AppStore in the European Union (EU) in order to comply with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a>.</p><p>Please note these new dates and requirements:</p><ul>
-<li><strong>October 16, 2024</strong>: Trader status will be required to submit app updates. If you’re a trader, you’ll need to provide your trader information before you can submit your app for review.</li>
-<li><strong>February 17, 2025</strong>: Apps without trader status will be removed from the AppStore in the EU until trader status is provided and verified.</li>
-</ul><p><a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/">Learn what a trader is and how to enter <span class="icon icon-after icon-chevronright nowrap">your status</span></a></p></div>  
+###### August 22, 2024  
+<div class="article-text"><p>By the end of this year, we’ll make changes to the browser choice screen, default apps, and app deletion for iOS and iPadOS for users in the EU. These updates come from our ongoing and continuing dialogue with the European Commission about compliance with the Digital Market Act’s requirements in these areas.</p><p>Developers of browsers offered in the browser choice screen in the EU will have additional information about their browser shown to users who view the choice screen, and will get access to more data about the performance of the choice screen. The updated choice screen will be shown to all EU users who have Safari set as their default browser. For details about the changes coming to the browser choice screen, view <a href="https://developer.apple.com/support/browser-choice-screen/">About the browser choice screen in the EU</a>.</p><p>For users in the EU, iOS18 and iPadOS18 will also include a new Default Apps section in Settings that lists defaults available to each user. In future software updates, users will get new default settings for dialing phone numbers, sending messages, translating text, navigation, managing passwords, keyboards, and call spam filters. To learn more, view <a href="https://developer.apple.com/support/dma-and-apps-in-the-eu/#app-controls">Update on apps distributed in the European Union</a>.</p><p>Additionally, the AppStore, Messages, Photos, Camera, and Safari apps will now be deletable for users in theEU. </p></div>  
