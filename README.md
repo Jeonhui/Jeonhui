@@ -46,12 +46,17 @@ Contact
                                                                     
 -->                                                                    
 
-## Win-back offers for auto-renewable subscriptions now available  
+<img src="https://developer.apple.com/assets/elements/icons/ipados-18-num/ipados-18-num-256x256_2x.png" alt="news_image" width="100"/>  
 
-###### September 10, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="Two iPhone screens that show different ways win-back offers can appear on the App Store: On the product page and in personalized recommendations, such as the Apps tabs." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/36DAEB9E-B718-4A1A-B6F6-F35FB864E810/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/36DAEB9E-B718-4A1A-B6F6-F35FB864E810/2048.jpeg"/></div><p>You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in AppStoreConnect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year. Based on your offer configuration, Apple displays these offers to eligible customers in various places, including:</p><ul>
-<li>Across the AppStore, including on your product page, as well as in personalized recommendations and editorial selections on the Today, Games, and Appstabs.</li>
-<li>In your app or game.</li>
-<li>Via a direct link you share using your own marketing channels.</li>
-<li>In Subscription settings.</li>
-</ul><p>When creating win-back offers in AppStoreConnect, you’ll determine customer eligibility, select regional availability, and choose the discount type. Eligible customers will be able to discover win-back offers thisfall.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/set-up-win-back-offers">Set up <span class="icon icon-after icon-chevronright nowrap">win-back offers</span></a></p><p><a href="https://developer.apple.com/app-store/subscriptions/#winback-offers">Learn about <span class="icon icon-after icon-chevronright nowrap">win-back offers</span></a> </p></div>  
+## Update on iPadOS18 apps distributed in the EuropeanUnion  
+
+###### September 13, 2024  
+<div class="article-text"><p>The <a href="https://developer.apple.com/app-store/review/guidelines/">App Review Guidelines</a> have been revised to add iPadOS to Notarization.</p><p>Starting September16:</p><ul>
+<li>Users in the EU can download iPadOS apps on the AppStore and through alternative distribution. <a href="https://developer.apple.com/news/?id=d0z8d8rx">As mentioned in May</a>, if you have entered into the Alternative Terms Addendum for Apps in the EU, iPadOS first annual installs will begin to accrue and the lower AppStore commission rate will apply.</li>
+<li>Alternative browser engines can be used in iPadOS apps.</li>
+<li>Historical App Install Reports in AppStoreConnect that can be used with our <a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/">feecalculator</a> will include iPadOS.</li>
+</ul><p>If you’ve entered into a previous version of the following agreements, be sure to sign the latest version, which supports iPadOS:</p><ul>
+<li><a href="https://developer.apple.com/contact/request/alternative-eu-terms-addendum/">Alternative Terms Addendum for Apps intheEU</a></li>
+<li><a href="https://developer.apple.com/contact/request/web-browser-engine/">Web Browser Engine Entitlement Addendum for Apps intheEU</a></li>
+<li><a href="https://developer.apple.com/contact/request/embdedded-browser-engine/">Embedded Browser Engine Entitlement Addendum for Apps intheEU</a></li>
+</ul><p><a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">Learn more about the update on apps distributed in <span class="icon icon-after icon-chevronright nowrap">the EU</span></a></p><p class="sosumi margin-top-small">Translations of the guidelines will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
