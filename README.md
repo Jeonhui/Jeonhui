@@ -46,17 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/ipados-18-num/ipados-18-num-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-256x256_2x.png" alt="news_image" width="100"/>  
 
-## Update on iPadOS18 apps distributed in the EuropeanUnion  
+## Upcoming regional age ratings in Australia andFrance  
 
-###### September 13, 2024  
-<div class="article-text"><p>The <a href="https://developer.apple.com/app-store/review/guidelines/">App Review Guidelines</a> have been revised to add iPadOS to Notarization.</p><p>Starting September16:</p><ul>
-<li>Users in the EU can download iPadOS apps on the AppStore and through alternative distribution. <a href="https://developer.apple.com/news/?id=d0z8d8rx">As mentioned in May</a>, if you have entered into the Alternative Terms Addendum for Apps in the EU, iPadOS first annual installs will begin to accrue and the lower AppStore commission rate will apply.</li>
-<li>Alternative browser engines can be used in iPadOS apps.</li>
-<li>Historical App Install Reports in AppStoreConnect that can be used with our <a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/">feecalculator</a> will include iPadOS.</li>
-</ul><p>If you’ve entered into a previous version of the following agreements, be sure to sign the latest version, which supports iPadOS:</p><ul>
-<li><a href="https://developer.apple.com/contact/request/alternative-eu-terms-addendum/">Alternative Terms Addendum for Apps intheEU</a></li>
-<li><a href="https://developer.apple.com/contact/request/web-browser-engine/">Web Browser Engine Entitlement Addendum for Apps intheEU</a></li>
-<li><a href="https://developer.apple.com/contact/request/embdedded-browser-engine/">Embedded Browser Engine Entitlement Addendum for Apps intheEU</a></li>
-</ul><p><a href="https://developer.apple.com/support/dma-and-apps-in-the-eu">Learn more about the update on apps distributed in <span class="icon icon-after icon-chevronright nowrap">the EU</span></a></p><p class="sosumi margin-top-small">Translations of the guidelines will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
+###### September 26, 2024  
+<div class="article-text"><p>Apple is committed to making the AppStore a safe place for everyone — especially kids. Within the next few months, the following regional age ratings for Australia and France will be implemented in accordance with local laws. No action is needed on your part. Where required by local regulations, regional ratings will appear alongside Apple global ageratings.</p><p><strong>Australia</strong></p><p>Apps with any instances of simulated gambling will display an R18+ regional age rating in addition to the Apple global age rating on the AppStore inAustralia.</p><p><strong>France</strong></p><p>Apps with a 17+ Apple global age rating will also display an 18+ regional age rating on the AppStore inFrance.</p><p><a href="https://developer.apple.com/help/app-store-connect/reference/age-ratings">Learn more about the <span class="icon icon-after icon-chevronright nowrap">age ratings</span></a></p></div>  
