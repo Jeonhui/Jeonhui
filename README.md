@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/mac-app-store/mac-app-store-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/mac-app-store-11/mac-app-store-11-96x96_2x.png" alt="news_image" width="100"/>  
 
 ## Upcoming changes to the App Store Receipt Signing Intermediate Certificate  
 
