@@ -46,8 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## App Store Award finalists announced  
+## Get your apps and games ready for the holidays  
 
-###### November 25, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="A white App Store logo set against a deep blue background" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/D5537AEF-1674-4F3B-8B9C-6C773CC91264/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/D5537AEF-1674-4F3B-8B9C-6C773CC91264/2048.jpeg"/></div><p>Every year, the App Store Awards celebrate exceptional apps and games that improve people's lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the App Store Editorial team is proud to recognize over 40 outstanding finalists. Winners will be announced in the coming weeks.</p>
-<p><a href="https://developer.apple.com/app-store/app-store-awards-2024/">Learn about <span class="icon icon-after icon-chevronright nowrap">the finalists</span></a></p></div>  
+###### December 2, 2024  
+<div class="article-text"><div class="inline-article-image"><img alt="The App Store logo in blue against a light gray background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/78CD00BA-B84F-4A1F-AFAC-D10B5EB348E8/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/78CD00BA-B84F-4A1F-AFAC-D10B5EB348E8/2048.jpeg"/></div><p>The busiest season on the AppStore is almost here. Make sure your apps and games are up to date and ready.</p><p>App Review will continue to accept submissions throughout the holiday season. Please plan to submit time-sensitive submissions early, as we anticipate high volume and reviews may take longer to complete from December 20-26.</p><p><a href="https://developer.apple.com/app-store/submitting/">Learn more about submitting to <span class="icon icon-after icon-chevronright nowrap">the AppStore</span></a></p></div>  
