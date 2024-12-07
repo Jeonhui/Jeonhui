@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Get your apps and games ready for the holidays  
+## Updated Apple Developer Program License Agreement now available  
 
-###### December 2, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="The App Store logo in blue against a light gray background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/78CD00BA-B84F-4A1F-AFAC-D10B5EB348E8/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/78CD00BA-B84F-4A1F-AFAC-D10B5EB348E8/2048.jpeg"/></div><p>The busiest season on the AppStore is almost here. Make sure your apps and games are up to date and ready.</p><p>App Review will continue to accept submissions throughout the holiday season. Please plan to submit time-sensitive submissions early, as we anticipate high volume and reviews may take longer to complete from December 20-26.</p><p><a href="https://developer.apple.com/app-store/submitting/">Learn more about submitting to <span class="icon icon-after icon-chevronright nowrap">the AppStore</span></a></p></div>  
+###### December 6, 2024  
+<div class="article-text"><p>Attachment 2 of the Apple Developer Program License Agreement has been amended to specify requirements for use of the In-App Purchase API. Please review the changes and accept the updated terms in your account.</p><p><a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">View the full terms <span class="icon icon-after icon-chevronright nowrap">and conditions</span></a></p><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month. </p></div>  
