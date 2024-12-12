@@ -46,7 +46,8 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated Apple Developer Program License Agreement now available  
+## App Store Award winners announced  
 
-###### December 6, 2024  
-<div class="article-text"><p>Attachment 2 of the Apple Developer Program License Agreement has been amended to specify requirements for use of the In-App Purchase API. Please review the changes and accept the updated terms in your account.</p><p><a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">View the full terms <span class="icon icon-after icon-chevronright nowrap">and conditions</span></a></p><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month. </p></div>  
+###### December 11, 2024  
+<div class="article-text"><div class="inline-article-image"><img alt="A blue App Store Award set against a deep blue background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/572DF998-E42E-4EA8-A2E2-EE9F05DF58B6/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/572DF998-E42E-4EA8-A2E2-EE9F05DF58B6/2048.jpeg"/></div><p>Join us in celebrating the outstanding work of these developers from around the world.</p>
+<p><a href="https://developer.apple.com/app-store/app-store-awards-2024/">Meet <span class="icon icon-after icon-chevronright nowrap">the winners</span></a></p></div>  
