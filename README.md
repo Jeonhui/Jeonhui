@@ -46,8 +46,11 @@ Contact
                                                                     
 -->                                                                    
 
-## App Store Award winners announced  
+<img src="https://developer.apple.com/assets/elements/icons/sdk-18/sdk-18-256x256_2x.png" alt="news_image" width="100"/>  
 
-###### December 11, 2024  
-<div class="article-text"><div class="inline-article-image"><img alt="A blue App Store Award set against a deep blue background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/572DF998-E42E-4EA8-A2E2-EE9F05DF58B6/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/572DF998-E42E-4EA8-A2E2-EE9F05DF58B6/2048.jpeg"/></div><p>Join us in celebrating the outstanding work of these developers from around the world.</p>
-<p><a href="https://developer.apple.com/app-store/app-store-awards-2024/">Meet <span class="icon icon-after icon-chevronright nowrap">the winners</span></a></p></div>  
+## Get ready with the latest beta releases  
+
+###### December 16, 2024  
+<div class="article-text"><p>The beta versions of iOS18.3, iPadOS18.3, macOS15.3, tvOS18.3, visionOS2.3, and watchOS11.3 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode16.2.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and <span class="icon icon-after icon-chevronright nowrap">release notes</span></a></p>
+<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a <span class="icon icon-after icon-chevronright nowrap">beta OS</span></a></p>
+<p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sending feedback</span></a></p></div>  
