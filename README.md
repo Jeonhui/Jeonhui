@@ -46,11 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/sdk-18/sdk-18-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/apple-pay/apple-pay-256x256_2x.png" alt="news_image" width="100"/>  
 
-## Get ready with the latest beta releases  
+## Algorithm changes to server connections for ApplePay ontheWeb  
 
-###### December 16, 2024  
-<div class="article-text"><p>The beta versions of iOS18.3, iPadOS18.3, macOS15.3, tvOS18.3, visionOS2.3, and watchOS11.3 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode16.2.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and <span class="icon icon-after icon-chevronright nowrap">release notes</span></a></p>
-<p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a <span class="icon icon-after icon-chevronright nowrap">beta OS</span></a></p>
-<p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sending feedback</span></a></p></div>  
+###### January 9, 2025  
+<div class="article-text"><p>Starting next month, Apple will change the supported algorithms that secure server connections for ApplePay ontheWeb. In order to maintain uninterrupted service, you’ll need to ensure that your production servers support one or more of the <a href="https://developer.apple.com/documentation/apple_pay_on_the_web/setting_up_your_server#overview">designated six ciphers</a> before <strong>February4,2025.</strong></p><p>These algorithm changes will affect any secure connection you’ve established as part of your ApplePay integration, including the following touchpoints:</p><ul>
+<li><a href="https://developer.apple.com/documentation/apple_pay_on_the_web/apple_pay_js_api/requesting_an_apple_pay_payment_session">Requesting an ApplePay payment session</a> (ApplePay on the Web only)</li>
+<li><a href="https://developer.apple.com/documentation/apple_pay_on_the_web/maintaining_your_environment#3179140">Renewing your domain verification</a> (ApplePay on the Web only)</li>
+<li><a href="https://developer.apple.com/documentation/applepaymerchanttokenmanagementapi/receiving-and-handling-merchant-token-notifications">Receiving and handling merchant token notifications</a> for recurring, deferred, and automatic-reload transactions (ApplePay on the Web and inapp)</li>
+<li>Creating and updating <a href="https://developer.apple.com/documentation/walletorders">Wallet Orders</a> (ApplePay on the Web and inapp)</li>
+<li>Managing merchant onboarding via the <a href="https://developer.apple.com/documentation/applepaywebmerchantregistrationapi">ApplePay Web Merchant Registration API</a> (payment service provider (PSP) and e-commerce platforms only)</li>
+</ul></div>  
