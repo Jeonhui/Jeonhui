@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-128x128_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-256x256_2x.png" alt="news_image" width="100"/>  
 
-## Apps without trader status will be removed from the AppStore intheEU  
+## Introducing the AdvancedCommerceAPI  
 
-###### January 16, 2025  
-<div class="article-text"><p><strong>Starting February 17, 2025</strong>: Due to the European Union’s <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a>, apps without trader status will be removed from the AppStore in the European Union until trader status is provided and verified, if necessary.</p><p>As a reminder, Account Holders or Admins in the Apple Developer Program need to enter trader status in AppStoreConnect for apps on the AppStore in the European Union in order to comply with the Digital Services Act.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-trader-requirements/">Learn what a trader is and how to enter <span class="icon icon-after icon-chevronright nowrap">your status</span></a> </p></div>  
+###### January 23, 2025  
+<div class="article-text"><p>The AppStore facilitates billions of transactions annually to help developers grow their businesses and provide a world-class customer experience. To further support developers’ evolving business models — such as exceptionally large content catalogs, creator experiences, and subscriptions with optional add-ons — we’re introducing the AdvancedCommerceAPI.</p><p>Developers can apply to use the AdvancedCommerceAPI to support eligible AppStore business models and more flexibly manage their In-App Purchases within their app. These purchases leverage the power of the trusted AppStore commerce system, including end-to-end payment processing, tax support, customer service, and more, so developers can focus on providing great app experiences.</p><p><a href="https://developer.apple.com/in-app-purchase/advanced-commerce-api/">Learn about eligibility requirements and how <span class="icon icon-after icon-chevronright nowrap">to apply</span></a> </p></div>  
