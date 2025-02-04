@@ -46,9 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-256x256_2x.png" alt="news_image" width="100"/>  
+## Apply for the Swift Student Challenge now through February23  
 
-## Introducing the AdvancedCommerceAPI  
-
-###### January 23, 2025  
-<div class="article-text"><p>The AppStore facilitates billions of transactions annually to help developers grow their businesses and provide a world-class customer experience. To further support developers’ evolving business models — such as exceptionally large content catalogs, creator experiences, and subscriptions with optional add-ons — we’re introducing the AdvancedCommerceAPI.</p><p>Developers can apply to use the AdvancedCommerceAPI to support eligible AppStore business models and more flexibly manage their In-App Purchases within their app. These purchases leverage the power of the trusted AppStore commerce system, including end-to-end payment processing, tax support, customer service, and more, so developers can focus on providing great app experiences.</p><p><a href="https://developer.apple.com/in-app-purchase/advanced-commerce-api/">Learn about eligibility requirements and how <span class="icon icon-after icon-chevronright nowrap">to apply</span></a> </p></div>  
+###### February 3, 2025  
+<div class="article-text"><div class="inline-article-image"><img alt="Swift bird logo on a colorful background with decorative code." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/4C086A3B-E1E3-4F77-AD6A-C3D00F14A2C3/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4C086A3B-E1E3-4F77-AD6A-C3D00F14A2C3/2048.jpeg"/></div><p>Submissions for the SwiftStudentChallenge2025 are now open through February23. You have three more weeks to design, test, refine, and submit your app playground for consideration to be named one of 350winners.</p><p><strong>What to know:</strong></p><ul>
+<li>The Challenge is free to enter — you just need access to an iPad or Mac with SwiftPlayground orXcode.</li>
+<li>The best app ideas are personal — let your passion shine through your work.</li>
+<li>No formal coding experience required — the Challenge is open to students of all levels.</li>
+<li>Your app playground doesn’t need to be intricate — it should be experienced within 3 minutes orless.</li>
+</ul><p><strong>Where to start:</strong></p><ul>
+<li><a href="https://developer.apple.com/swift-student-challenge/get-ready/">Explore tools and tutorials</a> to build an incredible app playground.</li>
+<li><a href="https://developer.apple.com/swift-student-challenge/distinguished-winners/">Get inspired by last year’s Distinguished Winners</a>, learn about their winning apps, and read about their experiences at ApplePark.</li>
+</ul><p><a href="https://developer.apple.com/swift-student-challenge/">Learn more about <span class="icon icon-after icon-chevronright nowrap">the Challenge</span></a> </p></div>  
