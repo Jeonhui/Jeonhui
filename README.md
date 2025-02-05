@@ -46,15 +46,12 @@ Contact
                                                                     
 -->                                                                    
 
-## Apply for the Swift Student Challenge now through February23  
+## Game distribution on the AppStore in Vietnam  
 
-###### February 3, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt="Swift bird logo on a colorful background with decorative code." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/4C086A3B-E1E3-4F77-AD6A-C3D00F14A2C3/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/4C086A3B-E1E3-4F77-AD6A-C3D00F14A2C3/2048.jpeg"/></div><p>Submissions for the SwiftStudentChallenge2025 are now open through February23. You have three more weeks to design, test, refine, and submit your app playground for consideration to be named one of 350winners.</p><p><strong>What to know:</strong></p><ul>
-<li>The Challenge is free to enter — you just need access to an iPad or Mac with SwiftPlayground orXcode.</li>
-<li>The best app ideas are personal — let your passion shine through your work.</li>
-<li>No formal coding experience required — the Challenge is open to students of all levels.</li>
-<li>Your app playground doesn’t need to be intricate — it should be experienced within 3 minutes orless.</li>
-</ul><p><strong>Where to start:</strong></p><ul>
-<li><a href="https://developer.apple.com/swift-student-challenge/get-ready/">Explore tools and tutorials</a> to build an incredible app playground.</li>
-<li><a href="https://developer.apple.com/swift-student-challenge/distinguished-winners/">Get inspired by last year’s Distinguished Winners</a>, learn about their winning apps, and read about their experiences at ApplePark.</li>
-</ul><p><a href="https://developer.apple.com/swift-student-challenge/">Learn more about <span class="icon icon-after icon-chevronright nowrap">the Challenge</span></a> </p></div>  
+###### February 4, 2025  
+<div class="article-text"><p>The Vietnamese Ministry of Information and Communications (MIC) requires games to be licensed to remain available on the AppStore in Vietnam. To learn more and apply for a game license, <a href="https://game.gov.vn/regulations-on-licensing-game-publishing-in-vietnam-597">reviewtheregulations</a>.</p><p><strong>Once you have obtained your license:</strong></p><ul>
+<li>Sign in to <a href="https://appstoreconnect.apple.com/">App Store Connect</a>.</li>
+<li>Enter the license number and the associated URL in the description section of your game’s product page. </li>
+<li>Note that you only need to provide this information for the <a href="https://developer.apple.com/help/app-store-connect/reference/app-store-localizations">AppStore localization</a> displayed on the Vietnam storefront. </li>
+<li>Submit an update to App Review.</li>
+</ul><p>If you have questions on how to comply with these requirements, please contact the <a href="https://english.mic.gov.vn/authority-of-broadcasting-and-electronic-information-197114276.htm">Authority of Broadcasting and Electronic Information (ABEI)</a> under the Vietnamese Ministry of Information and Communications.</p><p><a href="https://vanban.chinhphu.vn/?pageid=27160&amp;docid=211654%0A">View the <span class="icon icon-after icon-chevronright nowrap">full law.</span></a></p></div>  
