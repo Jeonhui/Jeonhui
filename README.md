@@ -46,10 +46,13 @@ Contact
                                                                     
 -->                                                                    
 
-## Upcoming changes to offers and trials for subscriptions in South Korea  
+<img src="https://developer.apple.com/assets/elements/icons/notifications/notifications-128x128_2x.png" alt="news_image" width="100"/>  
 
-###### February 14, 2025  
-<div class="article-text"><p>Starting February 14, 2025, new regulatory requirements in SouthKorea will apply to all apps with offers and trials for auto-renewing subscriptions.</p><p>To comply, if you offer trials or offers for auto-renewing subscriptions to your app or game, additional consent must be obtained for your trial or offer after the initial transaction. The App Store will help to get consent by informing the affected subscribers with an email, push notification, and in-app price consent sheet, and asking your subscribers to agree to the new price.</p><p>This additional consent must be obtained from customers within 30 days from the payment or conversion date for:</p><ul>
-<li>Free to paid trials</li>
-<li>Discounted subscription offers to standard-price subscriptions</li>
-</ul><p>Apps that do not offer a free trial or discounted offer before a subscription converts to the regular price are not affected.</p><p><a href="https://www.ftc.go.kr/www/selectReportUserView.do?key=10&amp;rpttype=1&amp;report_data_no=11012">Learn more about <span class="icon icon-after icon-chevronright nowrap">this regulation</span></a> </p></div>  
+## New features for APNs token authentication are now available  
+
+###### February 17, 2025  
+<div class="article-text"><p>You can now take advantage of upgraded security options when creating new token authentication keys for the Apple Push Notification service (APNs).</p>
+<p><strong>Team-scoped keys</strong> enable you to restrict your token authentication keys to either development or production environments, providing an additional layer of security and ensuring that keys are used only in their intended environments.</p>
+<p><strong>Topic-specific keys</strong> provide more granular control by enabling you to associate each key with a specific bundle ID, allowing for more streamlined and organized key management. This is particularly beneficial for large organizations that manage multiple apps across different teams.</p>
+<p>Your existing keys will continue to work for all push topics and environments. At this time, you don’t have to update your keys unless you want to take advantage of the new capabilities.</p>
+<p>For detailed instructions on how to secure your communications with APNs, read <a href="https://developer.apple.com/documentation/usernotifications/establishing-a-token-based-connection-to-apns">Establishing a token-based connection to APNs</a>.</p></div>  
