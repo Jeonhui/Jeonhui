@@ -46,13 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/notifications/notifications-128x128_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-256x256_2x.png" alt="news_image" width="100"/>  
 
-## New features for APNs token authentication are now available  
+## New requirement for apps on the AppStore in the EuropeanUnion  
 
-###### February 17, 2025  
-<div class="article-text"><p>You can now take advantage of upgraded security options when creating new token authentication keys for the Apple Push Notification service (APNs).</p>
-<p><strong>Team-scoped keys</strong> enable you to restrict your token authentication keys to either development or production environments, providing an additional layer of security and ensuring that keys are used only in their intended environments.</p>
-<p><strong>Topic-specific keys</strong> provide more granular control by enabling you to associate each key with a specific bundle ID, allowing for more streamlined and organized key management. This is particularly beneficial for large organizations that manage multiple apps across different teams.</p>
-<p>Your existing keys will continue to work for all push topics and environments. At this time, you don’t have to update your keys unless you want to take advantage of the new capabilities.</p>
-<p>For detailed instructions on how to secure your communications with APNs, read <a href="https://developer.apple.com/documentation/usernotifications/establishing-a-token-based-connection-to-apns">Establishing a token-based connection to APNs</a>.</p></div>  
+###### February 18, 2025  
+<div class="article-text"><p><strong>As of today</strong>, apps without trader status have been removed from the AppStore in the EuropeanUnion(EU) until trader status is provided and verified by Apple.</p><p>Account Holders or Admins in the Apple Developer Program will need to enter this status in App Store Connect to comply with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a>.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/">Learn what a trader is and how to enter <span class="icon icon-after icon-chevronright nowrap">your status</span></a> </p></div>  
