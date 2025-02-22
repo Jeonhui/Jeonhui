@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/sdk-18/sdk-18-256x256_2x.png" alt="news_image" width="100"/>  
 
-## New requirement for apps on the AppStore in the EuropeanUnion  
+## Get ready with the latest beta releases  
 
-###### February 18, 2025  
-<div class="article-text"><p><strong>As of today</strong>, apps without trader status have been removed from the AppStore in the EuropeanUnion(EU) until trader status is provided and verified by Apple.</p><p>Account Holders or Admins in the Apple Developer Program will need to enter this status in App Store Connect to comply with the <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en">Digital Services Act</a>.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-compliance-information/manage-european-union-digital-services-act-compliance-information/">Learn what a trader is and how to enter <span class="icon icon-after icon-chevronright nowrap">your status</span></a> </p></div>  
+###### February 21, 2025  
+<div class="article-text"><p>The beta versions of iOS18.4, iPadOS18.4, macOS15.4, tvOS18.4, visionOS2.4, and watchOS11.4 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode16.3.</p><p>As <a href="https://developer.apple.com/news/?id=zglax7gc">previewed last year</a>, iOS18.4 and iPadOS18.4 include support for <a href="https://developer.apple.com/documentation/TranslationUIProvider/Preparing-your-app-to-be-the-default-translation-app">default translation apps</a> for all users worldwide, and <a href="https://developer.apple.com/documentation/MapKit/preparing-your-app-to-be-the-default-navigation-app">default navigation apps</a> for EU users.</p><p>Beginning April 24, 2025, apps uploaded to AppStoreConnect must be built with Xcode16 or later using an SDK for iOS18, iPadOS18, tvOS18, visionOS2, or watchOS11.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and <span class="icon icon-after icon-chevronright nowrap">release notes</span></a></p></div>  
