@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Apple Developer is now on WeChat  
+## WWDC25: June 9-13, 2025  
 
-###### February 24, 2025  
-<div class="article-text"><p>Check out the official AppleDeveloper WeChat account to find news, announcements, and upcoming activities for the developer community.</p><p><a href="https://developer.apple.com/go/?id=wechat-news-item">Learn more in <span class="icon icon-after icon-chevronright nowrap">Simplified Chinese</span></a></p></div>  
+###### March 25, 2025  
+<div class="article-text"><div class="inline-article-image"><img alt="The official WWDC25 logo against a white background. The letters WWDC appear in a rainbow of colors, while the 25 appears in white with a shadow." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B354AE8-2855-4FE5-A5BC-AC7DE02A61E4/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B354AE8-2855-4FE5-A5BC-AC7DE02A61E4/2048.jpeg"/></div><p>Join the worldwide developer community online for a week of technology and creativity.</p>
+<p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and at no cost.  </p>
+<p><a href="https://developer.apple.com/wwdc25/">Learn more <span class="icon icon-after icon-chevronright nowrap">about WWDC25</span></a></p></div>  
