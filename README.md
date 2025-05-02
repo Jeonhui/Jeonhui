@@ -46,9 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## WWDC25: June 9-13, 2025  
+## Updated guidelines now available  
 
-###### March 25, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt="The official WWDC25 logo against a white background. The letters WWDC appear in a rainbow of colors, while the 25 appears in white with a shadow." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B354AE8-2855-4FE5-A5BC-AC7DE02A61E4/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B354AE8-2855-4FE5-A5BC-AC7DE02A61E4/2048.jpeg"/></div><p>Join the worldwide developer community online for a week of technology and creativity.</p>
-<p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and at no cost.  </p>
-<p><a href="https://developer.apple.com/wwdc25/">Learn more <span class="icon icon-after icon-chevronright nowrap">about WWDC25</span></a></p></div>  
+###### May 1, 2025  
+<div class="article-text"><p>The AppReview Guidelines have been updated for compliance with a UnitedStates court decision regarding buttons, external links, and other calls to action in apps. These changes affect apps distributed on the UnitedStates storefront of the AppStore, and are reflected in updates to Guidelines 3.1.1, 3.1.1(a), 3.1.3, and 3.1.3(a).</p><p><a href="https://developer.apple.com/app-store/review/guidelines/">View the <span class="icon icon-after icon-chevronright nowrap">AppReview Guidelines</span></a></p><p class="sosumi margin-top-small">Translations of the guidelines will be available on <a href="https://developer.apple.com/support/terms/">AppleDeveloper website</a> within one month.</p></div>  
