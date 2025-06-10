@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Sleek peek.  
+<img src="https://developer.apple.com/assets/elements/icons/sdk-26/sdk-26-256x256_2x.png" alt="news_image" width="100"/>  
 
-###### June 2, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt='The Apple logo with rainbow highlights, set against a light gray background. Under the logo is "WWDC25" in a rainbow of colors.' data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3776D14D-34E2-454B-AFBD-017956061B10/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3776D14D-34E2-454B-AFBD-017956061B10/2048.jpeg"/></div><p>WWDC25 is almost here! Find out how to tune in to the Keynote and Platforms State of the Union on Monday,June9. </p><p><a href="https://developer.apple.com/wwdc25/"><span class="icon icon-after icon-chevronright nowrap">Learn more</span></a></p></div>  
+## Find out what’s new for Appledevelopers  
+
+###### June 9, 2025  
+<div class="article-text"><p>Discover the latest advancements on all Apple platforms. With incredible new features in iOS, iPadOS, macOS, tvOS, visionOS, and watchOS, and major enhancements across languages, frameworks, tools, and services, you can create even more unique experiences in your apps andgames.</p><p><a href="https://developer.apple.com/whats-new/">Explore <span class="icon icon-after icon-chevronright nowrap">what’s new</span></a></p></div>  
