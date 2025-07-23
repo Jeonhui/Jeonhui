@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## iOS and iPadOS 26 design kits are here  
+<img src="https://developer.apple.com/assets/elements/icons/watchos-26/watchos-26-128x128_2x.png" alt="news_image" width="100"/>  
 
-###### July 18, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt="A collage showing screens with new features announced at WWDC25, including the new design." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/E92B44C5-04EA-42F4-BB2A-AF394EFED6BB/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E92B44C5-04EA-42F4-BB2A-AF394EFED6BB/2048.jpeg"/></div><h3>iOS and iPadOS 26 design kits are here</h3><p>Apple Ul design kits for Figma and Sketch are now available for iOS and iPadOS26.</p><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/design/resources/">Apple Design Resources</a></p></div>  
+## New 64-bit requirements for watchOS apps  
+
+###### July 22, 2025  
+<div class="article-text"><p>Beginning April2026, watchOS apps uploaded to AppStoreConnect must also include 64-bit support and be built with the <a href="https://developer.apple.com/watchos/whats-new/">watchOS26</a>SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.</p><p>You can test ARM64 compatibility for your apps in the Xcode Simulator, and on AppleWatch Series9 or10, AppleWatchSE (2nd generation) or AppleWatch Ultra2 running watchOS11 or watchOS26beta.</p><p><a href="https://developer.apple.com/support/xcode/">Learn more about the SDKs included <span class="icon icon-after icon-chevronright nowrap">in Xcode</span></a></p></div>  
