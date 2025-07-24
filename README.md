@@ -48,7 +48,7 @@ Contact
 
 <img src="https://developer.apple.com/assets/elements/icons/watchos-26/watchos-26-128x128_2x.png" alt="news_image" width="100"/>  
 
-## New 64-bit requirements for watchOS apps  
+## New 64-bit requirement for watchOS apps  
 
 ###### July 22, 2025  
 <div class="article-text"><p>Beginning April2026, watchOS apps uploaded to AppStoreConnect must also include 64-bit support and be built with the <a href="https://developer.apple.com/watchos/whats-new/">watchOS26</a>SDK. To enable 64-bit support in your project, we recommend using the default Xcode build setting of “Standard architectures” to build a single binary with 64-bit code.</p><p>You can test ARM64 compatibility for your apps in the Xcode Simulator, and on AppleWatch Series9 or10, AppleWatchSE (2nd generation) or AppleWatch Ultra2 running watchOS11 or watchOS26beta.</p><p><a href="https://developer.apple.com/support/xcode/">Learn more about the SDKs included <span class="icon icon-after icon-chevronright nowrap">in Xcode</span></a></p></div>  
