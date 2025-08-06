@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/app-store-s/app-store-s-128x128_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/app-store-s/app-store-s-256x256_2x.png" alt="news_image" width="100"/>  
 
 ## Updated age ratings in App Store Connect  
 
