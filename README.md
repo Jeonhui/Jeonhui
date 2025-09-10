@@ -46,7 +46,12 @@ Contact
                                                                     
 -->                                                                    
 
-## Awe dropping.  
+## App Store submissions now open for the latest OS releases  
 
-###### August 26, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt="Glowing Apple logo in a gradient of black, blue, yellow, and red, blue halo around the edge." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/90AA664A-3D93-4967-8410-63CFB6CDF8D1/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/90AA664A-3D93-4967-8410-63CFB6CDF8D1/2048.jpeg"/></div><p>Join us for a special Apple Event on September 9 at 10 a.m. PT.<br/><br/>Watch on <a href="https://www.apple.com/apple-events">apple.com</a>, Apple TV, or <a href="https://www.youtube.com/watch?v=H3KnMyojEQU">YouTube Live</a>.</p></div>  
+###### September 9, 2025  
+<div class="article-text"><div class="inline-article-image"><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —set diagonally against a light blue background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/62DE05BC-5D60-4277-A8A9-F53D5FA4D2D2/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/62DE05BC-5D60-4277-A8A9-F53D5FA4D2D2/2048.jpeg"/></div><p>iOS26, iPadOS26, macOSTahoe26, tvOS26, visionOS26, and watchOS26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p><p>Build your apps and games using the <a href="https://developer.apple.com/download/">Xcode26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the AppStore. By taking advantage of the <a href="https://developer.apple.com/design/">new design and Liquid Glass</a>, the <a href="https://developer.apple.com/documentation/FoundationModels">Foundation Models framework</a>, the new <a href="https://developer.apple.com/games-app/">Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p><p>Starting April2026, apps and games uploaded to AppStoreConnect need to meet the following minimum requirements.</p><ul>
+<li>iOS and iPadOS apps must be built with the iOS26 &amp; iPadOS26SDK orlater</li>
+<li>tvOS apps must be built with the tvOS26SDK orlater</li>
+<li>visionOS apps must be built with the visionOS26SDK orlater</li>
+<li>watchOS apps must be built with the watchOS26SDK orlater</li>
+</ul><p><a href="https://developer.apple.com/app-store/submitting/">Learn more <span class="icon icon-after icon-chevronright nowrap">about submitting</span></a></p></div>  
