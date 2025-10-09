@@ -46,13 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-256x256_2x.png" alt="news_image" width="100"/>  
+## Updated Apple Developer Program License Agreement now available  
 
-## Upcoming Currency Change in Bulgaria  
-
-###### September 25, 2025  
-<div class="article-text"><p>Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for AppStore purchases and subscriptions in Bulgaria will change from BGN to EUR on this date. Your proceeds from sales in Bulgaria will also change to euros.</p><p>If you’ve selected the lev as the currency for your bank in AppStoreConnect, it will automatically change to the euro on December1, 2025. If you’ve selected a different currency for your bank account, you’ll continue to be paid in that currency. The statutory fixed conversion rate is 1.95583 BGN = 1 EUR as established on July8, 2025, by the Council of the European Union in connection with the introduction of the euro as the official currency in the Republic of Bulgaria.</p><ul>
-<li><strong>Auto-renewing subscriptions, manually priced apps and In‑App Purchases, or apps and In‑App Purchases with Bulgaria as the base storefront:</strong> Pricing on the Bulgaria storefront will be updated to a euro price based on the statutory conversion rate and rounded down to a supported euro price point. If you’ve chosen Bulgaria as the base storefront for your app or In‑App Purchases, pricing in other storefronts may be updated to maintain equalization with the new euro price.</li>
-</ul><ul>
-<li><strong>Other apps or In‑App Purchases:</strong> Pricing on the Bulgaria storefront will be converted to the euro using the standard equalization for euro markets where AppStore sales are subject to value‑added tax (VAT).</li>
-</ul><p>You can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p><p>Auto‑renewable subscriptions won’t be interrupted. Subscription prices will be automatically updated for each current, preserved, and future scheduled price to euros. Customers with auto‑renewable subscriptions will receive an email informing them of the currency change.</p><p>Per the Euro Act, you’ll need to communicate both the lev and euro prices for In‑App Purchases to customers within your app for the duration of the transitional period from now until the end of the transition period on August8, 2026. This messaging should appear anywhere prices are displayed.</p><p>Your Sales and Trends reports and monthly financial reports will also be updated. For Sales and Trends, euros will be indicated for transactions after the currency change. For monthly financial reports, earnings from sales that occurred before the currency change will be in the BG report, and earnings from sales after the currency change will be in the EU report.</p><p>All refunds issued after January1, 2026, will be refunded in euros, regardless of the date of purchase.</p><p><a href="https://www.apple.com/legal/bg/dev/currency/">Learn more about the Bulgaria <span class="icon icon-after icon-chevronright nowrap">EUR adoption</span></a> </p></div>  
+###### October 8, 2025  
+<div class="article-text"><p>The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and <a href="https://developer.apple.com/account">sign in to your account</a> to accept the updated terms.</p><ul>
+<li>Section 3.3.1(B): Updated requirements related to interpreted code</li>
+<li>Definitions, Section 3.3.3(F): Specified requirements for use of the Location Push Service Extension</li>
+<li>Section 3.3.8(A), Attachment 4: Added links to terms for XcodeCloud and CloudKit related to Regulation (EU) 2023/2854 (EU Data Act)</li>
+<li>Section 3.3.9(D): Updated terms regarding the entity that distributes the TaptoPayAPIs</li>
+<li>Schedule 1, Exhibit C: Updated Section 1 definition for PromoCodes</li>
+<li>Schedule 2, Section 3.13: Updated references to OfferCodes</li>
+<li>Schedule 2, Section 3.13(b): Updated availability terms for OfferCodes</li>
+</ul><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
