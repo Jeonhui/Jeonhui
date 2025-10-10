@@ -46,15 +46,22 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated Apple Developer Program License Agreement now available  
+<img src="https://developer.apple.com/assets/elements/icons/sign-in-with-apple-dark/sign-in-with-apple-dark-256x256_2x.png" alt="news_image" width="100"/>  
 
-###### October 8, 2025  
-<div class="article-text"><p>The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and <a href="https://developer.apple.com/account">sign in to your account</a> to accept the updated terms.</p><ul>
-<li>Section 3.3.1(B): Updated requirements related to interpreted code</li>
-<li>Definitions, Section 3.3.3(F): Specified requirements for use of the Location Push Service Extension</li>
-<li>Section 3.3.8(A), Attachment 4: Added links to terms for XcodeCloud and CloudKit related to Regulation (EU) 2023/2854 (EU Data Act)</li>
-<li>Section 3.3.9(D): Updated terms regarding the entity that distributes the TaptoPayAPIs</li>
-<li>Schedule 1, Exhibit C: Updated Section 1 definition for PromoCodes</li>
-<li>Schedule 2, Section 3.13: Updated references to OfferCodes</li>
-<li>Schedule 2, Section 3.13(b): Updated availability terms for OfferCodes</li>
-</ul><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p></div>  
+## New requirement for apps using Sign in with Apple for account creation  
+
+###### October 9, 2025  
+<div class="article-text"><p>Starting January 1, 2026, developers based in the Republic of Korea must provide a <a href="https://developer.apple.com/help/account/capabilities/enabling-server-to-server-notifications">server‑to‑server notification endpoint</a> when registering a new Services ID, or updating an existing Services ID, to <a href="https://developer.apple.com/help/account/capabilities/configure-sign-in-with-apple-for-the-web">associate their website</a> with an app using <a href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple">SigninwithApple</a>.</p><p>As a reminder, registering a notification endpoint allows Apple to send you important updates about the people who use your app and their account status, including:</p><ul>
+<li>Changes in email forwarding preferences.</li>
+<li>Account deletions in your app.</li>
+<li>Permanent Apple Account deletions.</li>
+</ul><p>To learn more about server-to-server notifications, see <a href="https://developer.apple.com/documentation/signinwithapple/processing-changes-for-sign-in-with-apple-accounts">WWDC20 session 10173: Get the most out of Sign in with Apple</a>.</p><p>When you receive these notifications, you should immediately update any data associated with the account change in the app, as well as any necessary server infrastructure, to give people more control of the personal data they’ve shared. For more information, see <a href="https://developer.apple.com/documentation/signinwithapple/processing-changes-for-sign-in-with-apple-accounts">Processing changes for Sign in with Apple accounts</a>.</p><p>Before submitting a new app to the AppStore, or updating an existing app configuration to register a new Services ID or modify an existing Services ID, please read the guidance below.</p><h3>Account change guidance</h3><p>Account changes are directly related to privacy and control for the user and their personal data, and confirming account changes should be straightforward and transparent.</p><p><strong>For account email forwarding changes:</strong></p><ul>
+<li>Ensure any displayed user data affected by the account change matches the change event in the notification payload. Typically, this data is displayed in the app’s account settings or user profile.</li>
+<li>If people need to visit a website to finish changing or verifying their email address, include a link directly to the page on your website where they can complete the process.</li>
+<li>Keep users informed. If the email forwarding change affects other services you offer, let them know. If your app supports In-App Purchases, help people understand how billing, order tracking, and cancellations will be handled with the new email address.</li>
+</ul><p><strong>For account deletions:</strong></p><ul>
+<li>See <a href="https://developer.apple.com/documentation/technotes/tn3194-handling-account-deletions-and-revoking-tokens-for-sign-in-with-apple">TN3194: Handling account deletions and revoking tokens for Sign in with Apple</a>.</li>
+</ul><p><strong>Note:</strong> Always follow applicable legal requirements for storing and retaining user account information and for handling account changes and deletions. This includes complying with local laws where your apps are available. If you have questions regarding your legal obligations, check with your legal counsel.</p><h3>Resources</h3><ul>
+<li><a href="https://developer.apple.com/app-store/review/guidelines/">App Review Guidelines</a></li>
+<li><a href="https://developer.apple.com/design/human-interface-guidelines/managing-accounts">Human Interface Guidelines: Managing accounts</a></li>
+</ul></div>  
