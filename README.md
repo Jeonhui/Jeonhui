@@ -46,9 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-256x256_2x.png" alt="news_image" width="100"/>  
+## App Store Award finalists announced  
 
-## Introducing the App Store Mini Apps Partner Program  
-
-###### November 13, 2025  
-<div class="article-text"><p>Today, we’re introducing the MiniAppsPartner Program, which expands on the AppStore’s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow their business and further the availability of mini apps on the AppStore— all while providing a great customer experience.</p><p>Participating developers may benefit from a reduced commission rate of 15% on the sales of qualifying In-AppPurchases. To be eligible for this reduced commission rate, participating apps must support certain AppStore technologies, including the Declared Age Range API and the Advanced Commerce API in order to help provide a safe and seamless experience for customers of all ages.</p><p><a href="https://developer.apple.com/programs/mini-apps-partner/">Learn more about the Mini Apps Partner Program <span class="icon icon-after icon-chevronright nowrap">and eligibility</span></a> </p></div>  
+###### November 19, 2025  
+<div class="article-text"><div class="inline-article-image"><img alt="A white App Store logo set against a deep blue background" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/07E85CE0-2C55-4303-89D3-261738F4F2F2/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/07E85CE0-2C55-4303-89D3-261738F4F2F2/2048.jpeg"/></div><p>Every year, the AppStoreAwards celebrate exceptional apps and games that improve people’s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the AppStore Editorial team is proud to recognize 49 outstanding finalists. Winners will be announced in the coming weeks.</p><p><a href="https://developer.apple.com/app-store/app-store-awards-2025/">Learn about <span class="icon icon-after icon-chevronright nowrap">the finalists</span></a></p></div>  
