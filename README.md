@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## App Store Award finalists announced  
+## App Store Award winners announced  
 
-###### November 19, 2025  
-<div class="article-text"><div class="inline-article-image"><img alt="A white App Store logo set against a deep blue background" data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/07E85CE0-2C55-4303-89D3-261738F4F2F2/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/07E85CE0-2C55-4303-89D3-261738F4F2F2/2048.jpeg"/></div><p>Every year, the AppStoreAwards celebrate exceptional apps and games that improve people’s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the AppStore Editorial team is proud to recognize 49 outstanding finalists. Winners will be announced in the coming weeks.</p><p><a href="https://developer.apple.com/app-store/app-store-awards-2025/">Learn about <span class="icon icon-after icon-chevronright nowrap">the finalists</span></a></p></div>  
+###### December 4, 2025  
+<div class="article-text"><div class="inline-article-image"><img alt="A blue App Store Award set against a deep blue background." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/952BE091-BC30-4377-8B07-D0EDE7DDEE21/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/952BE091-BC30-4377-8B07-D0EDE7DDEE21/2048.jpeg"/></div><p>Join us in celebrating the outstanding work of these developers from around the world.</p><p><a href="https://developer.apple.com/app-store/app-store-awards-2025/">Meet <span class="icon icon-after icon-chevronright nowrap">the winners</span></a></p></div>  
