@@ -46,9 +46,12 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/ios-26/ios-26-128x128_2x.png" alt="news_image" width="100"/>  
+## Update on age requirements for apps distributed in Texas  
 
-## Changes to iOS in Japan  
-
-###### December 17, 2025  
-<div class="article-text"><p>To comply with the Mobile Software Competition Act (MSCA), Apple is introducing changes to iOS that create new options for developers' apps in Japan. Beginning with iOS26.2, developers can distribute apps on alternative app marketplaces, operate alternative app marketplaces, process app payments for digital goods and services outside of Apple In-App Purchase in iOS, and more.</p><p>The new options for downloading apps from alternative app marketplaces and making app payments open new avenues for malware, fraud, scams, and privacy and security risks. Apple has worked with Japanese regulators to introduce protections from these new threats — with a special emphasis on the safety of younger users. Those protections include Notarization for iOS apps, an authorization process for app marketplaces, and requirements that help protect children from inappropriate content and scams.</p><p>By March 17, 2026, all current members of the AppleDeveloper Program will need to agree to the latest update to the AppleDeveloper Program License Agreement, which includes new terms that allow for these options in Japan.</p><p><a href="https://developer.apple.com/support/app-distribution-in-japan/">Learn more about <span class="icon icon-after icon-chevronright nowrap">the updates</span></a></p><p>You can also request a <a href="https://developer.apple.com/events/view/upcoming-events?search=changes%20to%20iOS%20in%20Japan">30-minute online appointment</a> to ask questions about these changes.</p></div>  
+###### December 23, 2025  
+<div class="article-text"><p>A recent injunction issued by a district court suspended enforcement of Texas state law SB2420, which introduced age assurance requirements for app marketplaces and developers. In light of this ruling, Apple will pause previously announced implementation plans and monitor the ongoing legal process.</p><p>The tools we <a href="https://developer.apple.com/news/?id=2ezb6jhj">previously announced</a> to help developers meet their compliance obligations will remain available for sandbox testing, including:</p><ul>
+<li><a href="https://developer.apple.com/documentation/declaredagerange/">Declared Age Range API</a></li>
+<li><a href="https://developer.apple.com/documentation/PermissionKit/SignificantAppUpdateTopic">Significant Change API under PermissionKit</a></li>
+<li><a href="https://developer.apple.com/documentation/storekit/appstore/ageRatingCode">New age rating property type in StoreKit</a></li>
+<li><a href="https://developer.apple.com/documentation/appstoreservernotifications/notificationtype">App Store Server Notifications</a></li>
+</ul><p>These tools can also be used to help developers with their obligations under laws coming into effect in Utah and Louisiana in 2026. The Declared Age Range API remains available worldwide for users on iOS26, iPadOS26, and macOS26, or later. </p></div>  
