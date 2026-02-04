@@ -46,19 +46,14 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/asc-outline/asc-outline-256x256_2x.png" alt="news_image" width="100"/>  
+<img src="https://developer.apple.com/assets/elements/icons/ios-ipados-26/ios-ipados-26-96x96_2x.png" alt="news_image" width="100"/>  
 
-## Price updates for apps, In-App Purchases, and subscriptions  
+## Upcoming SDK minimum requirements  
 
-###### January 29, 2026  
-<div class="article-text"><p>The AppStore is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p><p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p><p><strong>As of January 29:</strong></p><p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p><ul>
-<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
-<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
-<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
-<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
-<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
-<li>Mauritius: VAT introduction of 15%</li>
-<li>Russia: VAT rate increase from 20% to 22%</li>
-<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
-<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
-</ul><p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p><p><strong>Beginning February 16:</strong></p><p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p><p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p><p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p><p>The Pricing and Availability section of Apps has been updated in <a href="https://appstoreconnect.apple.com/login">AppStoreConnect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p><p><strong>Learn more about managing your prices</strong></p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes">View or edit upcoming <span class="icon icon-after icon-chevronright nowrap">price changes</span></a></p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region">Edit your app’s base country <span class="icon icon-after icon-chevronright nowrap">or region</span></a></p><p><a href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/">Pricing and availability start times by country <span class="icon icon-after icon-chevronright nowrap">or region</span></a></p><p><a href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase">Set a price for an <span class="icon icon-after icon-chevronright nowrap">In-App Purchase</span></a></p><p><strong>Learn more about your proceeds</strong></p><p><a href="https://developer.apple.com/help/app-store-connect/getting-paid/view-payments-and-proceeds/">View payments <span class="icon icon-after icon-chevronright nowrap">and proceeds</span></a></p><p><a href="https://developer.apple.com/help/app-store-connect/getting-paid/download-financial-reports">Download <span class="icon icon-after icon-chevronright nowrap">financial reports</span></a></p><p class="sosumi margin-top-small">¹ Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms#paid-applications-agreement">Apple Developer website</a> within one month.</p><p class="sosumi margin-top-small">² Excludes auto-renewable subscriptions.</p></div>  
+###### February 3, 2026  
+<div class="article-text"><p>Starting April 28, 2026, apps and games uploaded to AppStoreConnect need to meet the following minimum requirements:</p><ul>
+<li>iOS and iPadOS apps must be built with the iOS26&amp; iPadOS26SDK orlater</li>
+<li>tvOS apps must be built with the tvOS26SDK orlater</li>
+<li>visionOS apps must be built with the visionOS26SDK orlater</li>
+<li>watchOS apps must be built with the watchOS26SDK orlater</li>
+</ul><p><a href="https://developer.apple.com/app-store/submitting/">Learn more <span class="icon icon-after icon-chevronright nowrap">about submitting</span></a></p></div>  
