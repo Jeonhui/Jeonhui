@@ -46,14 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://developer.apple.com/assets/elements/icons/ios-ipados-26/ios-ipados-26-96x96_2x.png" alt="news_image" width="100"/>  
+## Updated App Review Guidelines now available  
 
-## Upcoming SDK minimum requirements  
-
-###### February 3, 2026  
-<div class="article-text"><p>Starting April 28, 2026, apps and games uploaded to AppStoreConnect need to meet the following minimum requirements:</p><ul>
-<li>iOS and iPadOS apps must be built with the iOS26&amp; iPadOS26SDK orlater</li>
-<li>tvOS apps must be built with the tvOS26SDK orlater</li>
-<li>visionOS apps must be built with the visionOS26SDK orlater</li>
-<li>watchOS apps must be built with the watchOS26SDK orlater</li>
-</ul><p><a href="https://developer.apple.com/app-store/submitting/">Learn more <span class="icon icon-after icon-chevronright nowrap">about submitting</span></a></p></div>  
+###### February 6, 2026  
+<div class="article-text"><p>The App Review Guidelines have been revised to clarify that apps with random or anonymous chat are subject to the <a href="https://developer.apple.com/app-store/review/guidelines/#user-generated-content">1.2 User-Generated Content guideline</a>.</p><p class="sosumi margin-top-small">Translations of the guidelines will be available on <a href="https://developer.apple.com/support/terms/">AppleDeveloper website</a> within one month.</p></div>  
