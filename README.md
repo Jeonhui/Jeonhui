@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated App Review Guidelines now available  
+<img src="https://developer.apple.com/assets/elements/icons/sdk-26/sdk-26-256x256_2x.png" alt="news_image" width="100"/>  
 
-###### February 6, 2026  
-<div class="article-text"><p>The App Review Guidelines have been revised to clarify that apps with random or anonymous chat are subject to the <a href="https://developer.apple.com/app-store/review/guidelines/#user-generated-content">1.2 User-Generated Content guideline</a>.</p><p class="sosumi margin-top-small">Translations of the guidelines will be available on <a href="https://developer.apple.com/support/terms/">AppleDeveloper website</a> within one month.</p></div>  
+## Get ready with the latest beta releases  
+
+###### February 16, 2026  
+<div class="article-text"><p>The beta versions of iOS26.4, iPadOS26.4, macOS26.4, tvOS26.4, visionOS26.4, and watchOS26.4 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.4 beta to take advantage of the advancements in the latest SDKs.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and <span class="icon icon-after icon-chevronright nowrap">release notes</span></a></p><p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a <span class="icon icon-after icon-chevronright nowrap">beta OS</span></a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about <span class="icon icon-after icon-chevronright nowrap">sending feedback</span></a></p></div>  
