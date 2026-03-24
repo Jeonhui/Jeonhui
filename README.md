@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Apple Developer is now on bilibili and LinkedIn  
+## WWDC26: June 8-12, 2026  
 
-###### March 17, 2026  
-<div class="article-text"><p>Check out Apple Developer on bilibili and LinkedIn to learn about the latest news, announcements, videos, and events — including the Worldwide Developers Conference and Meet with Apple activities — for the developer community.</p><p><a href="https://space.bilibili.com/429911174">Follow <span class="icon icon-after icon-chevronright nowrap">on bilibili</span></a></p><p><a href="https://www.linkedin.com/showcase/appledeveloper/">Follow <span class="icon icon-after icon-chevronright nowrap">on LinkedIn</span></a></p></div>  
+###### March 23, 2026  
+<div class="article-text"><div class="inline-article-image"><img alt="The WWDC26 logo in a gray-to-white gradient against a black background. The first two letters (WW) are in dark gray, the middle two letters (DC) are in a lighter gray, and the final two numbers (26) are glowing white." data-hires="false" data-img-dark="https://devimages-cdn.apple.com/wwdc-services/articles/images/3E1B72CB-1443-4D0A-A838-6419526422A6/2048.jpeg" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3E1B72CB-1443-4D0A-A838-6419526422A6/2048.jpeg"/></div><p>Join the worldwide developer community online for a week of technology, creativity, and community.</p><p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and free.</p><p><a href="https://developer.apple.com/wwdc26/">Learn more <span class="icon icon-after icon-chevronright nowrap">about WWDC26</span></a></p></div>  
