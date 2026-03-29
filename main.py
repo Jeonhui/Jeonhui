@@ -1,14 +1,11 @@
-import requests
-from bs4 import BeautifulSoup as Soup
 import re
+from email.utils import parsedate_to_datetime
+
+import requests
+import feedparser
 
 
 class MarkdownConverter:
-    @staticmethod
-    def image(name: str, src: str):
-        if src is None: return ""
-        return MarkdownConverter.br(f"![{name}]({src})")
-
     @staticmethod
     def image_tag(src: str, alt: str, width: int):
         if src is None: return ""
@@ -30,67 +27,44 @@ class MarkdownConverter:
         return f"{text}  \n"
 
 
-class Scrapper:
-    soup = None
-    select = None
+class iOSDevNewsRSS:
+    FEED_URL = 'https://developer.apple.com/news/rss/news.rss'
 
-    def __init__(self, domain=None, parser: str = 'html.parser'):
-        if domain is not None:
-            self.set_soup(domain, parser)
+    def fetch_latest(self):
+        response = requests.get(self.FEED_URL)
+        feed = feedparser.parse(response.text)
+        if not feed.entries:
+            return None
+        return feed.entries[0]
 
-    def set_soup(self, domain: str, parser: str = 'html.parser'):
-        self.soup = Soup(requests.get(domain).text, parser)
+    @staticmethod
+    def _format_date(date_str):
+        try:
+            dt = parsedate_to_datetime(date_str)
+            return dt.strftime('%B %d, %Y')
+        except Exception:
+            return date_str
 
-    def select_tag(self, tag: str, attrs=None):
-        self.select = self.soup.find(tag, attrs)
+    @staticmethod
+    def _clean_html(html):
+        # Remove inline-article-image div (image is shown separately)
+        html = re.sub(r'<div class="inline-article-image">.*?</div>', '', html, flags=re.DOTALL)
+        # Remove icon spans, keep inner text
+        html = re.sub(r'<span class="icon[^"]*">(.*?)</span>', r'\1', html)
+        return html.strip()
 
-    def _get_select(self):
-        tag = self.soup
-        if self.select is not None:
-            tag = self.select
-        return tag
+    def extract(self, entry):
+        title = entry.get('title')
+        date = self._format_date(entry.get('published', ''))
+        description = entry.get('summary', '')
 
-    def _get_attr(self, tag: str, attrs, attr: str):
-        if attrs is None:
-            attrs = {}
-        tag = self._get_select().find(tag, attrs)
-        if tag is None: return tag
-        return tag.attrs[attr]
+        # Extract first image from description
+        image_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', description)
+        image_src = image_match.group(1) if image_match else None
 
-    def get_tag_text(self, tag: str, attrs):
-        tag = self._get_select().find(tag, attrs)
-        if tag is None: return tag
-        return tag.text
+        description = self._clean_html(description)
 
-    def get_image_src(self, attrs=None):
-        return self._get_attr('img', attrs, 'src')
-
-    def get_a_href(self, attrs=None):
-        return self._get_attr('a', attrs, 'href')
-
-    def get_str(self, tag: str, attrs):
-        return str(self._get_select().find(tag, attrs))
-
-
-class iOSDevNewsScrapper:
-    scrapper = Scrapper()
-
-    def __init__(self):
-        self.domain = 'https://developer.apple.com'
-
-    def scrap(self):
-        self.scrapper.set_soup(self.domain + '/news/')
-        href = self.scrapper.get_a_href({'class': 'article-title'})
-        self.scrapper.set_soup(self.domain + href)
-
-        self.scrapper.select_tag('section', 'article-content-container')
-
-        image_src = self.scrapper.get_image_src('article-image')
-        image_src = ('https://developer.apple.com' +  image_src) if image_src is not None else None
-        title = self.scrapper.get_tag_text('h2', 'article-title')
-        date = self.scrapper.get_tag_text('p', 'article-date')
-        content = self.scrapper.get_str('div', 'article-text')
-        return image_src, title, date, content
+        return image_src, title, date, description
 
     def convert(self, image_src, title, date, content):
         md_image = MarkdownConverter.image_tag(image_src, "news_image", 100)
@@ -99,19 +73,22 @@ class iOSDevNewsScrapper:
         md_content = MarkdownConverter.br(content)
         return "".join([md_image, md_title, md_date, md_content])
 
-    def scrap_and_convert(self):
+    def fetch_and_convert(self):
         try:
-            image_src, title, date, content = self.scrap()
+            entry = self.fetch_latest()
+            if entry is None:
+                return "No news available."
+            image_src, title, date, content = self.extract(entry)
         except Exception as e:
             return str(e)
-        return re.sub(" ", "", self.convert(image_src, title, date, content))
+        return self.convert(image_src, title, date, content)
 
 
 if __name__ == "__main__":
-    ios_dev_news_scrapper = iOSDevNewsScrapper()
+    ios_dev_news = iOSDevNewsRSS()
     with open('./README.md', 'w') as readme:
         with open('./info.md', 'r') as info:
             for line in info.readlines():
                 readme.write(line)
-        news = ios_dev_news_scrapper.scrap_and_convert()
+        news = ios_dev_news.fetch_and_convert()
         readme.write(news)
