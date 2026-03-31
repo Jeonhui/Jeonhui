@@ -46,12 +46,11 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/7ADB56E2-272B-435C-A362-443619D9C829/2048.jpeg" alt="news_image" width="100"/>  
+## Updated Apple Developer Program License Agreement now available  
 
-## Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States  
-
-###### March 26, 2026  
-<p>To provide additional transparency to customers, the App Store will now display whether an app is a regulated medical device on its product page in the <a href="https://health.ec.europa.eu/medical-devices-sector_en">European Economic Area (EEA)</a>, <a href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-uk">United Kingdom</a>, or United States. Regulated medical device apps are those that function on their own or as part of a system for a range of medical purposes, including diagnosis, prevention, monitoring, and treatment of diseases and physiological conditions. These apps may require registration or authorization from regulatory bodies, such as the U.S. Food and Drug Administration (FDA).</p><p>If you distribute in the EEA, UK, or U.S. and your app meets either of the following criteria, you’ll need to provide a regulated medical device status in App Store Connect, along with relevant regulatory information, such as contact details and safety information:</p><ul>
-<li>Its primary or secondary category is Health &amp; Fitness or Medical</li>
-<li>It’s marked as containing frequent references to Medical or Treatment Information in the Age Rating questionnaire in App Store Connect</li>
-</ul><p>Starting today, this status is required for new apps that meet either of the criteria above in order to distribute in these regions. Existing apps distributed in these regions that meet either of the criteria above must provide a status by early 2027. However, if you haven’t declared your app’s status by early 2027, you’ll no longer be able to submit app updates. If your app is not a regulated medical device, you can select No.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/declare-regulated-medical-device-status">Learn about providing a regulated medical device status</a></p>  
+###### March 30, 2026  
+<p>The <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to support new features, updated policies, and clarifications. Please review the changes and <a href="https://developer.apple.com/account">sign in to your account</a> to accept the updated terms.</p><ul>
+<li>Definitions, Section 3.3.3(B), Section 3.3.7(K): Specified requirements for use of the Foveated Streaming framework and clarified data privacy requirements.</li>
+<li>Definitions, Section 3.3.3(Q): Specified requirements for use of the Family Controls framework.</li>
+<li>Definitions, Section 3.3.7(J): Specified requirements for use of the Accessory Notifications framework and Accessory Live Activities framework.</li>
+</ul><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
