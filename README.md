@@ -46,11 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated Apple Developer Program License Agreement now available  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/748A5CED-458C-42A5-A21E-C13526BD943E/2048.jpeg" alt="news_image" width="100"/>  
 
-###### March 30, 2026  
-<p>The <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to support new features, updated policies, and clarifications. Please review the changes and <a href="https://developer.apple.com/account">sign in to your account</a> to accept the updated terms.</p><ul>
-<li>Definitions, Section 3.3.3(B), Section 3.3.7(K): Specified requirements for use of the Foveated Streaming framework and clarified data privacy requirements.</li>
-<li>Definitions, Section 3.3.3(Q): Specified requirements for use of the Family Controls framework.</li>
-<li>Definitions, Section 3.3.7(J): Specified requirements for use of the Accessory Notifications framework and Accessory Live Activities framework.</li>
-</ul><p class="sosumi margin-top-small">Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
+## App Store expands support to 11 new languages  
+
+###### March 31, 2026  
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p><p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/">Learn how to localize your app information</a></p><p><a href="https://developer.apple.com/localization/">Learn about expanding your app to new markets</a></p><p><a href="https://developer.apple.com/app-store/marketing/guidelines/">Download the new localized App Store badges</a> </p>  
