@@ -46,7 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3A57B4F4-4D23-40A3-892F-8356E5FEA6EF/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/DA2EE0E9-4016-41FF-9732-30BE201E5D63/2048.jpeg" alt="news_image" width="100"/>  
 
 ## Now Available: Monthly Subscriptions with a 12-Month Commitment  
 
