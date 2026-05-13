@@ -46,11 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-## Brazilian betting license requirement for App Store availability  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/98FDE867-F7F3-44DE-AF8A-C9620F3E2139/2048.jpeg" alt="news_image" width="100"/>  
 
-###### May 08, 2026  
-<p>Following changes to Brazil’s fixed-odds betting regulation, apps with fixed-odds betting (gambling) features can now be distributed on the App Store in Brazil with a valid fixed-odds betting license from the <a href="https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas">Secretariat of Prizes and Bets (SPA)</a>. If any of your apps include these features (indicated by selecting “Yes” to the gambling question in the age rating questionnaire in App Store Connect), you’ll need to provide this license. Keep in mind that answering “Yes” to the gambling question in the age rating questionnaire will set your Brazil age rating to A18.</p><p>A new app version must be submitted to initiate the license verification process. Updating the App Review Information section in App Store Connect alone won’t start a review. When submitting a new version of your app for review:</p><ul>
-<li>Include your license information in the App Review Information section in App Store Connect.</li>
-<li>Enter your license details in the Notes field.</li>
-<li>Attach any supporting documents using the file attachment field.</li>
-</ul><p>Please ensure that your app complies with all disclosures and warnings requirements, including but not limited to age restrictions and gambling risks, as required under the law. For questions regarding your legal obligations, please contact your legal counsel.</p><p><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions#brazil-age-rating-values">Learn more about Brazil age ratings</a></p><p><a href="https://www.in.gov.br/en/web/dou/-/portaria-spa/mf-n-1.231-de-31-de-julho-de-2024-575670297">Learn more about Brazil’s fixed-odds betting regulation</a> </p>  
+## Hello Developer: May 2026  
+
+###### May 12, 2026  
+<p>In this edition: </p><ul>
+<li>Meet inspiring developers, advocates, and educators. </li>
+<li>Prepare your app for Accessibility Nutrition Labels.</li>
+<li>Meet the team behind the stylish open-world adventure <em>Infinity Nikki.</em></li>
+<li>Get the most out of your Apple Developer account.</li>
+<li>Update your Intel-based Mac apps to Apple silicon.</li>
+</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/may26">Read now</a></p>  
