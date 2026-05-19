@@ -46,15 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/98FDE867-F7F3-44DE-AF8A-C9620F3E2139/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/60EB2FB9-36EB-4CA6-B129-EB28AF262739/2048.jpeg" alt="news_image" width="100"/>  
 
-## Hello Developer: May 2026  
+## Introducing the 2026 Apple Design Award finalists  
 
-###### May 12, 2026  
-<p>In this edition: </p><ul>
-<li>Meet inspiring developers, advocates, and educators. </li>
-<li>Prepare your app for Accessibility Nutrition Labels.</li>
-<li>Meet the team behind the stylish open-world adventure <em>Infinity Nikki.</em></li>
-<li>Get the most out of your Apple Developer account.</li>
-<li>Update your Intel-based Mac apps to Apple silicon.</li>
-</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/may26">Read now</a></p>  
+###### May 18, 2026  
+<p>Every year, the Apple Design Awards recognize innovation, ingenuity, and technical achievement in app and game design. But they’ve also become something more: A moment to step back and celebrate the work of Apple developers across the community.</p><p><a href="https://developer.apple.com/design/awards/">Meet this year’s finalists</a></p>  
