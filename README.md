@@ -46,9 +46,11 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/60EB2FB9-36EB-4CA6-B129-EB28AF262739/2048.jpeg" alt="news_image" width="100"/>  
+## Upcoming changes to age ratings in Australia and Vietnam  
 
-## Introducing the 2026 Apple Design Award finalists  
-
-###### May 18, 2026  
-<p>Every year, the Apple Design Awards recognize innovation, ingenuity, and technical achievement in app and game design. But they’ve also become something more: A moment to step back and celebrate the work of Apple developers across the community.</p><p><a href="https://developer.apple.com/design/awards/">Meet this year’s finalists</a></p>  
+###### May 21, 2026  
+<p>Starting June 18, 2026, age ratings on the App Store will be updated in Australia and Vietnam.</p><p><strong>Australia</strong></p><p>The 15+ age rating will no longer be available on the App Store in Australia. Apps currently rated 15+ with the following content descriptors will be updated to 16+:</p><ul>
+<li>Unrestricted web access</li>
+<li>Frequent medical or treatment information</li>
+<li>Loot boxes</li>
+</ul><p>The new rating will appear on your app’s product page in Australia. Please ensure your responses to the age rating questionnaire in App Store Connect accurately reflect your app’s content.</p><p><strong>Vietnam</strong></p><p>To align with Article 38 of Vietnam Decree 147, apps available on the App Store in Vietnam will require a region-specific age rating. Based on your age rating questionnaire responses in App Store Connect, your app will receive one of four ratings (00+(all ages), 12+, 16+, or 18+) which will appear on its product page in Vietnam. Additional details, including age rating values, will be available in App Store Connect and <a href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions">App Store Connect Help</a> on June 18.</p>  
