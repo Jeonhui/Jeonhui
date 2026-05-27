@@ -46,11 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Upcoming changes to age ratings in Australia and Vietnam  
+## Get ready with the latest beta releases  
 
-###### May 21, 2026  
-<p>Starting June 18, 2026, age ratings on the App Store will be updated in Australia and Vietnam.</p><p><strong>Australia</strong></p><p>The 15+ age rating will no longer be available on the App Store in Australia. Apps currently rated 15+ with the following content descriptors will be updated to 16+:</p><ul>
-<li>Unrestricted web access</li>
-<li>Frequent medical or treatment information</li>
-<li>Loot boxes</li>
-</ul><p>The new rating will appear on your app’s product page in Australia. Please ensure your responses to the age rating questionnaire in App Store Connect accurately reflect your app’s content.</p><p><strong>Vietnam</strong></p><p>To align with Article 38 of Vietnam Decree 147, apps available on the App Store in Vietnam will require a region-specific age rating. Based on your age rating questionnaire responses in App Store Connect, your app will receive one of four ratings (00+(all ages), 12+, 16+, or 18+) which will appear on its product page in Vietnam. Additional details, including age rating values, will be available in App Store Connect and <a href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions">App Store Connect Help</a> on June 18.</p>  
+###### May 26, 2026  
+<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and release notes</a></p><p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a beta OS</a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about sending feedback</a></p>  
