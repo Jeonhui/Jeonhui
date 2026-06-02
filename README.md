@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Get ready with the latest beta releases  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/5E343C1F-6774-4D7D-8277-BB78D2416D2A/2048.jpeg" alt="news_image" width="100"/>  
 
-###### May 26, 2026  
-<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and release notes</a></p><p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a beta OS</a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about sending feedback</a></p>  
+## All systems glow  
+
+###### June 01, 2026  
+<p>WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. </p><p><a href="https://developer.apple.com/wwdc26/">Learn more</a></p>  
