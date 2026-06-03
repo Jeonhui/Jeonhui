@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/5E343C1F-6774-4D7D-8277-BB78D2416D2A/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/DDF74A34-A01C-4F0C-933E-11075B933F45/2048.jpeg" alt="news_image" width="100"/>  
 
-## All systems glow  
+## Introducing the 2026 Apple Design Award winners  
 
-###### June 01, 2026  
-<p>WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free. </p><p><a href="https://developer.apple.com/wwdc26/">Learn more</a></p>  
+###### June 02, 2026  
+<p>Join us in celebrating these extraordinary apps and games.</p><p><a href="https://developer.apple.com/design/awards/">Meet the 2026 Apple Design Award winners</a></p>  
