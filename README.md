@@ -46,9 +46,13 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/94DF67FE-06BF-4349-85B7-819CF5DB7613/2048.jpeg" alt="news_image" width="100"/>  
+## Deprecation of the ImageCreator class  
 
-## Find out what's new for Apple developers  
-
-###### June 08, 2026  
-<p>Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible new features, including platform design refinements, powerful Apple Intelligence capabilities, and new AI development frameworks.</p><p><a href="https://developer.apple.com/whats-new/">Explore what’s new</a></p><p><a href="https://developer.apple.com/download/">Install the latest beta software</a></p><p><a href="https://developer.apple.com/documentation/">Browse documentation and sample code</a> </p>  
+###### June 11, 2026  
+<p>As we continue to refine our approach to image generation, the ImageCreator class is being discontinued and will no longer work in iOS 27, iPadOS 27, macOS 27, and visionOS 27 or later. When we introduced the Image Playground framework, we included the ImageCreator class as a way for apps to generate images programmatically using the on-device image generation model.</p><p><strong>If your app uses the ImageCreator class, here's what to expect:</strong></p><ul>
+<li><strong>Beta OS releases:</strong> Your code will continue to compile, but you’ll begin to receive warnings in Xcode. Apps using ImageCreator will not function in TestFlight builds and will cause a runtime error.</li>
+<li><strong>Public OS releases:</strong> Your code won’t compile, and any features in your app that use ImageCreator won’t work for people using your app.</li>
+</ul><p><strong>What you need to do:</strong></p><p>If your app uses ImageCreator, update your implementation before the public release of iOS 27, iPadOS 27, macOS 27, and visionOS 27 to ensure your image generation features continue to work and people using your app won't be affected.</p><ul>
+<li><strong>If your app uses ImageCreator:</strong> Transition to presenting the Image Playground sheet, which provides a consistent, system-managed image generation experience. Alternatively, you can integrate another image generation service of your choice.</li>
+<li><strong>If you’ve already migrated:</strong> No further action is required.</li>
+</ul><p><strong>Resources:</strong></p><p><a href="https://developer.apple.com/documentation/imageplayground">Learn more about the Image Playground framework</a></p><p><a href="https://developer.apple.com/videos/play/wwdc2026/375/">Create high-quality images using Image Playground</a></p>  
