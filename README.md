@@ -46,13 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-## Deprecation of the ImageCreator class  
+## New domain for Sign in with Apple and iCloud+ Hide My Email  
 
-###### June 11, 2026  
-<p>As we continue to refine our approach to image generation, the ImageCreator class is being discontinued and will no longer work in iOS 27, iPadOS 27, macOS 27, and visionOS 27 or later. When we introduced the Image Playground framework, we included the ImageCreator class as a way for apps to generate images programmatically using the on-device image generation model.</p><p><strong>If your app uses the ImageCreator class, here's what to expect:</strong></p><ul>
-<li><strong>Beta OS releases:</strong> Your code will continue to compile, but you’ll begin to receive warnings in Xcode. Apps using ImageCreator will not function in TestFlight builds and will cause a runtime error.</li>
-<li><strong>Public OS releases:</strong> Your code won’t compile, and any features in your app that use ImageCreator won’t work for people using your app.</li>
-</ul><p><strong>What you need to do:</strong></p><p>If your app uses ImageCreator, update your implementation before the public release of iOS 27, iPadOS 27, macOS 27, and visionOS 27 to ensure your image generation features continue to work and people using your app won't be affected.</p><ul>
-<li><strong>If your app uses ImageCreator:</strong> Transition to presenting the Image Playground sheet, which provides a consistent, system-managed image generation experience. Alternatively, you can integrate another image generation service of your choice.</li>
-<li><strong>If you’ve already migrated:</strong> No further action is required.</li>
-</ul><p><strong>Resources:</strong></p><p><a href="https://developer.apple.com/documentation/imageplayground">Learn more about the Image Playground framework</a></p><p><a href="https://developer.apple.com/videos/play/wwdc2026/375/">Create high-quality images using Image Playground</a></p>  
+###### June 15, 2026  
+<p>Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: <strong>private.icloud.com</strong>.</p><p>New addresses generated for both features will be issued on the new domain. For example:</p><ul>
+<li>Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on <code>private.icloud.com</code>.</li>
+</ul><ul>
+<li>iCloud+ Hide My Email addresses, previously issued on <code>icloud.com</code>, will be issued on <code>private.icloud.com</code>.</li>
+</ul><p>Existing addresses on the legacy domains will continue to work and forward mail to users without interruption.</p><h3>What you need to do</h3><ul>
+<li>Developers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code> domain in addition to existing domains: <code>privaterelay.appleid.com</code> and <code>icloud.com</code>.</li>
+</ul><ul>
+<li>Email service providers should update any domain-based filtering, suppression lists, or routing rules that explicitly enumerate relay domains so that the new <code>private.icloud.com</code> domain is included.</li>
+</ul><p><a href="https://developer.apple.com/sign-in-with-apple/">Learn more about Sign in with Apple</a></p><p><a href="https://developer.apple.com/documentation/signinwithapple/communicating-using-the-private-email-relay-service">Communicating using the Private Email Relay Service</a></p>  
