@@ -46,15 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## New domain for Sign in with Apple and iCloud+ Hide My Email  
+## Updated Apple Developer Program License Agreement now available  
 
-###### June 15, 2026  
-<p>Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: <strong>private.icloud.com</strong>.</p><p>New addresses generated for both features will be issued on the new domain. For example:</p><ul>
-<li>Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on <code>private.icloud.com</code>.</li>
-</ul><ul>
-<li>iCloud+ Hide My Email addresses, previously issued on <code>icloud.com</code>, will be issued on <code>private.icloud.com</code>.</li>
-</ul><p>Existing addresses on the legacy domains will continue to work and forward mail to users without interruption.</p><h3>What you need to do</h3><ul>
-<li>Developers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code> domain in addition to existing domains: <code>privaterelay.appleid.com</code> and <code>icloud.com</code>.</li>
-</ul><ul>
-<li>Email service providers should update any domain-based filtering, suppression lists, or routing rules that explicitly enumerate relay domains so that the new <code>private.icloud.com</code> domain is included.</li>
-</ul><p><a href="https://developer.apple.com/sign-in-with-apple/">Learn more about Sign in with Apple</a></p><p><a href="https://developer.apple.com/documentation/signinwithapple/communicating-using-the-private-email-relay-service">Communicating using the Private Email Relay Service</a></p>  
+###### June 18, 2026  
+<p>Attachment 12 of the <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Please review the changes and <a href="https://developer.apple.com/account/">sign in to your account</a> to accept the updated terms. </p><p>Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
