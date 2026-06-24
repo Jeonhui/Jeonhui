@@ -46,7 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated Apple Developer Program License Agreement now available  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/5903ECCD-08EE-4974-ACF6-141C8B5AAEB2/2048.jpeg" alt="news_image" width="100"/>  
 
-###### June 18, 2026  
-<p>Attachment 12 of the <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to specify terms for iOS apps in Brazil, including alternative distribution, alternative payments and out-of-app offers, and the Core Technology Commission. Please review the changes and <a href="https://developer.apple.com/account/">sign in to your account</a> to accept the updated terms. </p><p>Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
+## Design kits for iOS, iPadOS, and macOS 27 are here  
+
+###### June 23, 2026  
+<p>Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include:</p><ul>
+<li>Updates to Liquid Glass</li>
+<li>Expanded component and state support</li>
+<li>Naming changes to better align with code</li>
+<li>Improved resizing</li>
+<li>The addition of Dark Mode for macOS</li>
+</ul><p><a href="https://developer.apple.com/design/resources/">Download the design kits from the Apple Design Resources</a></p>  
