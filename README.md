@@ -46,15 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/5903ECCD-08EE-4974-ACF6-141C8B5AAEB2/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B6228AD-1089-4FB9-990A-0B5F3279A961/2048.jpeg" alt="news_image" width="100"/>  
 
-## Design kits for iOS, iPadOS, and macOS 27 are here  
+## Hello Developer: July 2026  
 
-###### June 23, 2026  
-<p>Apple design kits for Figma and Sketch are now available for iOS, iPadOS, and macOS 27. These include:</p><ul>
-<li>Updates to Liquid Glass</li>
-<li>Expanded component and state support</li>
-<li>Naming changes to better align with code</li>
-<li>Improved resizing</li>
-<li>The addition of Dark Mode for macOS</li>
-</ul><p><a href="https://developer.apple.com/design/resources/">Download the design kits from the Apple Design Resources</a></p>  
+###### July 07, 2026  
+<p>In this edition: </p><ul>
+<li>Try an all-new search tool on the Apple Developer website.</li>
+<li>Download design kits for Figma and Sketch.</li>
+<li>Explore the biggest updates from WWDC26 in new activities around the world and online.</li>
+<li>Read about Apple Design Award winners <em>grug</em> and <em>Cyberpunk 2077.</em></li>
+<li>Browse the latest updates to the 27 platform releases, documentation, sample code, and release notes.</li>
+</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/july26">Read now</a></p>  
