@@ -46,15 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3B6228AD-1089-4FB9-990A-0B5F3279A961/2048.jpeg" alt="news_image" width="100"/>  
+## Age rating questionnaire now includes social media questions  
 
-## Hello Developer: July 2026  
-
-###### July 07, 2026  
-<p>In this edition: </p><ul>
-<li>Try an all-new search tool on the Apple Developer website.</li>
-<li>Download design kits for Figma and Sketch.</li>
-<li>Explore the biggest updates from WWDC26 in new activities around the world and online.</li>
-<li>Read about Apple Design Award winners <em>grug</em> and <em>Cyberpunk 2077.</em></li>
-<li>Browse the latest updates to the 27 platform releases, documentation, sample code, and release notes.</li>
-</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/july26">Read now</a></p>  
+###### July 09, 2026  
+<p>As <a href="https://developer.apple.com/news/?id=0d2gpmml">announced in June</a>, new Time Allowances in iOS 27, iPadOS 27, and macOS 27, or later, give parents more flexible ways to manage the time their kids spend in apps across categories, including Entertainment, Games, and Social Media.</p><p>To support this, the age rating questionnaire in App Store Connect now includes questions about your app’s social media capabilities. A social media capability is defined as the ability to redistribute, amplify, or interact with user-generated content through a social feed or similar discovery method. The Time Allowance category for Social Media is based on whether your app or game offers social media capabilities, regardless of the app category selected in App Store Connect. Apps with these capabilities will display a new Social Media content descriptor on their App Store product page. If you indicate that your app or game includes social media capabilities but they are disabled for anyone under 13, it won’t be included in the Time Allowance category for Social Media for users under 13. For more details, refer to <a href="https://developer.apple.com/news/?id=0d2gpmml">Introducing Time Allowances</a>.</p><p>You can review and answer these questions starting today. As previously shared, beginning in September 2026, responses will be required when submitting new apps or updates to the App Store, or when submitting apps for notarization for alternative distribution.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/set-an-app-age-rating/">Set an app age rating</a></p><p><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions/">Age rating values and definitions</a></p>  
