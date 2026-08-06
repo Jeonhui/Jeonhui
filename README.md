@@ -45,4 +45,10 @@ Contact
                                                           
                                                                     
 -->                                                                    
-No news available.
+
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg" alt="news_image" width="100"/>  
+
+## Get ready for new creative assets on the App Store  
+
+###### August 05, 2026  
+<p>As we <a href="https://developer.apple.com/app-store/whats-new/#enhancements">announced in June</a>, Apple is introducing new ways to market your apps and games on the App Store. With these new assets, you can go beyond in-use visuals to highlight your brand, seasonal offerings, exciting new content, and more. Your creative assets can be used across the App Store in multiple places, including your product page header, search results, In-App Events, and more.</p><p>To help you plan your images and videos ahead of the fall launch, review our new App Store asset best practices, which include recommendations, as well as Figma, Photoshop, and Pixelmator design templates you can use to create captivating and compelling assets.</p><p><a href="http://developer.apple.com/app-store/asset-best-practices/">Learn about best practices and resources</a> </p>  
