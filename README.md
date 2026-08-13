@@ -46,9 +46,10 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/3F230FCC-4673-4A74-9BDA-2EF27C6C7D39/2048.jpeg" alt="news_image" width="100"/>  
+## Updates to age ratings for the Republic of Korea  
 
-## Get ready for new creative assets on the App Store  
-
-###### August 05, 2026  
-<p>As we <a href="https://developer.apple.com/app-store/whats-new/#enhancements">announced in June</a>, Apple is introducing new ways to market your apps and games on the App Store. With these new assets, you can go beyond in-use visuals to highlight your brand, seasonal offerings, exciting new content, and more. Your creative assets can be used across the App Store in multiple places, including your product page header, search results, In-App Events, and more.</p><p>To help you plan your images and videos ahead of the fall launch, review our new App Store asset best practices, which include recommendations, as well as Figma, Photoshop, and Pixelmator design templates you can use to create captivating and compelling assets.</p><p><a href="http://developer.apple.com/app-store/asset-best-practices/">Learn about best practices and resources</a> </p>  
+###### August 12, 2026  
+<p>Apple generates appropriate age ratings based on your answers to the age rating questionnaire in App Store Connect. In compliance with local regulatory requirements, apps in the Games and Entertainment categories distributed on the App Store in Korea receive a region-specific age rating based on these answers. We’re making two changes to age ratings in the Republic of Korea: one taking effect today and the other later this year. </p><p>First, starting today, if your app has received an official rating from the <a href="https://www.grac.or.kr/english/">Game Rating and Administration Committee</a> (GRAC), you can now override your app’s existing age rating for the App Store in Korea to any of the region-specific ratings (All, 12+, 15+, or 19+) by providing your GRAC Rating Classification Number (RCN) with your app’s next version submission.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/set-an-app-age-rating#override-region-specific-ratings">Learn how to override an age rating for the Republic of Korea</a></p><p>Second, starting in October 2026, two content descriptors will move from an age rating of All to 12+ for the App Store in Korea:</p><ul>
+<li>Infrequent profanity and crude humor</li>
+<li>Infrequent mature or suggestive themes</li>
+</ul><p><a href="https://developer.apple.com/help/app-store-connect/reference/age-ratings-values-and-definitions#republic-of-korea-age-rating-values">Learn more about the Republic of Korea age rating values</a></p>  
