@@ -46,10 +46,12 @@ Contact
                                                                     
 -->                                                                    
 
-## Updates to age ratings for the Republic of Korea  
+## Changes for apps in the European Union  
 
-###### August 12, 2026  
-<p>Apple generates appropriate age ratings based on your answers to the age rating questionnaire in App Store Connect. In compliance with local regulatory requirements, apps in the Games and Entertainment categories distributed on the App Store in Korea receive a region-specific age rating based on these answers. We’re making two changes to age ratings in the Republic of Korea: one taking effect today and the other later this year. </p><p>First, starting today, if your app has received an official rating from the <a href="https://www.grac.or.kr/english/">Game Rating and Administration Committee</a> (GRAC), you can now override your app’s existing age rating for the App Store in Korea to any of the region-specific ratings (All, 12+, 15+, or 19+) by providing your GRAC Rating Classification Number (RCN) with your app’s next version submission.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/set-an-app-age-rating#override-region-specific-ratings">Learn how to override an age rating for the Republic of Korea</a></p><p>Second, starting in October 2026, two content descriptors will move from an age rating of All to 12+ for the App Store in Korea:</p><ul>
-<li>Infrequent profanity and crude humor</li>
-<li>Infrequent mature or suggestive themes</li>
-</ul><p><a href="https://developer.apple.com/help/app-store-connect/reference/age-ratings-values-and-definitions#republic-of-korea-age-rating-values">Learn more about the Republic of Korea age rating values</a></p>  
+###### August 18, 2026  
+<p>Apple is making changes to its business terms for apps in the European Union, following close collaboration with the European Commission. The changes reduce complexity by moving every developer that distributes apps in the EU to a single set of business terms.</p><p>Under the new business terms, Apple will charge a commission on the sale of digital goods and services. The Core Technology Fee, a per-install fee for developers who achieve extraordinary scale, will be replaced by the Core Technology Commission, a simple 5% commission on digital transactions in apps distributed outside the App Store. The new terms also eliminate the Initial Acquisition Fee and Store Services Fee.</p><p>Members of the Apple Developer Program can review and agree to the updated terms today in the Apple Developer Program License Agreement. Some key updates, which go into effect October 1, 2026, include:</p><ul>
+<li>Adjusting commission rates across the App Store, alternative payments, and alternatively distributed apps.</li>
+<li>Allowing apps to offer alternative payment options alongside Apple In-App Purchase.</li>
+<li>Adding child safety protections for alternative payments on the App Store.</li>
+<li>Expanding the qualifications for developers to operate alternative app marketplaces and distribute their apps over the web.</li>
+</ul><p><a href="https://developer.apple.com/support/apps-in-the-eu/">Learn more about the changes</a></p><p>You can also request a <a href="https://developer.apple.com/events/view/upcoming-events?search=European">30-minute online appointment</a> to ask questions about these changes. </p>  
