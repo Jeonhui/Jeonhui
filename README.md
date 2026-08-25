@@ -46,12 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Changes for apps in the European Union  
+## Update: New domain for Sign in with Apple  
 
-###### August 18, 2026  
-<p>Apple is making changes to its business terms for apps in the European Union, following close collaboration with the European Commission. The changes reduce complexity by moving every developer that distributes apps in the EU to a single set of business terms.</p><p>Under the new business terms, Apple will charge a commission on the sale of digital goods and services. The Core Technology Fee, a per-install fee for developers who achieve extraordinary scale, will be replaced by the Core Technology Commission, a simple 5% commission on digital transactions in apps distributed outside the App Store. The new terms also eliminate the Initial Acquisition Fee and Store Services Fee.</p><p>Members of the Apple Developer Program can review and agree to the updated terms today in the Apple Developer Program License Agreement. Some key updates, which go into effect October 1, 2026, include:</p><ul>
-<li>Adjusting commission rates across the App Store, alternative payments, and alternatively distributed apps.</li>
-<li>Allowing apps to offer alternative payment options alongside Apple In-App Purchase.</li>
-<li>Adding child safety protections for alternative payments on the App Store.</li>
-<li>Expanding the qualifications for developers to operate alternative app marketplaces and distribute their apps over the web.</li>
-</ul><p><a href="https://developer.apple.com/support/apps-in-the-eu/">Learn more about the changes</a></p><p>You can also request a <a href="https://developer.apple.com/events/view/upcoming-events?search=European">30-minute online appointment</a> to ask questions about these changes. </p>  
+###### August 24, 2026  
+<p>Starting later this year, new Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on <code>private.icloud.com</code>. Existing addresses on <code>privaterelay.appleid.com</code> will continue to work and forward mail to users without interruption.</p><p>After further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on <code>icloud.com</code>. </p><h3>What you need to do </h3><p>Developers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code> domain in addition to the existing <code>privaterelay.appleid.com</code> domain.</p><p><a href="https://developer.apple.com/sign-in-with-apple/">Learn more about Sign in with Apple</a> </p><p><a href="https://developer.apple.com/documentation/signinwithapple/communicating-using-the-private-email-relay-service/">Communicating using the Private Email Relay Service</a> </p>  
