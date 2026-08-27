@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Update: New domain for Sign in with Apple  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/EA4CFEB6-BA9E-490A-9723-5962EA23BF53/2048.jpeg" alt="news_image" width="100"/>  
 
-###### August 24, 2026  
-<p>Starting later this year, new Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on <code>private.icloud.com</code>. Existing addresses on <code>privaterelay.appleid.com</code> will continue to work and forward mail to users without interruption.</p><p>After further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on <code>icloud.com</code>. </p><h3>What you need to do </h3><p>Developers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code> domain in addition to the existing <code>privaterelay.appleid.com</code> domain.</p><p><a href="https://developer.apple.com/sign-in-with-apple/">Learn more about Sign in with Apple</a> </p><p><a href="https://developer.apple.com/documentation/signinwithapple/communicating-using-the-private-email-relay-service/">Communicating using the Private Email Relay Service</a> </p>  
+## Surprise and shine  
+
+###### August 26, 2026  
+<p>Join us for a special Apple Event on September 9, at 10 a.m. PT.<br /><br />Watch on <a href="http://apple.com/">apple.com</a>, Apple TV, or YouTube Live.</p>  
