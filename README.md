@@ -46,14 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Upcoming changes to Rosetta support for Intel-based macOS apps  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg" alt="news_image" width="100"/>  
 
-###### September 01, 2026  
-<p>In 2020, we introduced Apple silicon for Mac computers, providing Rosetta as a translation layer during the transition period. <a href="https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment">As announced at WWDC last year</a>, we’re now concluding this transition.</p><p><strong>What this means for developers who have macOS apps:</strong></p><ul>
-<li>macOS 26.4 or later: Users may receive a system notification when launching apps that rely on Rosetta, alerting them to update to an Apple silicon native version. </li>
-<li>macOS 27: Final release to support Rosetta — Intel-only apps will no longer run on Mac computers with Apple silicon after this update.</li>
-</ul><p>Please note that Rosetta functionality for older, unmaintained gaming titles that rely on Intel-based frameworks will continue to be supported.</p><p><strong>What you need to do:</strong></p><p>To ensure your apps remain available and your users aren't interrupted by system notifications, add Apple silicon support to your apps now.</p><ul>
-<li><strong>If you haven’t updated your app yet:</strong> Begin the transition immediately. Build and distribute your app as a universal binary, which runs natively on both Apple silicon and Intel-based Mac computers.</li>
-</ul><p><a href="https://developer.apple.com/documentation/apple-silicon">Optimize your app for Apple silicon</a></p><p><a href="https://developer.apple.com/documentation/apple-silicon/porting-your-macos-apps-to-apple-silicon">Port your macOS apps to Apple silicon</a></p><p><a href="https://developer.apple.com/forums/">Visit the Apple Developer Forums</a> </p><ul>
-<li><strong>If you already offer an Apple silicon version:</strong> Reach out to your users directly. Encourage them to download and install your latest native version to avoid the notifications on macOS 26.4 or later and ensure the app runs when macOS 27 ships this fall.</li>
-</ul>  
+## Hello Developer: September 2026  
+
+###### September 02, 2026  
+<p>In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino.</p><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/september26">Read now</a></p>  
