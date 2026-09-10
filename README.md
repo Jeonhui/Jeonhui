@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg" alt="news_image" width="100"/>  
 
-## Hello Developer: September 2026  
+## Get ready for iPhone Duo  
 
-###### September 02, 2026  
-<p>In this edition: Get ready for a special Apple Event, take advantage of Analytics in App Store Connect, and sign up for new developer events in Cupertino.</p><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/september26">Read now</a></p>  
+###### September 09, 2026  
+<p>Start getting ready for iPhone Duo today. Watch new videos, sign up for Group Labs, and take part in Q&amp;As on the Apple Developer Forums.</p><p><a href="https://developer.apple.com/iphone-duo/">Explore now</a></p>  
