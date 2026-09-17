@@ -46,9 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1E836BD5-C933-4BC4-98D2-0ABF4777C9BA/2048.jpeg" alt="news_image" width="100"/>  
+## Get ready with the latest beta releases  
 
-## Get ready for iPhone Duo  
-
-###### September 09, 2026  
-<p>Start getting ready for iPhone Duo today. Watch new videos, sign up for Group Labs, and take part in Q&amp;As on the Apple Developer Forums.</p><p><a href="https://developer.apple.com/iphone-duo/">Explore now</a></p>  
+###### September 16, 2026  
+<p>The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.2, and watchOS 27.2 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.2 to take advantage of the advancements in the latest SDKs.</p><p><strong>Note about iOS 27.1 and iPhone Duo</strong></p><p>When iPhone Duo becomes available on October 23, it will run iOS 27.1. This version builds on the foundation of iOS 27 and introduces features that were purpose-built for the new foldable design.</p><p>Xcode 27.1 will add development support for iPhone Duo. This includes updated SDKs and a simulator that supports the all-new poses and orientations of iPhone Duo. A beta version will be available later this month.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and release notes</a></p><p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a beta OS</a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about sending feedback</a></p>  
