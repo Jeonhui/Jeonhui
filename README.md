@@ -46,7 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Get ready with the latest beta releases  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/DF24E0B0-3564-444A-B15A-344E3FDC834F/2048.jpeg" alt="news_image" width="100"/>  
 
-###### September 16, 2026  
-<p>The beta versions of iOS 27.2, iPadOS 27.2, macOS 27.2, tvOS 27.2, visionOS 27.2, and watchOS 27.2 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 27.2 to take advantage of the advancements in the latest SDKs.</p><p><strong>Note about iOS 27.1 and iPhone Duo</strong></p><p>When iPhone Duo becomes available on October 23, it will run iOS 27.1. This version builds on the foundation of iOS 27 and introduces features that were purpose-built for the new foldable design.</p><p>Xcode 27.1 will add development support for iPhone Duo. This includes updated SDKs and a simulator that supports the all-new poses and orientations of iPhone Duo. A beta version will be available later this month.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and release notes</a></p><p><a href="https://developer.apple.com/documentation/xcode/testing-a-beta-os">Learn about testing a beta OS</a></p><p><a href="https://developer.apple.com/bug-reporting/">Learn about sending feedback</a></p>  
+## Build for iPhone Duo with new resources  
+
+###### September 18, 2026  
+<p>Get Xcode 27.1 beta.</p><p><a href="https://developer.apple.com/news/releases/">View downloads and release notes</a></p><p>Get Figma and Sketch design kits for iPhone Duo from the Apple Design Resources.</p><p><a href="https://developer.apple.com/design/resources/">Download design kits from the Apple Design Resources</a></p><p>Sign up for workshops around the world to learn how to optimize your app and build customized experiences for all screen sizes.</p><p><a href="https://developer.apple.com/events/view/upcoming-events?search=workshop">Explore workshops</a></p><p>Find out more about preparing your app for iPhone Duo.</p><p><a href="https://developer.apple.com/iphone-duo/">Learn more about iPhone Duo</a></p>  
