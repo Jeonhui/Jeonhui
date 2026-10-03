@@ -46,19 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-## Upcoming expiration of Developer ID Certification Authority (Sub-CA)  
+## Updates to Full Disk Access in macOS  
 
-###### October 01, 2026  
-<p>The original Developer ID Certification Authority (Sub-CA) expires on February 1, 2027. Certificates issued by this authority will stop working on that date.</p><p>What to do:</p><ol>
-<li><strong>Check if you’re affected.</strong> In <a href="https://developer.apple.com/account/resources">Certificates, Identifiers &amp; Profiles</a>, look for certificates expiring on or before February 1, 2027. See <a href="https://developer.apple.com/help/account/certificates/replace-developer-id-certificates">Replacing Developer ID certificates issued from the previous Sub-CA</a> for help identifying your certificate’s authority.</li>
-</ol><ol start="2">
-<li><strong>Create a new certificate.</strong> Generate a replacement from the current authority, Developer ID Certification Authority (G2). Note: This certificate authority is valid until 2031, but the certificates issued by the certificate authority expire annually and must be renewed each year.</li>
-</ol><ul>
-<li>If you’re using Xcode 11.4 or earlier, update before creating your new certificate.</li>
-<li>When prompted for a Developer ID Certificate Intermediary, select G2 Sub-CA. Choosing another option may issue a certificate that also expires in 2027.</li>
-</ul><ol start="3">
-<li><strong>Re-sign based on what you distribute.</strong></li>
-</ol><ul>
-<li>Installer packages (.pkg): Starting February 1, 2027, .pkg files signed with an affected certificate will no longer install. Re-sign all packages with your new certificate before this date.</li>
-<li>Mac apps: Previously signed and notarized Mac software (with a secure timestamp) will keep working—no action needed. For future updates, sign with your new certificate and include a secure timestamp for notarization.</li>
-</ul>  
+###### October 02, 2026  
+<p>We give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users’ private data. Full Disk Access largely sidesteps these controls in order to allow backup apps to function properly on the Mac. Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history—without users’ full knowledge and understanding. For communication apps, this can also compromise the privacy of the people users are communicating with.</p><p>Going forward, we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action. Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy.</p>  
