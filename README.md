@@ -46,7 +46,16 @@ Contact
                                                                     
 -->                                                                    
 
-## Updates to Full Disk Access in macOS  
+## Prepare and submit your apps for iPhone Duo  
 
-###### October 02, 2026  
-<p>We give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users’ private data. Full Disk Access largely sidesteps these controls in order to allow backup apps to function properly on the Mac. Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history—without users’ full knowledge and understanding. For communication apps, this can also compromise the privacy of the people users are communicating with.</p><p>Going forward, we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action. Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy.</p>  
+###### October 05, 2026  
+<p>iPhone Duo will be available to customers starting October 23, 2026. To get your apps and games ready today, you can:</p><p><strong>Build or recompile with Xcode</strong></p><p>Recompile existing apps with Xcode 27.1, which adds development support for iPhone Duo. Use Device Hub to visualize how your apps behave on iPhone Duo across all poses and orientations.</p><ul>
+<li><a href="https://developer.apple.com/xcode/">Get the latest version of Xcode</a></li>
+<li><a href="https://developer.apple.com/events/view/upcoming-events?topics=iphone-duo&amp;formats=inperson">Register to attend an iPhone Duo workshop</a></li>
+<li><a href="https://developer.apple.com/iphone-duo/">Learn more about iPhone Duo</a></li>
+</ul><p><strong>Prepare your App Store product page assets</strong></p><p>Updated screenshot and app preview specifications are now available for the latest Apple devices, including iPhone Duo, so you can showcase your app at its best across orientations. Explore design guidance and get downloadable templates to help you build your App Store assets, including new product page headers and search result assets, as well as your app previews, screenshots, and In-App Events. Visualize how your screenshots, product page headers, and other metadata look on your product page on iPhone Duo with the new preview tool in App Store Connect.</p><ul>
+<li><a href="https://developer.apple.com/app-store/asset-best-practices/">Get design guidance and templates</a></li>
+<li><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/manage-your-app-store-assets">Manage your App Store assets</a></li>
+<li><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/app-preview-specifications">View app preview specifications</a></li>
+<li><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications">View screenshot specifications</a></li>
+</ul><p><strong>Submit your app</strong></p><p>You can submit your iPhone Duo optimized apps and games in App Store Connect today. Starting April 2027, any apps or games submitted will need to include screenshots for iPhone Duo.</p><p><a href="https://developer.apple.com/app-store/submitting/">Learn about submitting</a> </p>  
