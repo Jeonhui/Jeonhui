@@ -46,16 +46,16 @@ Contact
                                                                     
 -->                                                                    
 
-## Prepare and submit your apps for iPhone Duo  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/9BD5744A-C297-4581-98EC-3078A03BC6A0/2048.jpeg" alt="news_image" width="100"/>  
 
-###### October 05, 2026  
-<p>iPhone Duo will be available to customers starting October 23, 2026. To get your apps and games ready today, you can:</p><p><strong>Build or recompile with Xcode</strong></p><p>Recompile existing apps with Xcode 27.1, which adds development support for iPhone Duo. Use Device Hub to visualize how your apps behave on iPhone Duo across all poses and orientations.</p><ul>
-<li><a href="https://developer.apple.com/xcode/">Get the latest version of Xcode</a></li>
-<li><a href="https://developer.apple.com/events/view/upcoming-events?topics=iphone-duo&amp;formats=inperson">Register to attend an iPhone Duo workshop</a></li>
-<li><a href="https://developer.apple.com/iphone-duo/">Learn more about iPhone Duo</a></li>
-</ul><p><strong>Prepare your App Store product page assets</strong></p><p>Updated screenshot and app preview specifications are now available for the latest Apple devices, including iPhone Duo, so you can showcase your app at its best across orientations. Explore design guidance and get downloadable templates to help you build your App Store assets, including new product page headers and search result assets, as well as your app previews, screenshots, and In-App Events. Visualize how your screenshots, product page headers, and other metadata look on your product page on iPhone Duo with the new preview tool in App Store Connect.</p><ul>
-<li><a href="https://developer.apple.com/app-store/asset-best-practices/">Get design guidance and templates</a></li>
-<li><a href="https://developer.apple.com/help/app-store-connect/manage-app-information/manage-your-app-store-assets">Manage your App Store assets</a></li>
-<li><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/app-preview-specifications">View app preview specifications</a></li>
-<li><a href="https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications">View screenshot specifications</a></li>
-</ul><p><strong>Submit your app</strong></p><p>You can submit your iPhone Duo optimized apps and games in App Store Connect today. Starting April 2027, any apps or games submitted will need to include screenshots for iPhone Duo.</p><p><a href="https://developer.apple.com/app-store/submitting/">Learn about submitting</a> </p>  
+## Hello Developer: October 2026  
+
+###### October 06, 2026  
+<p>In this edition: </p>
+<ul>
+<li>Get tips on submitting your iPhone Duo app.</li>
+<li>Sign up for new iPhone Duo Group Labs. </li>
+<li>Join us for a new developer event on speed and efficiency.</li>
+<li>Explore localized documentation.</li>
+<li>Browse new App Store creative assets.</li>
+</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/october26">Read now</a></p>  
