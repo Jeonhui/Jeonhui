@@ -46,16 +46,16 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/9BD5744A-C297-4581-98EC-3078A03BC6A0/2048.jpeg" alt="news_image" width="100"/>  
+## Updated Apple Developer Program License Agreement now available  
 
-## Hello Developer: October 2026  
-
-###### October 06, 2026  
-<p>In this edition: </p>
-<ul>
-<li>Get tips on submitting your iPhone Duo app.</li>
-<li>Sign up for new iPhone Duo Group Labs. </li>
-<li>Join us for a new developer event on speed and efficiency.</li>
-<li>Explore localized documentation.</li>
-<li>Browse new App Store creative assets.</li>
-</ul><p><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/hello/october26">Read now</a></p>  
+###### October 13, 2026  
+<p>The <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to support new features and updated policies, and to provide clarification. Please review the changes below and <a href="https://developer.apple.com/account/">sign in to your account</a> to accept the updated terms. </p><ul>
+<li>Section 3.2: Updated security and related requirements for using Apple’s software and services.</li>
+<li>Definitions, Section 3.3.8(j):  Specified terms for use of the Live Assistance API.</li>
+<li>Definitions, Section 3.3.8(k): Specified terms for use of the App Replacement Entitlement.</li>
+<li>Definitions, Definitions, Sections 6.4, 6.4.1, 6.4.2: Specified terms for iOS app widgets on Apple HomeView and availability of iOS apps for CarPlay on Apple HomeView.</li>
+<li>Schedule 2, Sections 1.1(b), 1.2(d)(iv), 3.1, 3.8(c): Specified terms for offering multiple seats for a subscription through Group Purchases.</li>
+<li>Schedule 3, Sections 1.1(b), 1.2(d)(iii), 3.1, 3.8(a), 3.8(c): Specified terms for offering subscriptions to Apple Business and Apple School Manager organizations through Volume Purchasing.</li>
+<li>Schedule 2, Section 3.3(a); Schedule 3, Section 3.3(a): Specifies that Apple will report legally required information such as tax, sales, and contact details to tax authorities.</li>
+<li>Schedule 2, Section 3.3(b); Schedule 3, Section 3.3(b): Restricts the use of any customer tax information shared by Apple with developers to only those purposes mandated by law.</li>
+</ul><p>Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
