@@ -46,16 +46,15 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated Apple Developer Program License Agreement now available  
+## Updated App Review Guidelines are now available  
 
-###### October 13, 2026  
-<p>The <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to support new features and updated policies, and to provide clarification. Please review the changes below and <a href="https://developer.apple.com/account/">sign in to your account</a> to accept the updated terms. </p><ul>
-<li>Section 3.2: Updated security and related requirements for using Apple’s software and services.</li>
-<li>Definitions, Section 3.3.8(j):  Specified terms for use of the Live Assistance API.</li>
-<li>Definitions, Section 3.3.8(k): Specified terms for use of the App Replacement Entitlement.</li>
-<li>Definitions, Definitions, Sections 6.4, 6.4.1, 6.4.2: Specified terms for iOS app widgets on Apple HomeView and availability of iOS apps for CarPlay on Apple HomeView.</li>
-<li>Schedule 2, Sections 1.1(b), 1.2(d)(iv), 3.1, 3.8(c): Specified terms for offering multiple seats for a subscription through Group Purchases.</li>
-<li>Schedule 3, Sections 1.1(b), 1.2(d)(iii), 3.1, 3.8(a), 3.8(c): Specified terms for offering subscriptions to Apple Business and Apple School Manager organizations through Volume Purchasing.</li>
-<li>Schedule 2, Section 3.3(a); Schedule 3, Section 3.3(a): Specifies that Apple will report legally required information such as tax, sales, and contact details to tax authorities.</li>
-<li>Schedule 2, Section 3.3(b); Schedule 3, Section 3.3(b): Restricts the use of any customer tax information shared by Apple with developers to only those purposes mandated by law.</li>
-</ul><p>Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
+###### October 16, 2026  
+<p>The <a href="https://developer.apple.com/app-store/review/guidelines/">App Review Guidelines</a> have been revised to support new features, updated policies, and to provide clarification.</p><h3>App Review Guidelines</h3><ul>
+<li>Before You Submit: Added links to additional documentation. </li>
+<li>1.2: Clarified app content and app types that are subject to this guideline, and potential Developer Code of Conduct violation for failing to implement appropriate safeguards or remediating violations after notice.</li>
+<li>2.3.14: New guideline covering creative assets.</li>
+<li>2.5.19: New guideline clarifies long-standing policy on hidden, dormant, or undocumented features, formerly covered in Guideline 2.3.1.</li>
+<li>3.1.1(a): Removed bullet point on Music Streaming Services Entitlements, which is now incorporated in the bullet point on StoreKit External Purchase Link Entitlements; clarified that links may be provided to a permitted destination.</li>
+<li>5: Clarified that apps found to facilitate human trafficking and/or the exploitation of children will be removed from the App Store and blocked from alternative distribution.</li>
+<li>After You Submit: Added links to additional documentation. </li>
+</ul><p>Translations of the updated guidelines will be available on the <a href="https://developer.apple.com/app-store/review/guidelines/">Apple Developer website</a> within one month.</p>  
