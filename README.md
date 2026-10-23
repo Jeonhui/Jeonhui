@@ -46,15 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-## Updated App Review Guidelines are now available  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/89A63B85-1520-4050-BFEF-15CD0483A16C/2048.jpeg" alt="news_image" width="100"/>  
 
-###### October 16, 2026  
-<p>The <a href="https://developer.apple.com/app-store/review/guidelines/">App Review Guidelines</a> have been revised to support new features, updated policies, and to provide clarification.</p><h3>App Review Guidelines</h3><ul>
-<li>Before You Submit: Added links to additional documentation. </li>
-<li>1.2: Clarified app content and app types that are subject to this guideline, and potential Developer Code of Conduct violation for failing to implement appropriate safeguards or remediating violations after notice.</li>
-<li>2.3.14: New guideline covering creative assets.</li>
-<li>2.5.19: New guideline clarifies long-standing policy on hidden, dormant, or undocumented features, formerly covered in Guideline 2.3.1.</li>
-<li>3.1.1(a): Removed bullet point on Music Streaming Services Entitlements, which is now incorporated in the bullet point on StoreKit External Purchase Link Entitlements; clarified that links may be provided to a permitted destination.</li>
-<li>5: Clarified that apps found to facilitate human trafficking and/or the exploitation of children will be removed from the App Store and blocked from alternative distribution.</li>
-<li>After You Submit: Added links to additional documentation. </li>
-</ul><p>Translations of the updated guidelines will be available on the <a href="https://developer.apple.com/app-store/review/guidelines/">Apple Developer website</a> within one month.</p>  
+## Offer your subscriptions to businesses and schools  
+
+###### October 22, 2026  
+<p>Starting today, organizations and educational institutions can purchase subscriptions to apps in volume with multiseat purchasing. This makes it easy for organizations that use Apple Business or Apple School Manager to discover and purchase your auto-renewable subscription. Organizations can purchase the seats they need through a single Apple In-App Purchase, then assign and manage those seats using their existing device management tools. Organizations can also add and remove seats at any time depending on their needs.</p><p>Multiseat purchasing for subscriptions is enabled by default in App Store Connect, unless you’ve previously adjusted this setting. This makes your subscription available for purchase through Apple Business, Apple School Manager, and the App Store. You can change these availability options at any time.</p><p><strong>Note about multiseat purchasing and groups</strong> </p><p>Multiseat purchasing in App Store Connect also supports subscriptions for groups. Beginning October 28, 2026, you can configure and test your group purchases in your Sandbox Apple Account to prepare for launch. This winter, group purchases will be available on the App Store, letting people buy multiple seats for your subscription and invite others to access it.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-purchase-options-for-auto-renewable-subscriptions">Manage purchase options for an auto-renewable subscription</a> </p><p><a href="https://developer.apple.com/documentation/appstoreconnectapi/configuring-multi-seat-subscriptions-for-organizations">App Store Connect API: Configuring multiseat subscriptions for organizations</a></p><p><a href="https://developer.apple.com/videos/play/wwdc2026/391/">Offer subscriptions to groups and organizations</a></p>  
