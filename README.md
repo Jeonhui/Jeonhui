@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/89A63B85-1520-4050-BFEF-15CD0483A16C/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E57D1B55-40D6-4688-A08C-2C366CB8D2EC/2048.jpeg" alt="news_image" width="100"/>  
 
-## Offer your subscriptions to businesses and schools  
+## Say hello to Touch on Mac  
 
-###### October 22, 2026  
-<p>Starting today, organizations and educational institutions can purchase subscriptions to apps in volume with multiseat purchasing. This makes it easy for organizations that use Apple Business or Apple School Manager to discover and purchase your auto-renewable subscription. Organizations can purchase the seats they need through a single Apple In-App Purchase, then assign and manage those seats using their existing device management tools. Organizations can also add and remove seats at any time depending on their needs.</p><p>Multiseat purchasing for subscriptions is enabled by default in App Store Connect, unless you’ve previously adjusted this setting. This makes your subscription available for purchase through Apple Business, Apple School Manager, and the App Store. You can change these availability options at any time.</p><p><strong>Note about multiseat purchasing and groups</strong> </p><p>Multiseat purchasing in App Store Connect also supports subscriptions for groups. Starting in November 2026, you can configure and test your group purchases in your Sandbox Apple Account to prepare for launch. This winter, group purchases will be available on the App Store, letting people buy multiple seats for your subscription and invite others to access it.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-purchase-options-for-auto-renewable-subscriptions">Manage purchase options for an auto-renewable subscription</a> </p><p><a href="https://developer.apple.com/documentation/appstoreconnectapi/configuring-multi-seat-subscriptions-for-organizations">App Store Connect API: Configuring multiseat subscriptions for organizations</a></p><p><a href="https://developer.apple.com/videos/play/wwdc2026/391/">Offer subscriptions to groups and organizations</a></p>  
+###### October 28, 2026  
+<p>Start getting ready for MacBook Pro with Touch today. Watch new developer videos, sign up for Group Labs, and check out new articles and resources.</p><p><a href="https://developer.apple.com/touch-on-mac/">Explore now</a></p>  
