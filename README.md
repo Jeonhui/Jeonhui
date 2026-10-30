@@ -46,9 +46,7 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E57D1B55-40D6-4688-A08C-2C366CB8D2EC/2048.jpeg" alt="news_image" width="100"/>  
+## Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS  
 
-## Say hello to Touch on Mac  
-
-###### October 28, 2026  
-<p>Start getting ready for MacBook Pro with Touch today. Watch new developer videos, sign up for Group Labs, and check out new articles and resources.</p><p><a href="https://developer.apple.com/touch-on-mac/">Explore now</a></p>  
+###### October 29, 2026  
+<p>Apple is making changes to the Taiwan storefront of the App Store, following discussions with the Taiwan Fair Trade Commission.</p><p>As of October 31, 2026, the commission rate for standard Apple In-App Purchase and paid app transactions will be 26% on the Taiwan storefront of the App Store on iOS and iPadOS. Currently, that rate is 30%. </p><p>Signing the updated terms by October 31 is not required to receive the benefit of these commission rate changes starting that date.</p><p>The <a href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/">Apple Developer Program License Agreement</a> has been revised to support updated policies. You can <a href="https://developer.apple.com/account/">sign in to your account</a> to accept the updated terms.</p><p><a href="https://developer.apple.com/tw/support/adjustments-to-the-taiwan-storefront/">查看繁體中文翻譯</a></p><p>Translations of the updated agreement will be available on the <a href="https://developer.apple.com/support/terms/">Apple Developer website</a> within one month.</p>  
