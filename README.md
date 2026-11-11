@@ -46,9 +46,9 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1A6769C9-CED6-4B3D-B1C8-2FD454186C72/2048.jpeg" alt="news_image" width="100"/>  
+<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1C4143E7-E040-48E6-B9DA-0D5278138EE1/2048.jpeg" alt="news_image" width="100"/>  
 
-## Now available: Retention messages for subscriptions  
+## Announcing the Swift Student Challenge 2027  
 
-###### November 04, 2026  
-<p>Reduce cancellations with retention messages that remind subscribers of your subscription's value as they decide whether to cancel. Retention messages appear in the cancellation flow and can include text, images, or a special offer.</p><p>In App Store Connect, you can configure retention messages for your auto-renewable subscriptions, including subscriber eligibility and the wait time between offers. With the <a href="https://developer.apple.com/documentation/retentionmessaging/">Retention Messaging API</a>, you can choose which message to show each subscriber based on their subscription details. API access is available by request.</p><p><a href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/configure-retention-messages/">Configure retention messages in App Store Connect</a></p><p><a href="https://developer.apple.com/app-store/subscriptions/">Learn about auto-renewable subscriptions</a></p>  
+###### November 10, 2026  
+<p>Apple is proud to support the next generation of developers, creators, and entrepreneurs with the Swift Student Challenge. The Challenge gives students from around the world the opportunity to showcase their creativity and app development skills.</p><p>The Challenge is open February 8–28, 2027. And new this year, students can submit an app for any Apple platform. </p><p><a href="https://developer.apple.com/swift-student-challenge/">Learn more</a></p>  
