@@ -46,9 +46,19 @@ Contact
                                                                     
 -->                                                                    
 
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/1C4143E7-E040-48E6-B9DA-0D5278138EE1/2048.jpeg" alt="news_image" width="100"/>  
+## Updates to Device Control and Data Access, and Full Disk Access in macOS  
 
-## Announcing the Swift Student Challenge 2027  
-
-###### November 10, 2026  
-<p>Apple is proud to support the next generation of developers, creators, and entrepreneurs with the Swift Student Challenge. The Challenge gives students from around the world the opportunity to showcase their creativity and app development skills.</p><p>The Challenge is open February 8–28, 2027. And new this year, students can submit an app for any Apple platform. </p><p><a href="https://developer.apple.com/swift-student-challenge/">Learn more</a></p>  
+###### November 16, 2026  
+<p>For decades, Mac computers have been loved by creators and developers who build, automate, and innovate using cutting-edge technologies and tools. We want to keep empowering our community in these pursuits, while helping our users stay safe and in control of their data and privacy. In macOS 27.3 beta 2 today, we’re introducing increased transparency and more granular options for two of the APIs: Device Control and Data Access, and Full Disk Access. Before granting an app such extraordinary access, users should understand that it puts all of the data on their Mac at risk. These changes are designed to help them do that and to empower them to make informed decisions about their own data and privacy. The changes include:</p><ul>
+<li>A split of Device Control and Data Access into two settings: (1) System &amp; App Protection Override, and (2) Accessibility </li>
+</ul><ul>
+<li>A single method for granting permissions by selecting the requesting app from a list</li>
+</ul><ul>
+<li>Guidance to encourage users to grant access to just the specific apps (for System &amp; App Protection Override) or folders (for Full Disk Access) that are required for their workflows</li>
+</ul><ul>
+<li>Increased visibility into the wide range of data apps will receive access to or control over if full permissions are granted</li>
+</ul><ul>
+<li>The option for users to configure apps to ask every time they require access</li>
+</ul><ul>
+<li>A transparency indicator when a requesting app is controlling another app using System &amp; App Protection Override</li>
+</ul><p>Developers should be prepared to adjust how they onboard users and make sure their apps can gracefully handle having access to only a limited set of folders or apps when utilizing these APIs. Users will see these updates when approving new app permission requests. All app permissions previously granted by users will remain in effect.</p><p>Developers of apps that use Full Disk Access for disk backup, or the new Accessibility settings to provide assistive technologies, can request entitlements to deliver the same experience for new installations that they offered before macOS 27.3. Currently, known apps aren’t affected and will keep the same experience without an entitlement. Additional entitlement details will be available soon.</p>  
